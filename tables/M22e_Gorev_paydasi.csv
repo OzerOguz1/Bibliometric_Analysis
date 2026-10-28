@@ -1,0 +1,76 @@
+﻿Hedef,UT,PY,DT,Gorev_sinifi,Gerekce,Gozlenen_sonuc
+T1,WOS:000651881500001,2021,Article,A,Experimental fetal sheep model,False
+T1,WOS:001772884100013,2026,Article,A,Transabdominal oximetry validated in a pregnant animal model,False
+T1,WOS:000671179600029,2021,Article,O,"Fetal movement detection, hypoxia named as motivation",False
+T1,WOS:001085214200066,2023,Article,O,Fetal ECG R peak detection,False
+T1,WOS:001160649900002,2024,Article,O,Signal quality assessment of fetal ECG,False
+T1,WOS:001593276000001,2025,Article,O,Fetal arrhythmia detection,False
+T1,WOS:001738870900001,2026,Article,O,Fetal ECG extraction,False
+T1,WOS:000275998200001,2010,Article,P,Normal and hypoxic fetuses classified,False
+T1,WOS:000392059700298,2010,Proceedings Paper,P,Hypoxia detection during labour,False
+T1,WOS:000296332300012,2011,Proceedings Paper,P,Normal and compromised fetuses separated,False
+T1,WOS:000330995200005,2013,Article,P,FHR classification evaluated against Apgar score,True
+T1,WOS:000350044702199,2014,Proceedings Paper,P,Classification of fetuses as healthy or not from entropy rates,False
+T1,WOS:000361933600031,2015,Article; Proceedings Paper,P,Recognition of fetal distress and wellbeing,False
+T1,WOS:000371717202065,2015,Proceedings Paper,P,Intrapartum acidosis detection,True
+T1,WOS:000371717202155,2015,Proceedings Paper,P,Intrapartum FHR classification for acidosis detection,False
+T1,WOS:000394812800001,2017,Article,P,Perinatal hypoxia detection,False
+T1,WOS:000401096700010,2017,Article,P,Fetal acidosis detection,True
+T1,WOS:000423997100010,2017,Article,P,FHR classification with classes defined by pH,True
+T1,WOS:000458801900009,2017,Proceedings Paper,P,CNN classification tested with a pH threshold,True
+T1,WOS:000434520900004,2018,Article,P,Acidosis prediction,True
+T1,WOS:000442602700043,2018,Article,P,Fetal state classification for asphyxia prediction,False
+T1,WOS:000442978700008,2018,Article,P,Hypoxia prognostic model,False
+T1,WOS:000511448500096,2018,Proceedings Paper,P,Hypoxia detection,False
+T1,WOS:000511448500100,2018,Proceedings Paper,P,Features for hypoxia detection,False
+T1,WOS:000445094400025,2019,Proceedings Paper,P,Normal and abnormal FHR classification for hypoxia detection,False
+T1,WOS:000482780300001,2019,Article,P,Hypoxia prediction with classes defined by pH,True
+T1,WOS:000539409800028,2020,Article,P,Hypoxia prediction,False
+T1,WOS:000764066600265,2021,Proceedings Paper,P,Fetal compromise classification,False
+T1,WOS:000747680300001,2022,Article,P,Acidaemia prediction,True
+T1,WOS:000810442900015,2022,Article,P,"FHR classification with data augmentation, hypoxia risk as target",False
+T1,WOS:000963119500001,2023,Article,P,Perinatal asphyxia prediction,False
+T1,WOS:000982356000001,2023,Article,P,Abnormality classification of digitised CTG,False
+T1,WOS:001133788303150,2023,Proceedings Paper,P,Hypoxia classification with an Apgar benchmark,True
+T1,WOS:001326807700051,2024,Proceedings Paper,P,CTG classification with prognosis labels,True
+T1,WOS:001616239000149,2024,Proceedings Paper,P,Fetal acidosis prediction,True
+T1,WOS:001389132800059,2025,Article,P,Classification of cases with and without acidaemia,True
+T1,WOS:001485390500001,2025,Article,P,Hypoxia prediction,False
+T1,WOS:001486737000001,2025,Article,P,Prediction of adverse outcome from antepartum CTG,False
+T1,WOS:001542032600027,2025,Article,P,Fetal distress classification,False
+T1,WOS:001552863100036,2025,Article,P,Classification of fetal breathing episodes including distress,False
+T1,WOS:001687366000087,2025,Proceedings Paper,P,Fetal distress prediction with self supervised learning,False
+T1,WOS:001646016800001,2026,Article,P,Chronic fetal distress diagnosis,False
+T1,WOS:001749863400001,2026,Article,P,Intrapartum risk assessment for hypoxia,False
+T1,WOS:001852612800045,2026,Article,P,Fetal compromise detection,True
+T1,WOS:000484377700017,2019,Review,R,Review,False
+T1,WOS:001470415300020,2024,Article,R,Mini review published as an article,False
+T1,WOS:001425046000001,2025,Article,R,Report on monitoring opportunities published as an article,False
+T1,WOS:001685465100001,2026,Review,R,Review,False
+T2,WOS:000600940300001,2020,Article,O,Fetal heart rate detection,False
+T2,WOS:001272597200001,2024,Article,O,EHG segmentation,False
+T2,WOS:001735223400001,2026,Article,O,Labour detection from contraction bursts,False
+T2,WOS:000876691300050,2013,Proceedings Paper,P,Preterm birth or delivery timing prediction,True
+T2,WOS:000345518100037,2014,Proceedings Paper,P,Preterm birth or delivery timing prediction,True
+T2,WOS:000345518700022,2014,Proceedings Paper,P,Preterm birth or delivery timing prediction,True
+T2,WOS:000352618900014,2014,Proceedings Paper,P,Preterm birth or delivery timing prediction,True
+T2,WOS:000375170000006,2016,Article,P,Preterm birth or delivery timing prediction,True
+T2,WOS:000416507300022,2018,Article,P,Preterm birth or delivery timing prediction,True
+T2,WOS:000447193800002,2018,Article,P,Preterm birth or delivery timing prediction,True
+T2,WOS:000495606500045,2019,Proceedings Paper,P,Preterm birth or delivery timing prediction,True
+T2,WOS:000529790700141,2019,Proceedings Paper,P,Preterm birth or delivery timing prediction,True
+T2,WOS:000691634400002,2021,Article,P,Preterm birth or delivery timing prediction,True
+T2,WOS:001223047200016,2021,Article,P,Preterm birth or delivery timing prediction,True
+T2,WOS:000783278900003,2022,Article,P,Preterm birth or delivery timing prediction,True
+T2,WOS:000819832600007,2022,Article,P,Preterm birth or delivery timing prediction,True
+T2,WOS:001307001000002,2022,Article,P,Preterm birth or delivery timing prediction,True
+T2,WOS:000917777600001,2023,Article,P,Preterm birth or delivery timing prediction,True
+T2,WOS:000963557700001,2023,Article,P,Preterm birth or delivery timing prediction,True
+T2,WOS:000972542400001,2023,Article,P,Preterm birth or delivery timing prediction,True
+T2,WOS:001504136600014,2025,Article,P,Preterm birth or delivery timing prediction,True
+T2,WOS:001554496000001,2025,Article,P,Preterm birth or delivery timing prediction,True
+T2,WOS:000710786300006,2022,Review,R,Review,False
+T2,WOS:001619307500001,2026,Article,R,Review,False
+T2,WOS:001685465100001,2026,Review,R,Review,False
+T2,WOS:001782745800001,2026,Review,R,Review,False
+T2,WOS:001848142400001,2026,Review,R,Review,False

@@ -1,0 +1,26 @@
+﻿İlk_yazar,Başlık,Kaynak,Yıl,TC,DI,TC_yillik
+"Warrick, Philip A. ve ark.",Classification of Normal and Hypoxic Fetuses From Systems Modeling of Intrapartum Cardiotocography,IEEE TRANSACTIONS ON BIOMEDICAL ENGINEERING,2010,89,10.1109/TBME.2009.2035818,5.24
+"Ferrario, Manuela ve ark.",Complexity analysis of the fetal heart rate variability: early identification of severe intrauterine growth-restricted fetuses,MEDICAL & BIOLOGICAL ENGINEERING & COMPUTING,2009,83,10.1007/s11517-009-0502-8,4.61
+"Fergus, Paul ve ark.",Advanced artificial neural network classification for detecting preterm births using EHG records,NEUROCOMPUTING,2016,71,10.1016/j.neucom.2015.01.107,6.45
+"Spilka, Jiri ve ark.",Sparse Support Vector Machine for Intrapartum Fetal Heart Rate Classification,IEEE JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS,2017,68,10.1109/JBHI.2016.2546312,6.8
+"Fergus, Paul ve ark.",Machine learning ensemble modelling to classify caesarean section and vaginal delivery types using Cardiotocography traces,COMPUTERS IN BIOLOGY AND MEDICINE,2018,68,10.1016/j.compbiomed.2017.12.002,7.56
+"Comert, Zafer ve ark.",Prognostic model based on image-based time-frequency features and genetic algorithm for fetal hypoxia assessment,COMPUTERS IN BIOLOGY AND MEDICINE,2018,61,10.1016/j.compbiomed.2018.06.003,6.78
+"Comert, Zafer ve ark.",Fetal Hypoxia Detection Based on Deep Convolutional Neural Network with Transfer Learning Approach,SOFTWARE ENGINEERING AND ALGORITHMS IN INTELLIGENT SYSTEMS,2019,60,10.1007/978-3-319-91186-1_25,7.5
+"Ponsiglione, Alfonso Maria ve ark.",A Comprehensive Review of Techniques for Processing and Analyzing Fetal Heart Rate Signals,SENSORS,2021,55,10.3390/s21186136,9.17
+"Georgoulas, George ve ark.",Investigating pH based evaluation of fetal heart rate (FHR) recordings,HEALTH AND TECHNOLOGY,2017,55,10.1007/s12553-017-0201-7,5.5
+"Krupa, Abel Jaba Deva ve ark.",An IoMT enabled deep learning framework for automatic detection of fetal QRS: A solution to remote prenatal care,JOURNAL OF KING SAUD UNIVERSITY-COMPUTER AND INFORMATION SCIENCES,2022,48,10.1016/j.jksuci.2022.07.002,9.6
+"Comert, Zafer ve ark.",Prediction of intrapartum fetal hypoxia considering feature selection algorithms and machine learning models,HEALTH INFORMATION SCIENCE AND SYSTEMS,2019,46,10.1007/s13755-019-0079-z,5.75
+"Georgieva, Antoniya ve ark.","Computer-based intrapartum fetal monitoring and beyond: A review of the 2nd Workshop on Signal Processing and Monitoring in Labor (October 2017, Oxford, UK)",ACTA OBSTETRICIA ET GYNECOLOGICA SCANDINAVICA,2019,45,10.1111/aogs.13639,5.62
+"Zhao, Zhidong ve ark.",A Comprehensive Feature Analysis of the Fetal Heart Rate Signal for the Intelligent Assessment of Fetal State,JOURNAL OF CLINICAL MEDICINE,2018,41,10.3390/jcm7080223,4.56
+"Xu, Jinshan ve ark.",Review on EHG signal analysis and its application in preterm diagnosis,BIOMEDICAL SIGNAL PROCESSING AND CONTROL,2022,39,10.1016/j.bspc.2021.103231,7.8
+"Alsaggaf, Wafaa ve ark.",Predicting fetal hypoxia using common spatial pattern and machine learning from cardiotocography signals,APPLIED ACOUSTICS,2020,37,10.1016/j.apacoust.2020.107429,5.29
+"Liu, Linkun ve ark.","Wearable Sensors, Data Processing, and Artificial Intelligence in Pregnancy Monitoring: A Review",SENSORS,2024,34,10.3390/s24196426,11.33
+"Jezewski, Michal ve ark.",Analysis of Extracted Cardiotocographic Signal Features to Improve Automated Prediction of Fetal Outcome,BIOCYBERNETICS AND BIOMEDICAL ENGINEERING,2010,33,,1.94
+"Abel, Jaba Deva Krupa ve ark.",A comprehensive survey on signal processing and machine learning techniques for non-invasive fetal ECG extraction,MULTIMEDIA TOOLS AND APPLICATIONS,2023,33,10.1007/s11042-022-13391-0,8.25
+"Fergus, Paul ve ark.",Modelling Segmented Cardiotocography Time-Series Signals Using One-Dimensional Convolutional Neural Networks for the Early Detection of Abnormal Birth Outcomes,IEEE TRANSACTIONS ON EMERGING TOPICS IN COMPUTATIONAL INTELLIGENCE,2021,30,10.1109/TETCI.2020.3020061,5.0
+"Lobo Marques, Joao Alexandre ve ark.",IoT-Based Smart Health System for Ambulatory Maternal and Fetal Monitoring,IEEE INTERNET OF THINGS JOURNAL,2021,30,10.1109/JIOT.2020.3037759,5.0
+"Xu, Jinshan ve ark.",Network Theory Based EHG Signal Analysis and its Application in Preterm Prediction,IEEE JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS,2022,28,10.1109/JBHI.2022.3140427,5.6
+"Spairani, Edoardo ve ark.",A deep learning mixed-data type approach for the classification of FHR signals,FRONTIERS IN BIOENGINEERING AND BIOTECHNOLOGY,2022,27,10.3389/fbioe.2022.887549,5.4
+"Altini, Marco ve ark.",Detection of Fetal Kicks Using Body-Worn Accelerometers During Pregnancy: Trade-offs Between Sensors Number and Positioning,2016 38TH ANNUAL INTERNATIONAL CONFERENCE OF THE IEEE ENGINEERING IN MEDICINE AND BIOLOGY SOCIETY (EMBC),2016,27,,2.45
+"Huque, A. S. A. ve ark.",HMM-based Supervised Machine Learning Framework for the Detection of fECG R-R Peak Locations,IRBM,2019,26,10.1016/j.irbm.2019.04.004,3.25
+"Warrick, P ve ark.",Neural network based detection of fetal heart rate patterns,"PROCEEDINGS OF THE INTERNATIONAL JOINT CONFERENCE ON NEURAL NETWORKS (IJCNN), VOLS 1-5",2005,24,,1.09

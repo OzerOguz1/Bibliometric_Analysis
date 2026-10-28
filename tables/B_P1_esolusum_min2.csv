@@ -1,0 +1,24 @@
+﻿Öğe,Sıklık,Derece,Bağlantı_gücü,Küme,Derece_merkeziliği,Arasındalık
+fetal heart rate,13,15,26,1,0.6818,0.1677
+fetal monitoring,5,8,11,1,0.3636,0.0262
+cardiotocography,4,10,14,1,0.4545,0.0147
+wavelet transform,4,11,15,1,0.5,0.0739
+machine learning,3,9,10,1,0.4091,0.009
+signal processing,3,9,10,1,0.4091,0.0218
+support vector machine,3,3,5,1,0.1364,0.0007
+heart rate signal,2,7,7,1,0.3182,0.0025
+artificial neural network,10,15,30,2,0.6818,0.2041
+classification,6,13,21,2,0.5909,0.0757
+preterm birth,4,7,13,2,0.3182,0.0079
+time series analysis,4,7,8,2,0.3182,0.028
+electrohysterography,3,4,9,2,0.1818,0.0
+feature extraction,3,9,10,2,0.4091,0.0364
+uterine emg signals,2,3,4,2,0.1364,0.0
+fetal electrocardiography,7,9,18,3,0.4091,0.0647
+fuzzy logic,4,8,11,3,0.3636,0.033
+blind source separation,3,7,11,3,0.3182,0.0257
+blind source extraction,2,5,7,3,0.2273,0.012
+electrocardiography,2,6,7,3,0.2727,0.0141
+fetal electrocardiogram extraction,2,4,4,3,0.1818,0.0
+nonlinear analysis,5,7,7,4,0.3182,0.0391
+fetal heart rate variability,2,2,2,4,0.0909,0.0

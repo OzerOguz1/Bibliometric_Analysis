@@ -1,0 +1,908 @@
+﻿Yazar,NP,TC,h_index,g_index,m_index,Ilk_Yil,Son_Yil
+"Spilka, Jiri",7,212,6,7,0.46,2014,2019
+"Comert, Zafer",7,207,4,7,0.4,2017,2020
+"Kocamaz, Adnan Fatih",6,170,3,6,0.3,2017,2019
+"Abry, Patrice",6,157,5,6,0.38,2014,2019
+"Magenes, Giovanni",6,133,4,6,0.15,2000,2023
+"Signorini, Maria Gabriella",6,133,4,6,0.15,2000,2023
+"Fergus, Paul",5,181,4,5,0.31,2014,2021
+"Warrick, Philip A.",5,133,4,5,0.18,2005,2025
+"Doret, Muriel",5,112,5,5,0.38,2014,2018
+"Vullings, Rik",5,102,5,5,0.62,2019,2025
+"Chen, Zhenqin",5,80,3,5,0.6,2022,2026
+"Djuric, Petar M.",5,73,4,5,0.27,2012,2025
+"Jezewski, Michal",5,64,4,5,0.2,2007,2015
+"Wrobel, Janusz",5,64,4,5,0.2,2007,2015
+"Zhao, Zhidong",5,50,3,5,0.33,2018,2026
+"Lu, Yu",5,5,2,2,0.5,2023,2025
+"Leonarduzzi, Roberto",4,104,4,4,0.33,2015,2018
+"Pustelnik, Nelly",4,104,4,4,0.33,2015,2018
+"Hussain, Abir Jaffar",4,86,3,4,0.23,2014,2016
+"Xu, Jinshan",4,80,3,4,0.6,2022,2026
+"Deng, Yanjun",4,47,2,4,0.22,2018,2026
+"Martinek, Radek",4,14,2,3,0.67,2024,2026
+"Nsugbe, Ejay",4,13,2,3,0.33,2021,2023
+"Ghiasi, Soheil",4,8,2,2,0.5,2023,2026
+"Qian, Weitai",4,8,2,2,0.5,2023,2026
+"Chudacek, Vaclav",3,123,3,3,0.3,2017,2019
+"Hamilton, Emily F.",3,117,3,3,0.14,2005,2010
+"Dobbins, Chelsea",3,83,3,3,0.23,2014,2016
+"Idowu, Ibrahim Olatunji",3,83,3,3,0.23,2014,2016
+"Frecon, Jordan",3,81,3,3,0.25,2015,2017
+"Frasch, Martin G.",3,75,3,3,0.38,2019,2025
+"Georgieva, Antoniya",3,63,3,3,0.38,2019,2025
+"Czabanski, Robert",3,48,3,3,0.18,2010,2015
+"Altini, Marco",3,44,3,3,0.27,2016,2018
+"Penders, Julien",3,44,3,3,0.27,2016,2018
+"Rooijakkers, Michiel J.",3,44,3,3,0.27,2016,2018
+"Koehl, Ludovic",3,41,3,3,0.38,2019,2024
+"Zeng, Xianyi",3,41,3,3,0.38,2019,2024
+"de Jonckheere, Julien",3,41,3,3,0.38,2019,2024
+"Marzbanrad, Faezeh",3,31,3,3,0.33,2018,2025
+"Krishnan, Anita N.",3,29,2,3,0.67,2024,2025
+"Ye, Yalan",3,20,2,3,0.1,2007,2009
+"Jezewski, Janusz",3,16,2,3,0.11,2008,2015
+"Al-Askar, Haya",3,15,3,3,0.23,2014,2014
+"Quirk, J. Gerald",3,13,2,3,0.13,2012,2023
+"Samuel, Oluwarotimi Williams",3,12,2,3,0.33,2021,2023
+"Kahankova, Radana Vilimkova",3,10,1,3,0.33,2024,2026
+"Jiao, Pengfei",3,9,2,3,0.5,2023,2025
+"Zhang, Yefei",3,6,1,2,0.33,2024,2026
+"Kasap, Begum",3,5,1,2,0.33,2024,2026
+"Reyes-Lagos, Jose Javier",3,5,1,2,0.25,2023,2026
+"Saffarpour, Mahya",3,5,1,2,0.33,2024,2026
+"Vali, Kourosh",3,5,1,2,0.33,2024,2026
+"Yang, Ziduo",3,0,0,0,0.0,2025,2026
+"Chalmers, Carl",2,98,2,2,0.22,2018,2021
+"Kearney, Robert E.",2,93,2,2,0.12,2010,2010
+"Precup, Doina",2,93,2,2,0.12,2010,2010
+"Dhanalakshmi, Samiappan",2,81,2,2,0.4,2022,2023
+"Lhotska, Lenka",2,76,2,2,0.2,2017,2017
+"Amato, Francesco",2,74,2,2,0.33,2021,2022
+"Ponsiglione, Alfonso Maria",2,74,2,2,0.33,2021,2022
+"Romano, Maria",2,74,2,2,0.33,2021,2022
+"Shen, Guojiang",2,67,2,2,0.4,2022,2022
+"Ugwumadu, Austin",2,60,2,2,0.25,2019,2025
+"Lou, Hangxiao",2,52,2,2,0.4,2022,2022
+"Nunes, Ines",2,50,2,2,0.25,2019,2023
+"Horoba, Krzysztof",2,48,2,2,0.1,2007,2010
+"Khandoker, Ahsan H.",2,38,2,2,0.2,2017,2024
+"Boudet, Samuel",2,36,2,2,0.4,2022,2025
+"Grieten, Lars",2,36,2,2,0.18,2016,2017
+"Tartare, Guillaume",2,36,2,2,0.25,2019,2020
+"Zhao, Xin",2,36,2,2,0.25,2019,2020
+"de l'Aulnoit, Agathe Houze",2,36,2,2,0.4,2022,2025
+"do Vale Madeiro, Joao Paulo",2,36,2,2,0.33,2021,2022
+"Spairani, Edoardo",2,33,2,2,0.4,2022,2023
+"Liang, Sensong",2,29,2,2,0.33,2021,2021
+"Peng, Jiansheng",2,29,2,2,0.33,2021,2021
+"Xu, Yong",2,29,2,2,0.33,2021,2021
+"Leski, Jacek",2,23,2,2,0.1,2007,2015
+"van Laar, Judith O. E. H.",2,23,1,2,0.14,2020,2026
+"Clifford, Gari D.",2,22,2,2,0.22,2018,2020
+"Hall-Clifford, Rachel",2,22,2,2,0.22,2018,2020
+"Rohloff, Peter",2,22,2,2,0.22,2018,2020
+"Vaidyanathan, Ravi",2,22,1,2,0.33,2024,2025
+"Valderrama, Camilo E.",2,22,2,2,0.22,2018,2020
+"Romero-Morales, Hector",2,20,1,2,0.25,2023,2026
+"Song, Kehui",2,18,2,2,0.25,2019,2024
+"Arduini, D",2,17,2,2,0.07,2000,2001
+"Rossetti, Elisa",2,17,2,2,0.2,2017,2018
+"Pini, Nicolo",2,15,1,2,0.14,2020,2025
+"Wang, Lu",2,15,2,2,0.33,2021,2022
+"Ding, Yan",2,14,1,2,0.25,2023,2026
+"Gong, Li",2,14,1,2,0.25,2023,2026
+"Liu, Chengyu",2,14,1,2,0.11,2018,2024
+"Xu, Li-Hua",2,14,1,2,0.25,2023,2026
+"Zou, Zhuo",2,14,1,2,0.25,2023,2026
+"Gomes, Danielo G.",2,13,2,2,0.33,2021,2022
+"Govindan, Rathinaswamy",2,13,1,2,0.33,2024,2025
+"Hao, Dongmei",2,13,2,2,0.33,2021,2024
+"Hsu, Ko-Tsung",2,13,1,2,0.33,2024,2025
+"Jaros, Rene",2,13,2,2,0.67,2024,2024
+"Nguyen, Trong N.",2,13,1,2,0.33,2024,2025
+"Shekhar, Raj",2,13,1,2,0.33,2024,2025
+"da Silva Neto, Manuel Goncalves",2,13,2,2,0.33,2021,2022
+"Jumphoo, Talit",2,12,2,2,1.0,2025,2025
+"Kokkhunthod, Kasidit",2,12,2,2,1.0,2025,2025
+"Nimkuntod, Porntip",2,12,2,2,1.0,2025,2025
+"Pathonsuwan, Wongsathon",2,12,2,2,1.0,2025,2025
+"Rattanasak, Atcharawan",2,12,2,2,1.0,2025,2025
+"Tongdee, Pattama",2,12,2,2,1.0,2025,2025
+"Uthansakul, Monthippa",2,12,2,2,1.0,2025,2025
+"Uthansakul, Peerapong",2,12,2,2,1.0,2025,2025
+"Feng, Guanchao",2,11,2,2,0.25,2019,2023
+"Dankul, Watcharee",2,10,2,2,0.5,2023,2025
+"Ouypornkochagorn, Taweechai",2,10,2,2,0.5,2023,2025
+"Ratanasathien, Lawan",2,10,2,2,0.5,2023,2025
+"Zhou, Zhixin",2,9,2,2,0.5,2023,2024
+"Obajemu, Olusayo",2,8,1,2,0.17,2021,2021
+"Pani, Danilo",2,8,1,2,0.14,2020,2023
+"Sanusi, Ibrahim",2,8,1,2,0.17,2021,2021
+"Castro, Luisa",2,6,1,2,0.25,2023,2025
+"Johnson, S",2,5,1,2,0.04,2003,2005
+"Vijila, CKS",2,5,1,2,0.04,2003,2005
+"Nandini, K.",2,4,2,2,1.0,2025,2025
+"Rahimunnisa, K.",2,4,2,2,1.0,2025,2025
+"Chen, Jia",2,3,1,1,0.05,2007,2008
+"Girault, Jean-Marc",2,3,1,1,0.06,2011,2015
+"Kouame, Denis",2,3,1,1,0.06,2011,2015
+"Perrotin, Franck",2,3,1,1,0.06,2011,2015
+"Ribes, Sophie",2,3,1,1,0.06,2011,2015
+"Yu, Zichang",2,3,1,1,0.25,2023,2024
+"Zhang, Zhi-Lin",2,3,1,1,0.05,2007,2008
+"Li, Xiaoqing",2,2,1,1,0.33,2024,2025
+"Abarca-Castro, Eric Alonso",2,1,1,1,1.0,2026,2026
+"Barnova, Katerina",2,1,1,1,1.0,2026,2026
+"Fu, Xianghua",2,1,1,1,0.25,2023,2025
+"Portillo-Rodriguez, Otniel",2,1,1,1,1.0,2026,2026
+"Anzanpour, Arman",2,0,0,0,0.0,2025,2026
+"Axelin, Anna",2,0,0,0,0.0,2025,2026
+"Bai, Jieyun",2,0,0,0,0.0,2026,2026
+"Boopathi, A. Manivanna",2,0,0,0,0.0,2018,2018
+"Cai, Pufan",2,0,0,0,0.0,2025,2025
+"Liang, Yaqi",2,0,0,0,0.0,2026,2026
+"Likitalo, Susanna",2,0,0,0,0.0,2025,2026
+"Lin, Yiwei",2,0,0,0,0.0,2024,2026
+"Lu, Yaosheng",2,0,0,0,0.0,2026,2026
+"Shi, Shijie",2,0,0,0,0.0,2025,2025
+"Velappan, Subha",2,0,0,0,0.0,2018,2018
+"Yang, Zhang",2,0,0,0,0.0,2018,2018
+"Ferrario, Manuela",1,83,1,1,0.06,2009,2009
+"Selvaraj, Malarvizhi",1,68,1,1,0.11,2018,2018
+"Subha, Velappan",1,61,1,1,0.11,2018,2018
+"Cesarelli, Giuseppe",1,55,1,1,0.17,2021,2021
+"Cosentino, Carlo",1,55,1,1,0.17,2021,2021
+"Georgoulas, George",1,55,1,1,0.1,2017,2017
+"Karvelis, Petros",1,55,1,1,0.1,2017,2017
+"Stylios, Chrysostomos D.",1,55,1,1,0.1,2017,2017
+"Krupa, Abel Jaba Deva",1,48,1,1,0.2,2022,2022
+"Lai, Khin Wee",1,48,1,1,0.2,2022,2022
+"Tan, Yongqi",1,48,1,1,0.2,2022,2022
+"Wu, Xiang",1,48,1,1,0.2,2022,2022
+"Budak, Umit",1,46,1,1,0.12,2019,2019
+"Sengur, Abdulkadir",1,46,1,1,0.12,2019,2019
+"Kok, Rene",1,45,1,1,0.12,2019,2019
+"Lear, Christopher A.",1,45,1,1,0.12,2019,2019
+"Lemmens, Sebastiaan N.",1,45,1,1,0.12,2019,2019
+"Papageorghiou, Aris T.",1,45,1,1,0.12,2019,2019
+"Quirk, Gerald J.",1,45,1,1,0.12,2019,2019
+"Redman, Christopher W. G.",1,45,1,1,0.12,2019,2019
+"Schifrin, Barry",1,45,1,1,0.12,2019,2019
+"Zhang, Yang",1,41,1,1,0.11,2018,2018
+"Pumir, Alain",1,39,1,1,0.2,2022,2022
+"Alsaggaf, Wafaa",1,37,1,1,0.14,2020,2020
+"Brdesee, Hani",1,37,1,1,0.14,2020,2020
+"Nour, Majid",1,37,1,1,0.14,2020,2020
+"Polat, Kemal",1,37,1,1,0.14,2020,2020
+"Togacar, Mesut",1,37,1,1,0.14,2020,2020
+"Chen, Tupei",1,34,1,1,0.33,2024,2024
+"Fan, Junzhe",1,34,1,1,0.33,2024,2024
+"Huang, Hui",1,34,1,1,0.33,2024,2024
+"Liu, Linkun",1,34,1,1,0.33,2024,2024
+"Liu, Wenpeng",1,34,1,1,0.33,2024,2024
+"Luo, Kailong",1,34,1,1,0.33,2024,2024
+"Pu, Yujian",1,34,1,1,0.33,2024,2024
+"Puiu, Poenar Daniel",1,34,1,1,0.33,2024,2024
+"Wang, Yiwen",1,34,1,1,0.33,2024,2024
+"Yan, Yu",1,34,1,1,0.33,2024,2024
+"Zhao, Guanlin",1,34,1,1,0.33,2024,2024
+"Abel, Jaba Deva Krupa",1,33,1,1,0.25,2023,2023
+"Kumar, R.",1,33,1,1,0.25,2023,2023
+"Fortino, Giancarlo",1,30,1,1,0.17,2021,2021
+"Gravina, Raffaele",1,30,1,1,0.17,2021,2021
+"Han, Tao",1,30,1,1,0.17,2021,2021
+"Lira Neto, Aloisio Vieira",1,30,1,1,0.17,2021,2021
+"Lisboa, Paulo",1,30,1,1,0.17,2021,2021
+"Lobo Marques, Joao Alexandre",1,30,1,1,0.17,2021,2021
+"Montanez, Casimiro Curbelo",1,30,1,1,0.17,2021,2021
+"Pineles, Beth",1,30,1,1,0.17,2021,2021
+"Reilly, Denis",1,30,1,1,0.17,2021,2021
+"Wu, Wanqing",1,30,1,1,0.17,2021,2021
+"de Albuquerque, Victor Hugo C.",1,30,1,1,0.17,2021,2021
+"Huang, Wei",1,28,1,1,0.2,2022,2022
+"Wang, Mengting",1,28,1,1,0.2,2022,2022
+"Zhang, Jinpeng",1,28,1,1,0.2,2022,2022
+"Zhang, Meiyu",1,28,1,1,0.2,2022,2022
+"Daniele, Beniamino",1,27,1,1,0.2,2022,2022
+"Eskofier, Bjoern",1,27,1,1,0.09,2016,2016
+"Geusens, Nele",1,27,1,1,0.09,2016,2016
+"Gradl, Stefan",1,27,1,1,0.09,2016,2016
+"Mullan, Patrick",1,27,1,1,0.09,2016,2016
+"Ahmed, K. I.",1,26,1,1,0.12,2019,2019
+"Huque, A. S. A.",1,26,1,1,0.12,2019,2019
+"Mostafa, R.",1,26,1,1,0.12,2019,2019
+"Mukit, M. A.",1,26,1,1,0.12,2019,2019
+"Borowska, Marta",1,24,1,1,0.11,2018,2018
+"Brzozowska, Ewelina",1,24,1,1,0.11,2018,2018
+"Kuc, Pawel",1,24,1,1,0.11,2018,2018
+"Laudanski, Piotr",1,24,1,1,0.11,2018,2018
+"Macieszczak, M",1,24,1,1,0.05,2005,2005
+"Mosdorf, Romuald",1,24,1,1,0.11,2018,2018
+"Oczeretko, Edward",1,24,1,1,0.11,2018,2018
+"Ansari, Irshad Ahmad",1,23,1,1,0.25,2023,2023
+"Bajaj, Varun",1,23,1,1,0.25,2023,2023
+"Boashash, Boualem",1,23,1,1,0.17,2021,2021
+"Brodtmann, Amy",1,23,1,1,0.17,2021,2021
+"Colditz, Paul B.",1,23,1,1,0.17,2021,2021
+"Ding, Bo",1,23,1,1,0.2,2022,2022
+"Dong, Shiying",1,23,1,1,0.17,2021,2021
+"East, Christine E.",1,23,1,1,0.17,2021,2021
+"Gu, Xiaoxia",1,23,1,1,0.2,2022,2022
+"Gupta, Kapil",1,23,1,1,0.25,2023,2023
+"Khlif, Mohamed S.",1,23,1,1,0.17,2021,2021
+"Layeghy, Siamak",1,23,1,1,0.17,2021,2021
+"Liu, Hong",1,23,1,1,0.2,2022,2022
+"Mesbah, Mostefa",1,23,1,1,0.17,2021,2021
+"Qiu, Liang",1,23,1,1,0.2,2022,2022
+"Shen, Yang",1,23,1,1,0.2,2022,2022
+"Xu, Jingyi",1,23,1,1,0.2,2022,2022
+"Yu, Hong",1,23,1,1,0.2,2022,2022
+"Zeng, Wenru",1,23,1,1,0.2,2022,2022
+"Zhao, Chao",1,23,1,1,0.2,2022,2022
+"Alnuaimi, Saeed Abdulrahman",1,22,1,1,0.1,2017,2017
+"Jimaa, Shihab",1,22,1,1,0.1,2017,2017
+"Alhamidi, Machmud R.",1,21,1,1,0.2,2022,2022
+"Bursa, Miroslav",1,21,1,1,0.1,2017,2017
+"Catelli, Danilo S.",1,21,1,1,0.33,2024,2024
+"Demailly, Romain",1,21,1,1,0.2,2022,2022
+"Fuentealba, Patricio",1,21,1,1,0.12,2019,2019
+"Ghosh, Abhishek K.",1,21,1,1,0.33,2024,2024
+"Illanes, Alfredo",1,21,1,1,0.12,2019,2019
+"Jatmiko, Wisnu",1,21,1,1,0.2,2022,2022
+Kurnianingsih,1,21,1,1,0.2,2022,2022
+"Lo, Fang-Wen",1,21,1,1,0.17,2021,2021
+"Ma'sum, M. Anwar",1,21,1,1,0.2,2022,2022
+"Nowlan, Niamh C.",1,21,1,1,0.33,2024,2024
+"Ortmeier, Frank",1,21,1,1,0.12,2019,2019
+"Peyrodie, Laurent",1,21,1,1,0.2,2022,2022
+"Puspitasari, Riskyana Dewi Intan",1,21,1,1,0.2,2022,2022
+"Ting, Yu-Ching",1,21,1,1,0.17,2021,2021
+"Tsai, Pei-Yun",1,21,1,1,0.17,2021,2021
+"Wilson, Samuel",1,21,1,1,0.33,2024,2024
+"de L'Aulnoit, Denis Houze",1,21,1,1,0.2,2022,2022
+"Bi, Xiuli",1,19,1,1,0.25,2023,2023
+"Gao, Xinbo",1,19,1,1,0.25,2023,2023
+"Hu, Shuai",1,19,1,1,0.25,2023,2023
+"Javier Reyes-Lagos, Jose",1,19,1,1,0.25,2023,2023
+"Li, Weisheng",1,19,1,1,0.25,2023,2023
+"Mina-Paz, Yecid",1,19,1,1,0.25,2023,2023
+"Mora-Martinez, Rodrigo",1,19,1,1,0.25,2023,2023
+"Munoz-Montes de Oca, Jenny Noemi",1,19,1,1,0.25,2023,2023
+"Qiao, Lihong",1,19,1,1,0.25,2023,2023
+"Xiao, Bin",1,19,1,1,0.25,2023,2023
+"Ye, Hemin",1,19,1,1,0.17,2021,2021
+"Erickson, Elise N.",1,18,1,1,0.25,2023,2023
+"Gotlieb, Neta",1,18,1,1,0.25,2023,2023
+"Jacobs, Peter G.",1,18,1,1,0.25,2023,2023
+"Mosquera-Lopez, Clara",1,18,1,1,0.25,2023,2023
+"Myatt, Leslie",1,18,1,1,0.25,2023,2023
+"Pereira, Leonardo M.",1,18,1,1,0.25,2023,2023
+"Hoyer, D.",1,17,1,1,0.09,2016,2016
+Lu Ke,1,17,1,1,0.06,2009,2009
+"Schleussner, E.",1,17,1,1,0.09,2016,2016
+"Schneider, U.",1,17,1,1,0.09,2016,2016
+"Sheu, Phillip C-Y",1,17,1,1,0.06,2009,2009
+"Tetschke, F.",1,17,1,1,0.09,2016,2016
+Wang Gang,1,17,1,1,0.06,2009,2009
+"Witte, O. W.",1,17,1,1,0.09,2016,2016
+Zeng JiaZhi,1,17,1,1,0.06,2009,2009
+"Al Sakaji, Raghad",1,16,1,1,0.33,2024,2024
+"Funamoto, Kiyoe",1,16,1,1,0.33,2024,2024
+"Kimura, Yoshitaka",1,16,1,1,0.33,2024,2024
+"Wahbah, Maisam",1,16,1,1,0.33,2024,2024
+"Widatalla, Namareq",1,16,1,1,0.33,2024,2024
+"Zitouni, M. Sami",1,16,1,1,0.33,2024,2024
+"Abtahi, Farhad",1,15,1,1,0.5,2025,2025
+"Cerutti, S",1,15,1,1,0.04,2000,2000
+"Daumer, Martin",1,15,1,1,0.5,2025,2025
+"Gacek, Adam",1,15,1,1,0.05,2007,2007
+"Gold, Nathan",1,15,1,1,0.17,2021,2021
+"Henzel, Norbert",1,15,1,1,0.05,2007,2007
+"Herry, Christophe L.",1,15,1,1,0.17,2021,2021
+"Holzmann, Malin",1,15,1,1,0.5,2025,2025
+"Lederer, Christian",1,15,1,1,0.5,2025,2025
+"Lovers, Aimee",1,15,1,1,0.5,2025,2025
+"Petersen, Olav Bjorn",1,15,1,1,0.5,2025,2025
+"Sassi, R",1,15,1,1,0.04,2000,2000
+"Tolladay, John",1,15,1,1,0.5,2025,2025
+"Wang, Xiaogang",1,15,1,1,0.17,2021,2021
+"Yang, Liu",1,15,1,1,0.5,2025,2025
+"de Angelis, A",1,15,1,1,0.04,2000,2000
+"Aziz, Sumair",1,14,1,1,0.12,2019,2019
+"Bezerianos, A",1,14,1,1,0.04,1999,1999
+"Bhide, Amar",1,14,1,1,0.33,2024,2024
+"Butt, Aqsa",1,14,1,1,0.12,2019,2019
+"Ibraheem, Sara",1,14,1,1,0.12,2019,2019
+"Katebi, Nasim",1,14,1,1,0.11,2018,2018
+"Khan, Muhammad Umar",1,14,1,1,0.12,2019,2019
+"Liu, Becky",1,14,1,1,0.33,2024,2024
+"Martinez, Boris",1,14,1,1,0.11,2018,2018
+"Papadimitriou, S",1,14,1,1,0.04,1999,1999
+"Pegorie, Claire",1,14,1,1,0.33,2024,2024
+"Shahid, Hira",1,14,1,1,0.12,2019,2019
+"Stroux, Lisa",1,14,1,1,0.11,2018,2018
+"Thilaganathan, Basky",1,14,1,1,0.33,2024,2024
+"Das, Sahana",1,13,1,1,0.25,2023,2023
+"Dong, Bo",1,13,1,1,0.2,2022,2022
+"Liu, Haifeng",1,13,1,1,0.2,2022,2022
+"Ma, Yaping",1,13,1,1,0.11,2018,2018
+"Mukherjee, Himadri",1,13,1,1,0.25,2023,2023
+"Roy, Kaushik",1,13,1,1,0.25,2023,2023
+"Saha, Chanchal Kumar",1,13,1,1,0.25,2023,2023
+"Sun, Jinwei",1,13,1,1,0.11,2018,2018
+"Wei, Guo",1,13,1,1,0.11,2018,2018
+"Xiao, Yegui",1,13,1,1,0.11,2018,2018
+"Xiao, Zhiqing",1,13,1,1,0.25,2023,2023
+"Zhen, Zi'ang",1,13,1,1,0.2,2022,2022
+"Zheng, Lirong",1,13,1,1,0.25,2023,2023
+"Ahouandjinou, Metowanou Heribert",1,12,1,1,0.2,2022,2022
+"Barquero-Perez, Oscar",1,12,1,1,0.1,2017,2017
+"Caamano, Antonio J.",1,12,1,1,0.1,2017,2017
+"Dong, Mianxiong",1,12,1,1,0.2,2022,2022
+"Et-Tahir, Aziz",1,12,1,1,0.2,2022,2022
+"Fotiadou, E.",1,12,1,1,0.14,2020,2020
+"Garcia-Viruete, Beatriz",1,12,1,1,0.1,2017,2017
+"Goya-Esteban, Rebeca",1,12,1,1,0.1,2017,2017
+"Haleem, Muhammad Salman",1,12,1,1,0.2,2022,2022
+"Houdji, Godwin",1,12,1,1,0.2,2022,2022
+"Jossou, Thierry Rock",1,12,1,1,0.2,2022,2022
+"Lasfar, Abdelali",1,12,1,1,0.2,2022,2022
+"Li, Xiongjun",1,12,1,1,0.5,2025,2025
+"Lillo-Castellano, Jose M.",1,12,1,1,0.1,2017,2017
+"Martin-Caballero, Carlos",1,12,1,1,0.1,2017,2017
+"Medenou, Daton",1,12,1,1,0.2,2022,2022
+"Ota, Kaoru",1,12,1,1,0.2,2022,2022
+"Pagliara, Silvio M.",1,12,1,1,0.2,2022,2022
+"Peng, Xiaobo",1,12,1,1,0.5,2025,2025
+"Rojo-Alvarez, Jose L.",1,12,1,1,0.1,2017,2017
+"Santiago-Mozos, Ricardo",1,12,1,1,0.1,2017,2017
+"Sanya, Frejus",1,12,1,1,0.2,2022,2022
+"Tahori, Zakaria",1,12,1,1,0.2,2022,2022
+"Wan, Jingyu",1,12,1,1,0.5,2025,2025
+"Xu, M.",1,12,1,1,0.14,2020,2020
+"Zhao, Chunhui",1,12,1,1,0.2,2022,2022
+"van Erp, B.",1,12,1,1,0.14,2020,2020
+"van Sloun, R. J. G.",1,12,1,1,0.14,2020,2020
+"Ahn, Ki Hoon",1,11,1,1,0.25,2023,2023
+"Boylan, G. B.",1,11,1,1,0.17,2021,2021
+"Choi, Eun Saem",1,11,1,1,0.25,2023,2023
+"Gabruseva, T.",1,11,1,1,0.17,2021,2021
+"Hong, Soon Cheol",1,11,1,1,0.25,2023,2023
+"Kim, Ho Yeon",1,11,1,1,0.25,2023,2023
+"Lee, Kwang-Sig",1,11,1,1,0.25,2023,2023
+"Lightbody, G.",1,11,1,1,0.17,2021,2021
+"Liu, Nae Won",1,11,1,1,0.25,2023,2023
+"Marnane, W.",1,11,1,1,0.17,2021,2021
+"Nam, Young Jin",1,11,1,1,0.25,2023,2023
+"O'Riordan, M.",1,11,1,1,0.17,2021,2021
+"O'Sullivan, M.",1,11,1,1,0.17,2021,2021
+"Yang, Yong Seok",1,11,1,1,0.25,2023,2023
+"Alonso-Betanzos, A",1,10,1,1,0.04,2001,2001
+"Bakker, P. C. A. M.",1,10,1,1,0.25,2023,2023
+"Bigan, C",1,10,1,1,0.04,2004,2004
+"Boluda, Gema Prats-",1,10,1,1,0.33,2024,2024
+"Chatterjee, Debanjan",1,10,1,1,0.14,2020,2020
+"Das, Anirbed",1,10,1,1,0.14,2020,2020
+"Das, Debanjan",1,10,1,1,0.14,2020,2020
+"Das, Epsita",1,10,1,1,0.14,2020,2020
+"Diago-Almela, Vicente Jose",1,10,1,1,0.33,2024,2024
+"Dong, C",1,10,1,1,0.04,2004,2004
+"Fischer, A. M.",1,10,1,1,0.25,2023,2023
+"Fontenla-Romero, O",1,10,1,1,0.04,2001,2001
+"Ganguly, Biswarup",1,10,1,1,0.14,2020,2020
+"Ghosal, Avishek",1,10,1,1,0.14,2020,2020
+"Guijarro-Berdiñas, B",1,10,1,1,0.04,2001,2001
+"Henderson, GT",1,10,1,1,0.04,2004,2004
+"Hoogendoorn, M.",1,10,1,1,0.25,2023,2023
+"Hudson, N",1,10,1,1,0.04,2004,2004
+"Ifeachor, EC",1,10,1,1,0.04,2004,2004
+"Martinez-de-Juan, Jose L.",1,10,1,1,0.33,2024,2024
+"Modrego-Pardo, Fernando",1,10,1,1,0.33,2024,2024
+"Monfort-Ortiz, Rogelio",1,10,1,1,0.33,2024,2024
+"Nieto-del-Amor, Felix",1,10,1,1,0.33,2024,2024
+"Outram, NJ",1,10,1,1,0.04,2004,2004
+"Rakshit, Debmalya",1,10,1,1,0.14,2020,2020
+"Rietveld, A. L.",1,10,1,1,0.25,2023,2023
+"Sneyd, R",1,10,1,1,0.04,2004,2004
+"Teunissen, P. W.",1,10,1,1,0.25,2023,2023
+"Wimalaratna, HSK",1,10,1,1,0.04,2004,2004
+"Ye-Lin, Yiyao",1,10,1,1,0.33,2024,2024
+"Asensio, Cesar",1,9,1,1,0.2,2022,2022
+"Castan, Berta",1,9,1,1,0.2,2022,2022
+"Castan, Sergio",1,9,1,1,0.2,2022,2022
+"Chen, Li",1,9,1,1,0.33,2024,2024
+"Chen, Qinqun",1,9,1,1,0.33,2024,2024
+"Cheng, Wenlong",1,9,1,1,0.5,2025,2025
+"Choliz-Ezquerro, Marta",1,9,1,1,0.2,2022,2022
+"Desiana Wulaning Ayu, Putu",1,9,1,1,0.5,2025,2025
+"Esteban, Luis Mariano",1,9,1,1,0.2,2022,2022
+"Esteban-Escano, Javier",1,9,1,1,0.2,2022,2022
+"Fei, Yue",1,9,1,1,0.33,2024,2024
+"Gao, Rui",1,9,1,1,0.5,2025,2025
+"Ge, Zongyuan",1,9,1,1,0.5,2025,2025
+"Gong, Shu",1,9,1,1,0.5,2025,2025
+"Gyselaers, Wilfried",1,9,1,1,0.1,2017,2017
+"Hao, Yuexing",1,9,1,1,0.33,2024,2024
+"Hostiadi, Dandy Pramana",1,9,1,1,0.5,2025,2025
+"Ilyas, Talha",1,9,1,1,0.5,2025,2025
+"Jiang, Yiwen",1,9,1,1,0.5,2025,2025
+"Ju, Arnold Lining",1,9,1,1,0.5,2025,2025
+"Laliena, Antonio R.",1,9,1,1,0.2,2022,2022
+"Lanssens, Dorien",1,9,1,1,0.1,2017,2017
+"Levin, Arie",1,9,1,1,0.5,2025,2025
+"Li, Li",1,9,1,1,0.33,2024,2024
+"Li, Qinhao",1,9,1,1,0.5,2025,2025
+"Liandana, Made",1,9,1,1,0.5,2025,2025
+"Limas, Jane",1,9,1,1,0.5,2025,2025
+"Liu, Guiqing",1,9,1,1,0.33,2024,2024
+"Lu, Yan",1,9,1,1,0.5,2025,2025
+"Luo, Xiaomu",1,9,1,1,0.33,2024,2024
+"Marnani, Roya Aghadavoud",1,9,1,1,0.33,2024,2024
+"McCracken, Sharon A.",1,9,1,1,0.5,2025,2025
+"Mol, Ben W.",1,9,1,1,0.5,2025,2025
+"Morris, Jonathan M.",1,9,1,1,0.5,2025,2025
+"Nhu, Duong",1,9,1,1,0.5,2025,2025
+"Orkweha, Khwanjit",1,9,1,1,0.5,2025,2025
+"Pavlicek, Jan",1,9,1,1,0.33,2024,2024
+"Phapatanaburi, Khomdet",1,9,1,1,0.5,2025,2025
+"Pradipta, Gede Angga",1,9,1,1,0.5,2025,2025
+"Quan, Bin",1,9,1,1,0.33,2024,2024
+"Sanz, Gerardo",1,9,1,1,0.2,2022,2022
+"Sanz-Enguita, Gerardo",1,9,1,1,0.2,2022,2022
+"Saviron, Ricardo",1,9,1,1,0.2,2022,2022
+"Smith, Vinayak",1,9,1,1,0.5,2025,2025
+"Thomas, Allison",1,9,1,1,0.5,2025,2025
+"Vera Anaya, David",1,9,1,1,0.5,2025,2025
+"Wallace, Euan M.",1,9,1,1,0.5,2025,2025
+"Warty, Ritesh",1,9,1,1,0.5,2025,2025
+"Wei, Hang",1,9,1,1,0.33,2024,2024
+"Wibrianto, Aswandi",1,9,1,1,0.5,2025,2025
+"Yap, Lim Wei",1,9,1,1,0.5,2025,2025
+"Zhang, Xin",1,9,1,1,0.5,2025,2025
+"Zhang, Yuxin",1,9,1,1,0.5,2025,2025
+"Al Qahtani, Nourah Hasan",1,8,1,1,0.2,2022,2022
+"Al-Dayyeni, Wisam Subhi",1,8,1,1,0.2,2022,2022
+"Al-Rawi, Osama Ym",1,8,1,1,0.2,2022,2022
+"Al-Shareefi, Nael A.",1,8,1,1,0.2,2022,2022
+"Al-Yousif, Shahad",1,8,1,1,0.2,2022,2022
+"Alfiras, M.",1,8,1,1,0.2,2022,2022
+"Alrawi, Ali Amer Ahmed",1,8,1,1,0.2,2022,2022
+"Baldazzi, Giulia",1,8,1,1,0.25,2023,2023
+"De Backere, Femke",1,8,1,1,0.12,2019,2019
+"De Turck, Filip",1,8,1,1,0.12,2019,2019
+"Dehaene, Isabelle",1,8,1,1,0.12,2019,2019
+"Demeester, Thomas",1,8,1,1,0.12,2019,2019
+"Garnier, N. B.",1,8,1,1,0.08,2014,2014
+"Ghabban, Fahad",1,8,1,1,0.2,2022,2022
+"Goncalves, P.",1,8,1,1,0.08,2014,2014
+"Jaber, Mustafa Musa",1,8,1,1,0.2,2022,2022
+"Janssens, Olivier",1,8,1,1,0.12,2019,2019
+"Jarrar, Mu'taman",1,8,1,1,0.2,2022,2022
+"Mnati, Mohannad Jabbar",1,8,1,1,0.2,2022,2022
+"Najim, Huda T.",1,8,1,1,0.2,2022,2022
+"Najm, Ihab A.",1,8,1,1,0.2,2022,2022
+"Ongenae, Femke",1,8,1,1,0.12,2019,2019
+"Raffo, Luigi",1,8,1,1,0.25,2023,2023
+"Roelens, Kristien",1,8,1,1,0.12,2019,2019
+"Roux, S. G.",1,8,1,1,0.08,2014,2014
+"Saleh, Abbadullah H.",1,8,1,1,0.2,2022,2022
+"Sulas, Eleonora",1,8,1,1,0.25,2023,2023
+"Taher, Mayada",1,8,1,1,0.2,2022,2022
+"Tahir, Nooritawati Md",1,8,1,1,0.2,2022,2022
+"Talab, Hossam Subhi",1,8,1,1,0.2,2022,2022
+"Tumbarello, Roberto",1,8,1,1,0.25,2023,2023
+"Urru, Monica",1,8,1,1,0.25,2023,2023
+"Van Hoecke, Sofie",1,8,1,1,0.12,2019,2019
+"Vandewiele, Gilles",1,8,1,1,0.12,2019,2019
+"Venkatasubramanian, S.",1,8,1,1,0.2,2022,2022
+"Abaci-Turk, Esra",1,7,1,1,0.25,2023,2023
+"Adalsteinsson, Elfar",1,7,1,1,0.25,2023,2023
+"Ali, Sayyed Arif",1,7,1,1,0.2,2022,2022
+"Barnewolt, Carol",1,7,1,1,0.25,2023,2023
+"Barth, William H. H.",1,7,1,1,0.25,2023,2023
+"Bell, Carrie",1,7,1,1,0.5,2025,2025
+"Connolly, Susan",1,7,1,1,0.25,2023,2023
+"Delay, Upekha Hansanie",1,7,1,1,0.2,2022,2022
+"Ekanayake, Mervyn Parakrama",1,7,1,1,0.2,2022,2022
+"Estroff, Judy",1,7,1,1,0.25,2023,2023
+"Feldman, Henry A. A.",1,7,1,1,0.25,2023,2023
+"Godaliyadda, Roshan Indika",1,7,1,1,0.2,2022,2022
+"Golland, Polina",1,7,1,1,0.25,2023,2023
+"Grant, P. Ellen",1,7,1,1,0.25,2023,2023
+"Gunarathne, Samitha Lakmal",1,7,1,1,0.2,2022,2022
+"Hamsika, V.",1,7,1,1,0.5,2025,2025
+"Holland, Elizabeth",1,7,1,1,0.25,2023,2023
+"Huan, Xun",1,7,1,1,0.5,2025,2025
+"Khan, Yusuf Ahmed",1,7,1,1,0.2,2022,2022
+"Madeiro, Joao Paulo do Vale",1,7,1,1,0.17,2021,2021
+"Marques, Joao Alexandre Lobo",1,7,1,1,0.17,2021,2021
+"Mohan, P. P. Aswathi",1,7,1,1,0.5,2025,2025
+"Rahman, Shanur",1,7,1,1,0.2,2022,2022
+"Rathnayake, Chathura",1,7,1,1,0.2,2022,2022
+"Sasirekha, R.",1,7,1,1,0.5,2025,2025
+"Senanayaka, Janith Bandara",1,7,1,1,0.2,2022,2022
+"Sienko, Kathleen H.",1,7,1,1,0.5,2025,2025
+"Sikora, Jerzy",1,7,1,1,0.07,2013,2013
+"Singh, Yash Pratap",1,7,1,1,0.2,2022,2022
+"Somathilake, Eranda",1,7,1,1,0.2,2022,2022
+"Spicher, Lucy",1,7,1,1,0.5,2025,2025
+"Uma, V.",1,7,1,1,0.5,2025,2025
+"Vasung, Lana",1,7,1,1,0.25,2023,2023
+"Wajid, Mohd",1,7,1,1,0.2,2022,2022
+"Wijayakulasooriya, Janaka",1,7,1,1,0.2,2022,2022
+"Xu, Junshen",1,7,1,1,0.25,2023,2023
+"Zhou, Cindy",1,7,1,1,0.25,2023,2023
+"Borkholder, David A.",1,6,1,1,0.08,2014,2014
+"Boujiha, Tarik",1,6,1,1,0.5,2025,2025
+"Bouksaim, Maroua",1,6,1,1,0.5,2025,2025
+"Chebak, Ahmed",1,6,1,1,0.5,2025,2025
+"El Bazi, Nabil",1,6,1,1,0.5,2025,2025
+"Haghpanahi, Masoumeh",1,6,1,1,0.08,2014,2014
+"Kissi, Chaimaa",1,6,1,1,0.5,2025,2025
+"Laayati, Oussama",1,6,1,1,0.5,2025,2025
+"Mekhfioui, Mohcin",1,6,1,1,0.5,2025,2025
+"Satif, Amal",1,6,1,1,0.5,2025,2025
+"Steyde, Giulio",1,6,1,1,0.25,2023,2023
+"Tagliaferri, Salvatore",1,6,1,1,0.25,2023,2023
+"Wang, Shuai",1,6,1,1,0.33,2024,2024
+"Wu, Huaming",1,6,1,1,0.33,2024,2024
+"Akinbi, Alex",1,5,1,1,0.25,2023,2023
+"Aksoy, Ayse Nur",1,5,1,1,0.25,2023,2023
+"Ari, Berna",1,5,1,1,0.25,2023,2023
+"Costa-Santos, Cristina",1,5,1,1,0.25,2023,2023
+"Dolly, D. Raveena Judie",1,5,1,1,0.14,2020,2020
+"Hedriana, Herman L.",1,5,1,1,0.33,2024,2024
+"Henriques, Teresa S.",1,5,1,1,0.25,2023,2023
+"Jaffard, S.",1,5,1,1,0.08,2015,2015
+"Jagannath, D. J.",1,5,1,1,0.14,2020,2020
+"Jambros, Kristian",1,5,1,1,0.33,2024,2024
+"Jones, Gabriel Davis",1,5,1,1,0.5,2025,2025
+"Khan, M. Jaleed",1,5,1,1,0.5,2025,2025
+"Krekovic, Gordan",1,5,1,1,0.33,2024,2024
+"Ozturk, Sibel",1,5,1,1,0.25,2023,2023
+"Peter, J. Dinesh",1,5,1,1,0.14,2020,2020
+"Ribeiro, Maria",1,5,1,1,0.25,2023,2023
+"Sahin, Safiye Agapinar",1,5,1,1,0.25,2023,2023
+"Vatish, Manu",1,5,1,1,0.5,2025,2025
+"Vican, Ivan",1,5,1,1,0.33,2024,2024
+"Wendt, H.",1,5,1,1,0.08,2015,2015
+"Yuan, Xiaojie",1,5,1,1,0.33,2024,2024
+"Abburi, Radha",1,4,1,1,0.33,2024,2024
+"Adams, Dawn",1,4,1,1,0.25,2023,2023
+"Babu, Sharmila Arun",1,4,1,1,0.33,2024,2024
+"Babu, Thirunavukkarasu Arun",1,4,1,1,0.33,2024,2024
+"Beard, John",1,4,1,1,0.5,2025,2025
+"Harris, Sara",1,4,1,1,0.5,2025,2025
+"Hatai, Indranil",1,4,1,1,0.33,2024,2024
+"Heiselman, Cassandra",1,4,1,1,0.25,2023,2023
+"Janjarasjitt, Suparerk",1,4,1,1,0.17,2021,2021
+"Kanagasabapathy, P",1,4,1,1,0.05,2005,2005
+"Pardasani, Rohit",1,4,1,1,0.5,2025,2025
+"Rajalakshmy, P",1,4,1,1,0.05,2005,2005
+"Samanta, Sibendu",1,4,1,1,0.33,2024,2024
+"Vitullo, Renee",1,4,1,1,0.5,2025,2025
+"Yapici, Halit O.",1,4,1,1,0.5,2025,2025
+"Al Aishan, Abdullah",1,3,1,1,0.5,2025,2025
+"Al-Jumeily, Dhiya",1,3,1,1,0.08,2014,2014
+"Alam, Md Golam Rabiul",1,3,1,1,0.17,2021,2021
+"Ali, Ahamed F.",1,3,1,1,0.07,2013,2013
+"Asfaw, Daniel",1,3,1,1,0.25,2023,2023
+"Bertieaux, Julien",1,3,1,1,0.25,2023,2023
+"Biloborodova, Tetiana",1,3,1,1,0.17,2021,2021
+"Boltov, Yehor",1,3,1,1,0.17,2021,2021
+"Cheema, Muhammad Omar",1,3,1,1,0.5,2025,2025
+"Derkach, Maryna",1,3,1,1,0.17,2021,2021
+"Dutoit, Thierry",1,3,1,1,0.25,2023,2023
+"Eldosoky, Mohamed A.",1,3,1,1,0.07,2013,2013
+"Francis, Farah",1,3,1,1,0.25,2023,2023
+"Gul, Jahan Zeb",1,3,1,1,0.5,2025,2025
+"Hamdan, Hani",1,3,1,1,0.08,2014,2014
+"Hayashi, Hayato",1,3,1,1,0.17,2021,2021
+"Honma, Naoki",1,3,1,1,0.17,2021,2021
+"Impey, Lawrence",1,3,1,1,0.25,2023,2023
+"Jordanov, Ivan",1,3,1,1,0.25,2023,2023
+"Labeau, Fabrice",1,3,1,1,0.25,2023,2023
+"Lee, Raymond",1,3,1,1,0.25,2023,2023
+"Li, Xuwen",1,3,1,1,0.17,2021,2021
+"Liu, Jianli",1,3,1,1,0.17,2021,2021
+"Luz, Saturnino",1,3,1,1,0.25,2023,2023
+"Marvin, Ggaliwango",1,3,1,1,0.17,2021,2021
+"Mohy-Ud-Din, Zia",1,3,1,1,0.5,2025,2025
+"Naeem, Safaa M.",1,3,1,1,0.07,2013,2013
+"Namburete, Ana",1,3,1,1,0.25,2023,2023
+"Nualsri, Rattikan",1,3,1,1,0.5,2025,2025
+"Ohtsuki, Tomoaki",1,3,1,1,0.17,2021,2021
+"Owada, Kazunari",1,3,1,1,0.17,2021,2021
+"Paul, Fergus Hussain",1,3,1,1,0.08,2014,2014
+"Qureshi, Abuzar Ahmad",1,3,1,1,0.17,2021,2021
+"Shateri, Mohammadhadi",1,3,1,1,0.25,2023,2023
+"Skarga-Bandurova, Inna",1,3,1,1,0.17,2021,2021
+"Skarha-Bandurov, Illia",1,3,1,1,0.17,2021,2021
+"Stock, Sarah S.",1,3,1,1,0.25,2023,2023
+"Tawfik, Hissam",1,3,1,1,0.08,2014,2014
+"Thanonklang, Sittinon",1,3,1,1,0.5,2025,2025
+"Townsend, Rosemary",1,3,1,1,0.25,2023,2023
+"Wu, Honghan",1,3,1,1,0.25,2023,2023
+"Yang, Lin",1,3,1,1,0.17,2021,2021
+"Yang, Yimin",1,3,1,1,0.17,2021,2021
+"Zhang, Qiang",1,3,1,1,0.17,2021,2021
+"Zhang, Song",1,3,1,1,0.17,2021,2021
+"Zhang, Xianfei",1,3,1,1,0.25,2023,2023
+"Zhang, Xiaohong",1,3,1,1,0.25,2023,2023
+"Zhong, Hongtao",1,3,1,1,0.25,2023,2023
+"Abolghasemi, Vahid",1,2,1,1,0.2,2022,2022
+"Agarwal, Nitin",1,2,1,1,0.06,2010,2010
+"Ahmedova, Afiyze",1,2,1,1,1.0,2026,2026
+"Anwar, Muhammad Shahid",1,2,1,1,0.5,2025,2025
+"Bouakaz, Ayache",1,2,1,1,0.12,2019,2019
+"Cai, Zhiqi",1,2,1,1,0.25,2023,2023
+"Chaaban, Rayan",1,2,1,1,0.12,2019,2019
+"Chen, Cang",1,2,1,1,0.25,2023,2023
+"Dash, Shishir",1,2,1,1,0.07,2012,2012
+"Ferdowsi, Saideh",1,2,1,1,0.2,2022,2022
+"Frnda, Jaroslav",1,2,1,1,0.5,2025,2025
+"Furqan, Mohammad Shaheryar",1,2,1,1,0.33,2024,2024
+"Ghonchi, Hamidreza",1,2,1,1,0.2,2022,2022
+"Giannini, F",1,2,1,1,0.04,2001,2001
+"Issa, Walaa",1,2,1,1,0.12,2019,2019
+"Jose, Deepa",1,2,1,1,0.25,2023,2023
+"Kodkin, Vladimir",1,2,1,1,0.2,2022,2022
+"Lebanova, Hristina",1,2,1,1,1.0,2026,2026
+"Liu, Ling",1,2,1,1,0.33,2024,2024
+"Meloni, P",1,2,1,1,0.04,2001,2001
+"Muscat, Jolene",1,2,1,1,0.07,2012,2012
+"Ngiam, Kee Yuan",1,2,1,1,0.33,2024,2024
+"Petkova-Gueorguieva, Elina",1,2,1,1,1.0,2026,2026
+"Prasad, D. V.",1,2,1,1,0.06,2010,2010
+"Saniie, Jafar",1,2,1,1,0.11,2018,2018
+"Sowmya, S.",1,2,1,1,0.25,2023,2023
+"Stoev, Svetoslav",1,2,1,1,1.0,2026,2026
+"Swarnalatha, R.",1,2,1,1,0.06,2010,2010
+"Tsipouras, Markos G.",1,2,1,1,0.11,2018,2018
+"Ul Haq, Qazi Mazhar",1,2,1,1,0.5,2025,2025
+"Ullah, Amin",1,2,1,1,0.5,2025,2025
+"Ullah, Zabeeh",1,2,1,1,0.5,2025,2025
+"Veleva, Nadia",1,2,1,1,1.0,2026,2026
+"Wang, Boyang",1,2,1,1,0.11,2018,2018
+"Wang, Yan",1,2,1,1,0.33,2024,2024
+"Xie, Weifang",1,2,1,1,0.25,2023,2023
+"Yanachkova, Vesselina",1,2,1,1,1.0,2026,2026
+"Yang, Xuewen",1,2,1,1,0.33,2024,2024
+"Zaylaa, Amira J.",1,2,1,1,0.12,2019,2019
+"Abati, Isabella",1,1,1,1,0.5,2025,2025
+"Acquaviva, Giulia",1,1,1,1,1.0,2026,2026
+"Adjei, Tricia",1,1,1,1,0.5,2025,2025
+"Alfaro-Ponce, Mariel",1,1,1,1,1.0,2026,2026
+"Altamirano, Diego",1,1,1,1,1.0,2026,2026
+"Altuve, M.",1,1,1,1,0.08,2015,2015
+"Ameta, Durgesh",1,1,1,1,1.0,2026,2026
+"Arabaci, Mehtap Ozbey",1,1,1,1,1.0,2026,2026
+"Ashik, Arshad Kalathil",1,1,1,1,0.5,2025,2025
+"Ashraf, Fidha",1,1,1,1,0.5,2025,2025
+"Asogbon, Mojisola Grace",1,1,1,1,0.17,2021,2021
+"Ben Ghorbal, Anis",1,1,1,1,0.5,2025,2025
+"Bras, Susana",1,1,1,1,0.5,2025,2025
+"Chang, Hye Jin",1,1,1,1,0.33,2024,2024
+"Chapman, Adriane",1,1,1,1,1.0,2026,2026
+"Cheong, Ying",1,1,1,1,1.0,2026,2026
+"Choi, Byungjin",1,1,1,1,0.33,2024,2024
+"Cholewa, D.",1,1,1,1,0.05,2008,2008
+"Chopra, Jagrati",1,1,1,1,1.0,2026,2026
+"Dawn, Buddhadeb",1,1,1,1,0.5,2025,2025
+"Dhawan, Saksham",1,1,1,1,0.5,2025,2025
+"Dini, Daniele",1,1,1,1,0.5,2025,2025
+"Eid, Marwa M.",1,1,1,1,0.5,2025,2025
+"El-Kenawy, El-Sayed M.",1,1,1,1,0.5,2025,2025
+"Galli, Alessandra",1,1,1,1,1.0,2026,2026
+"Gonzalez-Reyes, Ximena",1,1,1,1,1.0,2026,2026
+"Grine, Azedine",1,1,1,1,0.5,2025,2025
+"Gutierrez, Robert",1,1,1,1,0.5,2025,2025
+"Horakova, Jitka",1,1,1,1,1.0,2026,2026
+"Howlett, Isabel",1,1,1,1,1.0,2026,2026
+"Hu, Hai-Bin",1,1,1,1,1.0,2026,2026
+"Huang, Zhen-Zhen",1,1,1,1,1.0,2026,2026
+"Hwang, Kyung Joo",1,1,1,1,0.33,2024,2024
+"Jeon, Minho",1,1,1,1,0.33,2024,2024
+"Jo, Eunae",1,1,1,1,0.33,2024,2024
+"Kermack, Alexandra J.",1,1,1,1,1.0,2026,2026
+"Khambampati, Anil Kumar",1,1,1,1,0.33,2024,2024
+"Kim, Kyung Youn",1,1,1,1,0.33,2024,2024
+"Kim, Miran",1,1,1,1,0.33,2024,2024
+"Kurtadikar, Vidya Sujit",1,1,1,1,0.33,2024,2024
+"Labaj, P.",1,1,1,1,0.05,2008,2008
+"Latifi, Shahram",1,1,1,1,0.5,2025,2025
+"Lees, Christoph",1,1,1,1,0.5,2025,2025
+"Leng, Ji-Chao",1,1,1,1,1.0,2026,2026
+"Lensen, Irene S.",1,1,1,1,1.0,2026,2026
+"Li, Guanglin",1,1,1,1,0.17,2021,2021
+"Li, Jia",1,1,1,1,0.5,2025,2025
+"Li, Yang",1,1,1,1,1.0,2026,2026
+"Liang, Huan",1,1,1,1,1.0,2026,2026
+"Liang, Huanwen",1,1,1,1,0.25,2023,2023
+"Maden, Charlotte",1,1,1,1,1.0,2026,2026
+"Mamun, Khondaker A.",1,1,1,1,0.5,2025,2025
+"Matonia, A.",1,1,1,1,0.05,2008,2008
+"Mischi, Massimo",1,1,1,1,1.0,2026,2026
+"Mun, Jenny N.",1,1,1,1,1.0,2026,2026
+"Pande, Himangi Milind",1,1,1,1,0.33,2024,2024
+"Park, Chang Eun",1,1,1,1,0.33,2024,2024
+"Park, Jong Chan",1,1,1,1,0.33,2024,2024
+"Patel, Sohini",1,1,1,1,0.5,2025,2025
+"Peri, Elisabetta",1,1,1,1,1.0,2026,2026
+"Perry, Helen",1,1,1,1,1.0,2026,2026
+"Pinto, Paula",1,1,1,1,0.5,2025,2025
+"Ramos, Mariana S.",1,1,1,1,0.5,2025,2025
+"Reddyhoff, Thomas",1,1,1,1,0.5,2025,2025
+"Renganathan, S",1,1,1,1,0.04,2003,2003
+"Shukla, Amit",1,1,1,1,1.0,2026,2026
+"Simetka, Ondrej",1,1,1,1,1.0,2026,2026
+"Snider, Dallas",1,1,1,1,0.06,2011,2011
+"Solano Sanchez, Felipe Alberto",1,1,1,1,0.33,2024,2024
+"Somasundaram, Sanjay",1,1,1,1,1.0,2026,2026
+"Srivarshini, S.",1,1,1,1,1.0,2026,2026
+"Wang, Chang",1,1,1,1,0.5,2025,2025
+"Xu, Xiaowei",1,1,1,1,0.06,2011,2011
+"Xu, Xin",1,1,1,1,1.0,2026,2026
+"Yang, Kai",1,1,1,1,1.0,2026,2026
+Ying Genwang,1,1,1,1,0.07,2012,2012
+"Yu, Zhenhua",1,1,1,1,0.5,2025,2025
+"Yum, Sun Hyung",1,1,1,1,0.33,2024,2024
+"Zhai, Shengjie",1,1,1,1,0.5,2025,2025
+"Zhang, Wei-Tao",1,1,1,1,1.0,2026,2026
+Zhou Hongbiao,1,1,1,1,0.07,2012,2012
+"Zhu, Ming",1,1,1,1,0.5,2025,2025
+"van der van der Jagt, M. Beatrijs",1,1,1,1,1.0,2026,2026
+"Adamopoulos, A",1,0,0,0,0.0,2004,2004
+"Agrawal, Monika",1,0,0,0,0.0,2025,2025
+"Akpokodje, Edore",1,0,0,0,0.0,2025,2025
+"Alimisis, Vassilis",1,0,0,0,0.0,2025,2025
+"Alkanan, Mohannad",1,0,0,0,0.0,2024,2024
+"Arellano-Zuvieta, Edgar E.",1,0,0,0,0.0,2026,2026
+"Asad, Amna",1,0,0,0,0.0,2025,2025
+"Aslam, Muhammad",1,0,0,0,0.0,2025,2025
+"Bachir, W",1,0,0,0,0.0,2004,2004
+"Bayramli, Gulnur",1,0,0,0,0.0,2026,2026
+"Beni, Valerio",1,0,0,0,0.0,2025,2025
+"Bhattacharya, Deepshikha",1,0,0,0,0.0,2026,2026
+"Brownfoot, Fiona",1,0,0,0,0.0,2026,2026
+"Camacho, Brandon",1,0,0,0,0.0,2025,2025
+"Camacho-Juarez, Jose S.",1,0,0,0,0.0,2026,2026
+"Carlos Echeverria, Juan",1,0,0,0,0.0,2026,2026
+"Celka, P.",1,0,0,0,0.0,2026,2026
+"Cheng, ZB",1,0,0,0,0.0,2005,2005
+"Dai, FH",1,0,0,0,0.0,2005,2005
+"Dunajski, Z",1,0,0,0,0.0,2004,2004
+"Escalante-Gaytan, Jorge",1,0,0,0,0.0,2026,2026
+"Farmer, Diana L.",1,0,0,0,0.0,2024,2024
+"Feli, Mohammad",1,0,0,0,0.0,2025,2025
+"Feng, Yan",1,0,0,0,0.0,2024,2024
+"Florea, Bogdan Cristian",1,0,0,0,0.0,2026,2026
+"Fournier, M.",1,0,0,0,0.0,2011,2011
+"Friend, Stephen H.",1,0,0,0,0.0,2024,2024
+"Fukunishi, Hiroaki",1,0,0,0,0.0,2024,2024
+"Gao, Yang",1,0,0,0,0.0,2026,2026
+"Goldenberg, Anna",1,0,0,0,0.0,2024,2024
+"Goodday, Sarah M.",1,0,0,0,0.0,2024,2024
+"Goyal, Ravi",1,0,0,0,0.0,2026,2026
+"Grot, P",1,0,0,0,0.0,2004,2004
+"Gu, Aihua",1,0,0,0,0.0,2024,2024
+"Gunukula, Rakesh Reddy",1,0,0,0,0.0,2016,2016
+Hadiyanto,1,0,0,0,0.0,2025,2025
+"Hemanth, V.",1,0,0,0,0.0,2024,2024
+"Hemmi, Kazunari",1,0,0,0,0.0,2024,2024
+"Herdianto, Nendar",1,0,0,0,0.0,2025,2025
+"Hong, YX",1,0,0,0,0.0,2005,2005
+"Hosseinzadeh, Vahideh",1,0,0,0,0.0,2026,2026
+"Hu, Fengdan",1,0,0,0,0.0,2026,2026
+"Imamura, Toshiro",1,0,0,0,0.0,2024,2024
+"Ionescu, Bogdan Emanuel",1,0,0,0,0.0,2026,2026
+"Jaako, T.",1,0,0,0,0.0,2026,2026
+"Jayashree, R.",1,0,0,0,0.0,2024,2024
+"Jilani, Syeda Fizzah",1,0,0,0,0.0,2025,2025
+"Joarder, Rishad Raiyan",1,0,0,0,0.0,2026,2026
+"Jonasson, Christian",1,0,0,0,0.0,2025,2025
+"Jumadi, Nur Anida",1,0,0,0,0.0,2024,2024
+"Kang, Tianxu",1,0,0,0,0.0,2026,2026
+"Kang, Xue",1,0,0,0,0.0,2026,2026
+"Karmakar, Debjyoti",1,0,0,0,0.0,2026,2026
+"Karthick, P. A.",1,0,0,0,0.0,2026,2026
+"Kazemi, Kianoosh",1,0,0,0,0.0,2025,2025
+"Keenan, Emerson",1,0,0,0,0.0,2026,2026
+"Kumar, Ahalya",1,0,0,0,0.0,2026,2026
+"Kumar, Pradeep",1,0,0,0,0.0,2015,2015
+"Lambros, S",1,0,0,0,0.0,2004,2004
+"Li, Gang",1,0,0,0,0.0,2025,2025
+"Li, Hanjun",1,0,0,0,0.0,2026,2026
+"Li, Jianqing",1,0,0,0,0.0,2024,2024
+"Li, Leya",1,0,0,0,0.0,2025,2025
+"Liljeberg, Pasi",1,0,0,0,0.0,2025,2025
+"Liu, Weifeng",1,0,0,0,0.0,2026,2026
+"Ma, Caiyun",1,0,0,0,0.0,2024,2024
+"Ma, Liangkun",1,0,0,0,0.0,2025,2025
+"Mendieta-Zeron, Hugo",1,0,0,0,0.0,2026,2026
+"Mendis, Lochana",1,0,0,0,0.0,2026,2026
+"Mikolasova, Martina Palickova",1,0,0,0,0.0,2026,2026
+"Miyamoto, Shingo",1,0,0,0,0.0,2024,2024
+"Miyata, Kohei",1,0,0,0,0.0,2024,2024
+"Mohamed, Seeni Mohamed Aliar Maraikkayar Seeni",1,0,0,0,0.0,2025,2025
+"Mohammed, Parisa Beham",1,0,0,0,0.0,2025,2025
+"Mohankumar, N.",1,0,0,0,0.0,2021,2021
+"Moustakas, Vasileios",1,0,0,0,0.0,2025,2025
+"Muduli, Priya Ranjan",1,0,0,0,0.0,2016,2016
+"Mukherjee, Anirban",1,0,0,0,0.0,2016,2016
+"Mylona, Anna",1,0,0,0,0.0,2025,2025
+"Neagu, Georgeta Mihaela",1,0,0,0,0.0,2026,2026
+"Ng, Li Mun",1,0,0,0,0.0,2024,2024
+"Nishanth, V. G.",1,0,0,0,0.0,2021,2021
+"Numano, Hirotane",1,0,0,0,0.0,2024,2024
+"Ou, Weiguang",1,0,0,0,0.0,2026,2026
+"Palaniswami, Marimuthu",1,0,0,0,0.0,2026,2026
+"Papathanasiou, Andreas",1,0,0,0,0.0,2025,2025
+"Pathak, Shantanu",1,0,0,0,0.0,2026,2026
+"Pena-Castillo, Miguel Angel",1,0,0,0,0.0,2026,2026
+"Peng, Yuting",1,0,0,0,0.0,2025,2025
+Prachi,1,0,0,0,0.0,2025,2025
+"Prasad, Madhva",1,0,0,0,0.0,2026,2026
+"Prasad, Sidheshwar",1,0,0,0,0.0,2015,2015
+"Punitha, N.",1,0,0,0,0.0,2026,2026
+"Rad, Elias Mazrooei",1,0,0,0,0.0,2026,2026
+"Rajendran, Tamilselvi",1,0,0,0,0.0,2025,2025
+"Ramakrishnan, S.",1,0,0,0,0.0,2026,2026
+"Rao, Yufei",1,0,0,0,0.0,2026,2026
+"Reddy, Shashidhar V.",1,0,0,0,0.0,2024,2024
+"Reyes, Bersain A.",1,0,0,0,0.0,2026,2026
+"Romina-Soria, Paula",1,0,0,0,0.0,2026,2026
+"Roshan, E.",1,0,0,0,0.0,2021,2021
+"Ruan, Bingxin",1,0,0,0,0.0,2026,2026
+"Ruan, Luyi",1,0,0,0,0.0,2024,2024
+"Sabherwal, Pooja",1,0,0,0,0.0,2025,2025
+"Salas-Garcia, Javier",1,0,0,0,0.0,2026,2026
+"Sanjaya, Ridwan",1,0,0,0,0.0,2025,2025
+"Sarwar, Madiha",1,0,0,0,0.0,2025,2025
+"Sharma, Anupam",1,0,0,0,0.0,2025,2025
+"Sharma, Sudhir Kr.",1,0,0,0,0.0,2015,2015
+"Shibata, Chihiro",1,0,0,0,0.0,2024,2024
+"Singh, Pratibha",1,0,0,0,0.0,2026,2026
+"Sotiriadis, Paul P.",1,0,0,0,0.0,2025,2025
+"Spiridon, L",1,0,0,0,0.0,2004,2004
+"Stratos, G",1,0,0,0,0.0,2004,2004
+"Su, Zihui",1,0,0,0,0.0,2026,2026
+"Subbarao, Anusuyah",1,0,0,0,0.0,2026,2026
+"Tang, Xiaoying",1,0,0,0,0.0,2026,2026
+"Taralunga, Dragos Daniel",1,0,0,0,0.0,2026,2026
+"Tiwari, Anil Kumar",1,0,0,0,0.0,2026,2026
+"Tranquart, F.",1,0,0,0,0.0,2011,2011
+"Tu, Huating",1,0,0,0,0.0,2026,2026
+"Ullah, Muhammad Sana",1,0,0,0,0.0,2025,2025
+"Valluru, Koushita Gouri Reddy",1,0,0,0,0.0,2026,2026
+"Varun, M. V.",1,0,0,0,0.0,2024,2024
+"Vinothini, S.",1,0,0,0,0.0,2026,2026
+"Voicu, I.",1,0,0,0,0.0,2011,2011
+"Wahyuni, Yuli",1,0,0,0,0.0,2025,2025
+"Wang, Aijun",1,0,0,0,0.0,2024,2024
+"Wang, Bo",1,0,0,0,0.0,2024,2024
+"Wang, Hao",1,0,0,0,0.0,2025,2025
+"Wang, Huijin",1,0,0,0,0.0,2025,2025
+"Wang, Zhongyu",1,0,0,0,0.0,2024,2024
+"Wu, Duojiao",1,0,0,0,0.0,2007,2007
+"Wu, Jiadong",1,0,0,0,0.0,2025,2025
+"Wu, Jiayu",1,0,0,0,0.0,2025,2025
+"Wu, Qingjian",1,0,0,0,0.0,2026,2026
+"Xiao, Zhijun",1,0,0,0,0.0,2024,2024
+"Xu, Xiaojian",1,0,0,0,0.0,2026,2026
+"Xu, Yinru",1,0,0,0,0.0,2026,2026
+"Yang, Chenxi",1,0,0,0,0.0,2024,2024
+"Yang, Xin",1,0,0,0,0.0,2024,2024
+"You, Qingshan",1,0,0,0,0.0,2026,2026
+"Yu, Jennifer",1,0,0,0,0.0,2024,2024
+"Yuan, Yi",1,0,0,0,0.0,2026,2026
+"Zendehbad, Seyyed Ali",1,0,0,0,0.0,2026,2026
+"Zhang, Yifan",1,0,0,0,0.0,2026,2026
+"Zhang, Yuwei",1,0,0,0,0.0,2024,2024
+"Zhao, Heng",1,0,0,0,0.0,2025,2025
+"Zhao, Lina",1,0,0,0,0.0,2024,2024
+"Zheng, Kaixiao",1,0,0,0,0.0,2024,2024
+"Zhou, Xinghe",1,0,0,0,0.0,2026,2026
+"Zhu, Qiong",1,0,0,0,0.0,2025,2025
+"Zhu, Rui",1,0,0,0,0.0,2024,2024

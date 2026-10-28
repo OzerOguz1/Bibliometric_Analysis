@@ -1,0 +1,16 @@
+﻿Min_occurrence,Düğüm,Algoritma,Küme,Modülerlik_Q
+3,53,Louvain,5,0.275
+3,53,Greedy modularity,4,0.254
+3,53,Label propagation,1,0.0
+4,40,Louvain,5,0.203
+4,40,Greedy modularity,4,0.209
+4,40,Label propagation,1,0.0
+5,38,Louvain,5,0.191
+5,38,Greedy modularity,4,0.189
+5,38,Label propagation,1,0.0
+6,35,Louvain,4,0.176
+6,35,Greedy modularity,4,0.17
+6,35,Label propagation,1,0.0
+8,32,Louvain,4,0.186
+8,32,Greedy modularity,4,0.186
+8,32,Label propagation,1,0.0

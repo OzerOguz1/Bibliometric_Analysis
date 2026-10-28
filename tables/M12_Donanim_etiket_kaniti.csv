@@ -1,0 +1,93 @@
+﻿UT,PY,Donanim_etiketi,Kanit_alani,Eslesen_ifade,Kanit_baglami
+WOS:000853833800019,2020,H3_Kenar_gomulu,AB,embedded system,but also helps to specify the feature space to develop an intelligent system for portable embedded system applications.
+WOS:000976899200047,2022,H3_Kenar_gomulu,TI,tinyml,TinyML based Classification of Fetal Heart Rate using Mother's Abdominal ECG Signal
+WOS:001593276000001,2025,H3_Kenar_gomulu,AB,embedded system,"invasive monitoring. This work presents the development of a real-time, non-invasive, and embedded system for accurate fetal arrhythmia detection using deep learning applied to fECG signals. Abdo"
+WOS:001601817000001,2025,H1_Giyilebilir,AB,wearable,"work for real-time FMM on edge devices. Data were collected from 120 participants using a wearable device equipped with an inertial measurement unit, which captured both accelerometer and "
+WOS:001601817000001,2025,H3_Kenar_gomulu,AB,quantization,"r, high-performing teacher models to compact student architectures. Post-training integer quantization further optimized the models, reducing the memory footprint by 74.8%. The final optimized"
+WOS:001619307500001,2026,H1_Giyilebilir,AB,wearable,"cal markers, simultaneous monitoring of maternal and fetal health, and the development of wearable systems for telemedicine present exciting opportunities for future research."
+WOS:001619307500001,2026,H2_IoT_bulut,AB,telemedicine,"eous monitoring of maternal and fetal health, and the development of wearable systems for telemedicine present exciting opportunities for future research."
+WOS:001340273800037,2021,H3_Kenar_gomulu,AB,microcontroller,mation. These signals are recorded using electrodes and sampled using the ADC unit in the microcontroller. The recorded signals are processed and analyzed using the machine learning model on the 
+WOS:000518988100042,2019,H1_Giyilebilir,TI,wearable,An IoT-based wearable system using accelerometers and machine learning for fetal movement monitoring
+WOS:000518988100042,2019,H2_IoT_bulut,TI,iot,An IoT-based wearable system using accelerometers and machine learning for fetal movement monito
+WOS:000518988100042,2019,H3_Kenar_gomulu,AB,embedded system,"oring unit includes: (1) a garment integrating accelerometers for data acquisition and an embedded system for signal processing and machine learning, (2) an Android-based local monitoring platfor"
+WOS:001847418700001,2026,H3_Kenar_gomulu,DE,lightweight network,Fetal heart rate; State space model; Lightweight network; Signal artifacts; Clinical safety
+WOS:001373353100002,2024,H2_IoT_bulut,TI,iot,A Decision Tree-Driven IoT systems for improved pre-natal diagnostic accuracy
+WOS:000948637300001,2023,H1_Giyilebilir,AB,wearable,Introduction: Wearable monitoring systems for non-invasive multi-channel fetal electrocardiography (fECG) can su
+WOS:000673849500001,2021,H1_Giyilebilir,AB,wearable, operations. The implementation demonstrates the feasibility of real-time applications in wearable devices.
+WOS:000673849500001,2021,H3_Kenar_gomulu,AB,fpga,"or composed of the spectrogram processor and 2D CNN classifier is then implemented on the FPGA platform. Because the two dimensions of the spectrogram and the kernel are asymmetric, a "
+WOS:001486600900001,2025,H1_Giyilebilir,AB,wearable,"enatal care, there is a need for continuous, objective fetal movement monitoring systems. Wearable sensors, like inertial measurement units (IMUs), offer a promising data-driven solution, "
+WOS:001738870900001,2026,H1_Giyilebilir,AB,wearable,"omplexity analysis (0.08 GFLOPs, 2.24 ms latency) confirmed its suitability for real-time wearable deployment."
+WOS:001738870900001,2026,H4_Ev_ortami,AB,home-based,"fetal distress and arrhythmias. Single-channel abdominal electrocardiogram (AECG) enables home-based monitoring but faces challenges posed by weak fetal signals, maternal interference, and t"
+WOS:001782477800067,2025,H2_IoT_bulut,TI,iot,A Fetal Monitoring IoT-Edge Cardiotocography System Based On Low-Power Analog Hardware Neural Network
+WOS:001782477800067,2025,H3_Kenar_gomulu,TI,low-power,A Fetal Monitoring IoT-Edge Cardiotocography System Based On Low-Power Analog Hardware Neural Network
+WOS:001215731000001,2024,H4_Ev_ortami,AB,home monitoring,"ng the multi-linear map. For analysis, two datasets from the hospital central station and home monitoring devices were considered as the source and target domains. The results showed that the acc"
+WOS:000380617800043,2015,H2_IoT_bulut,AB,telemedicine,s done by monitoring fetus heart rate(FHR). It is also useful in biomedical telemetry and telemedicine. The abdominal electrocardiogram(AECG) consist of FECG as well as maternal electrocardiog
+WOS:001120921100084,2023,H1_Giyilebilir,AB,wearable,t attack risk. The proposed work can be utilized to track FECG waveforms in real-time for wearable technology because of its end-to-end properties and expandable intrinsic for diagnosing m
+WOS:000720519000015,2021,H2_IoT_bulut,TI,iot,IoT-Based Smart Health System for Ambulatory Maternal and Fetal Monitoring
+WOS:000720519000015,2021,H4_Ev_ortami,TI,ambulatory,IoT-Based Smart Health System for Ambulatory Maternal and Fetal Monitoring
+WOS:001661477800001,2026,H1_Giyilebilir,AB,dry electrode,red with sensors such as Doppler or scalp fetal ECG. This study focuses on single-channel dry electrode maternal abdominal ECG (aECG) to extract fetal heart rate (fHR) using a low-complexity al
+WOS:001661477800001,2026,H3_Kenar_gomulu,AB,low-power,"CG (aECG) to extract fetal heart rate (fHR) using a low-complexity algorithm suitable for low-power wearables. Approach. A hybrid model combining machine learning, QRS masking, and data fus"
+WOS:001161161900076,2023,H1_Giyilebilir,TI,wearable,Fetal Movement Detection With a Wearable Acoustic Device
+WOS:001848142400001,2026,H1_Giyilebilir,DE,wearable,terine electromyography; cardiotocography; uterine contraction monitoring; preterm birth; wearable sensors; biomedical signal processing; reporting standard
+WOS:000867362000002,2022,H2_IoT_bulut,TI,iomt,An IoMT enabled deep learning framework for automatic detection of fetal QRS: A solution to remot
+WOS:000867362000002,2022,H4_Ev_ortami,TI,remote prenatal, IoMT enabled deep learning framework for automatic detection of fetal QRS: A solution to remote prenatal care
+WOS:000389192000128,2016,H2_IoT_bulut,AB,telemonitoring," learning approach to compress/recover FECG signals, improving the computation speed in a telemonitoring system. The problem is analogous to the reconstruction of a non-sparse signal in compress"
+WOS:001253778900298,2024,H1_Giyilebilir,TI,wearable,Deep Quasi-Periodic Priors: Signal Separation in Wearable Systems with Limited Data
+WOS:001756820900004,2026,H1_Giyilebilir,AB,wearable,"urate and continuous fetal heart-rate (FHR) monitoring, particularly in point-of-care and wearable healthcare applications. Conventional signal-processing approaches often operate offline "
+WOS:001756820900004,2026,H3_Kenar_gomulu,AB,microcontroller,"her evaluate the edge deployment feasibility, the proposed model was deployed on an ESP32 microcontroller, demonstrating the stable detection performance with real-time inference. These results d"
+WOS:001756820900004,2026,H4_Ev_ortami,AB,home-based,"urate, robust, and deployable fetal heart monitoring suitable for continuous clinical and home-based use. The source codes and trained models are available at: https://github.com/SSanjay0614"
+WOS:001698402200001,2026,H1_Giyilebilir,TI,wearable,"Wearable health-tracking technologies in pregnancy: capabilities, clinical evidence, and implement"
+WOS:001698402200001,2026,H2_IoT_bulut,AB,mhealth,"y, sleep patterns, and pregnancy-specific indicators. When integrated with mobile health (mHealth) platforms and artificial intelligence (AI)-based analytics, these technologies offer opp"
+WOS:001610750700039,2025,H2_IoT_bulut,TI,iot,IoT assisted fetal health classification using mother optimization algorithm with deep learni
+WOS:001004541400042,2023,H1_Giyilebilir,TI,wearable,An IoT-Based Wearable Labor Progress Monitoring System for Remote Evaluation of Admission Time to Hospital
+WOS:001004541400042,2023,H2_IoT_bulut,TI,iot,An IoT-Based Wearable Labor Progress Monitoring System for Remote Evaluation of Admission Time t
+WOS:001004541400042,2023,H4_Ev_ortami,AB,at home,"tor's clinical experience. Therefore, exploring an objective method to detect labor onset at home and avoid early hospital admission has essential importance. In this article, a labor pro"
+WOS:001447271200312,2024,H1_Giyilebilir,AB,wearable,"y quasi-periodic signals when limited data is available. The problem frequently arises in wearable systems in which, a combination of quasi-periodic physiological phenomena give rise to th"
+WOS:001443435400001,2025,H2_IoT_bulut,AB,remote monitoring,"us on the potential applications of deep learning techniques, multimodal data fusion, and remote monitoring systems. This review offers references and support for advancing the development and appl"
+WOS:001389581300008,2025,H4_Ev_ortami,TI,at home,A Portable Acoustic System for Fetal Movement Detection at Home
+WOS:000771505300006,2021,H1_Giyilebilir,AB,wearable,"can monitor high-risk pregnancies at home has received a lot of attention in the field of wearable health monitoring. However, recovering fetal movement signals from a continuous low-ampli"
+WOS:001625810100006,2025,H1_Giyilebilir,TI,wearable,"An intelligent, compact wearable pressure-strain combo sensor system for continuous fetal movement monitoring"
+WOS:001276556800003,2024,H4_Ev_ortami,AB,home-based,"n of antenatal FHR monitoring, emphasizing the potential of NIFECG in providing reliable, home-based monitoring solutions. Future research directions are outlined, urging longitudinal studie"
+WOS:001444140400001,2025,H1_Giyilebilir,TI,wearable,An IoT-Enabled Wearable Device for Fetal Movement Detection Using Accelerometer and Gyroscope Sensors
+WOS:001444140400001,2025,H2_IoT_bulut,TI,iot,An IoT-Enabled Wearable Device for Fetal Movement Detection Using Accelerometer and Gyroscope Se
+WOS:000811704400038,2022,H1_Giyilebilir,TI,wearable,Fetal Movement Detection by Wearable Accelerometer Duo Based on Machine Learning
+WOS:001332817200001,2024,H1_Giyilebilir,TI,wearable,"Wearable Sensors, Data Processing, and Artificial Intelligence in Pregnancy Monitoring: A Review"
+WOS:001332817200001,2024,H2_IoT_bulut,ID,iot,FETAL HEART; TIME; IOT
+WOS:001332817200001,2024,H4_Ev_ortami,AB,home-based,"a burden for pregnant women because of frequent travelling or hospitalization. Therefore, home-based, long-term, non-invasive health monitoring is one of the hot research areas. In recent ye"
+WOS:001801542500180,2025,H1_Giyilebilir,TI,wearable,A Novel Wearable-Based Fetal Movement Localization System Using Machine Learning
+WOS:001295411700001,2024,H1_Giyilebilir,AB,wearable,"Considered as one category of wearable systems, intelligent garments represent an opportunity for meeting special needs of vario"
+WOS:001295411700001,2024,H2_IoT_bulut,AB,cloud computing,is on fetal well-being (local decision support system) and a medical expert system on the cloud computing platform with which clinicians can make advanced medical diagnosis. In this wearable syst
+WOS:001295411700001,2024,H3_Kenar_gomulu,AB,microcontroller,"ality, (2) a network of sensors integrated into the right positions of the garment, (3) a microcontroller also integrated into the garment, permitting to merge and analyze data measured from thes"
+WOS:001651648700001,2025,H1_Giyilebilir,AB,wearable,"s clinician expertise and resources; frequent use is not feasible, particularly in LMICs. Wearable FM monitors have been proposed for FM empirical movement monitoring, however, clinical im"
+WOS:000455345900002,2018,H2_IoT_bulut,DE,mhealth,Doppler Ultrasound; Fetal Monitoring; Human Computer Interface; LMIC; Machine Learning; mHealth; Point of Care Diagnostics; Signal Processing
+WOS:001248859500001,2024,H1_Giyilebilir,AB,wearable,-effective and non-invasive imaging solution for fetal monitoring. The fusion of ERT with wearable e-textile devices facilitates continuous and portable monitoring. To improve the quality 
+WOS:000718164200014,2021,H1_Giyilebilir,AB,wearable,oses a novel algorithm for automatic fetal movement recognition using data collected from wearable tri-axial accelerometers strategically placed on the maternal abdomen. The novelty of the
+WOS:000718164200014,2021,H4_Ev_ortami,AB,home monitoring,tal movement detection that can be used outside hospital would represent an advance in at-home monitoring of at-risk pregnancies. This is a challenging task that requires the use of advanced sign
+WOS:001085214200066,2023,H2_IoT_bulut,AB,iomt,"uterine growth retardation. With the rapid development of the Internet of Medical Things (IoMT), fetal R-peak detection plays an important role in diagnosing heart defects during pregn"
+WOS:000399823505163,2016,H1_Giyilebilir,TI,body-worn,Detection of Fetal Kicks Using Body-Worn Accelerometers During Pregnancy: Trade-offs Between Sensors Number and Positioning
+WOS:000564434800003,2020,H1_Giyilebilir,TI,wearable,A Wearable System for In-Home and Long-Term Assessment of Fetal Movement
+WOS:000564434800003,2020,H2_IoT_bulut,AB,e-health,"ical professionals and hospital resources, and has potential applications in the field of e-Health home care. Besides, the fetal movement acceleration signals acquired with volunteers (pre"
+WOS:000564434800003,2020,H3_Kenar_gomulu,AB,microcontroller,"he system mainly consists of four accelerometers for fetal movement signal acquisition, a microcontroller for signal processing and an Android-based device interacting with the microcontroller vi"
+WOS:001765120500001,2026,H4_Ev_ortami,AB,home-based,"ethods, are limited by subjectivity and lack of reliability, especially in continuous and home-based settings. Recent advances in technology have introduced automated methods of FM detection"
+WOS:000878266500072,2022,H1_Giyilebilir,AB,wearable,"Despite wearable electronic devices having enormous potential applications, the recording quality has not "
+WOS:001113486300001,2024,H1_Giyilebilir,TI,wearable,Multi-modal detection of fetal movements using a wearable monitor
+WOS:001502246200001,2025,H2_IoT_bulut,DE,internet of things,Maternal care; Infant health; Real-time monitoring; Internet of things; Artificial intelligence; Wearables
+WOS:001679946200001,2026,H1_Giyilebilir,TI,wearable,A flexible wearable system for uterine contraction monitoring and admission decision support
+WOS:001679946200001,2026,H4_Ev_ortami,AB,home-based,"rce use. Traditional monitoring devices have limited portability and comfort, restricting home-based use.Objective This study developed and validated a wearable system integrating flexible s"
+WOS:001291777300001,2024,H1_Giyilebilir,TI,wearable,l intelligence algorithms for remote fetal heart rate monitoring and classification using wearable fetal phonocardiography
+WOS:000403312900038,2017,H1_Giyilebilir,AB,wearable,19 labour and 18 non-labour) from pregnant women at different stages of pregnancy using a wearable sensor designed to be attached to the abdomen using an adhesive patch. We extracted time 
+WOS:000582693600112,2020,H1_Giyilebilir,AB,wearable,onditions throughout pregnancy. The envisioned application is based on the integration of wearable sensors and devices connected by an ad-hoc smartphone app in communication with an ob-gyn
+WOS:000582693600112,2020,H2_IoT_bulut,AB,smartphone app,cation is based on the integration of wearable sensors and devices connected by an ad-hoc smartphone app in communication with an ob-gyn clinical center. Advanced signal and image processing sof
+WOS:001147952900001,2024,H2_IoT_bulut,AB,remote monitoring,on fetal phonocardiographic signals might be an important finding in the effort of making remote monitoring of fetal wellbeing inexpensive and accessible.
+WOS:000804680400005,2022,H1_Giyilebilir,TI,wearable,Assessment of Fetal and Maternal Well-Being During Pregnancy Using Passive Wearable Inertial Sensor
+WOS:001542032600027,2025,H2_IoT_bulut,TI,sdn,AI-Driven fetal distress monitoring SDN-IoMT networks
+WOS:001852612800045,2026,H1_Giyilebilir,AB,wearable,"tional AI models require substantial computational resources, making them impractical for wearable, battery-powered devices designed for continuous monitoring. In this study, we propose a "
+WOS:001852612800045,2026,H2_IoT_bulut,DE,internet of things,on-chip; cardiotocography (CTG); deep learning; fetal compromise; fetal heart rate (FHR); Internet of Things; time-series classification
+WOS:001852612800045,2026,H3_Kenar_gomulu,TI,edge ai,"Edge AI for Low Power, Real-Time Detection of Fetal Compromise"
+WOS:000697297800001,2021,H1_Giyilebilir,AB,wearable,ion value of 89.74%. The proposed FM detection system has great potential and promise for wearable FM health monitoring.
+WOS:000754704300001,2022,H2_IoT_bulut,TI,iot,nal and Fetal using Deep Convolution Generative Adversarial Network for Smart Health Care IoT System
+WOS:000754704300001,2022,H4_Ev_ortami,TI,ambulatory,Ambulatory Monitoring of Maternal and Fetal using Deep Convolution Generative Adversarial Network fo
+WOS:001425046000001,2025,H2_IoT_bulut,AB,remote monitoring,"itoring, the application of big data and artificial intelligence, innovations in home and remote monitoring and consideration of human factors."
+WOS:001504136600014,2025,H1_Giyilebilir,TI,wearable,LaborEase: An Artificial Intelligence-Based Wearable Electrohysterography Device for Preterm Pregnancy Detection
+WOS:001652465700001,2026,H2_IoT_bulut,AB,remote monitoring,"seamlessly take informed decisions, rather than engage in time consuming data collection. Remote monitoring capability is an added advantage.ConclusionThe device has the potential to ably assist ob"
+WOS:001479676800065,2024,H1_Giyilebilir,AB,wearable,ring the third trimester of pregnancy-edema and fatigue-using physiological measures from wearable devices and self-reported daily surveys. Our approach employs a Graph Neural Network (GNN

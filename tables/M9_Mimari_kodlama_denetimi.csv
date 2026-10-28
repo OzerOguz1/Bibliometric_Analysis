@@ -1,0 +1,65 @@
+﻿UT,Eklenen,Cikarilan,Gerekce
+WOS:000221610800030,A1_Klasik_DSP; A2_Klasik_ML,,Kalman süzme ve yaklaşık entropi ile genetik algoritma birlikte uygulanmıştır.
+WOS:000269424300001,A1_Klasik_DSP; A2_Klasik_ML,,Çok ölçekli entropi ve k-ortalamalar kümelemesi açıkça uygulanmıştır.
+WOS:000275998200001,A1_Klasik_DSP; A2_Klasik_ML,,Otoregresif model ve güç spektral yoğunluğu ile destek vektör makinesi uygulanmıştır.
+WOS:000381813000261,A1_Klasik_DSP; A2_Klasik_ML,,Karhunen–Loève ayrıştırması ve destek vektör makinesi uygulanmıştır.
+WOS:001389132800059,A1_Klasik_DSP; A2_Klasik_ML,,Sıkıştırma tabanlı indisler ve destek vektör makinesi uygulanmıştır.
+WOS:001628064900001,A1_Klasik_DSP; A2_Klasik_ML,,Çok ölçekli bulanık entropi ile boosted ve RUSBoosted ağaçlar uygulanmıştır.
+WOS:001757229500010,A1_Klasik_DSP; A2_Klasik_ML,,Frekans alt bant ayrıştırması ve bagged tree sınıflandırıcı uygulanmıştır.
+WOS:000671179600029,A1_Klasik_DSP,,Dijital süzme ve zaman–frekans öznitelik çıkarımı uygulanmıştır.
+WOS:000697297800001,A1_Klasik_DSP,,Kalman ve uyarlamalı süzme uygulanmıştır.
+WOS:000764066600265,A1_Klasik_DSP,,ARMA ve sistem denetimi temelli öznitelik mühendisliği uygulanmıştır.
+WOS:001113486300001,A1_Klasik_DSP,,Veriye bağlı eşikleme uygulanmıştır.
+WOS:001658937100001,A1_Klasik_DSP,,Uyarlamalı süzme ve dinamik tepe eşikleme uygulanmıştır.
+WOS:001782745800001,A1_Klasik_DSP,,"Uyarlamalı eşikleme, tepe saptama ve RMS zarf çıkarımı açıkça ele alınmıştır."
+WOS:000235178003072,A2_Klasik_ML,,Uygulanan yöntem neural network olarak açıkça bildirilmiştir.
+WOS:000267347500067,A2_Klasik_ML,,Uygulanan sınıflandırıcı neural network olarak açıkça bildirilmiştir.
+WOS:000261093200002,A2_Klasik_ML,,Uygulanan sınıflandırıcı neural network olarak açıkça bildirilmiştir.
+WOS:000306716100344,A2_Klasik_ML,,Uygulanan çıkarım yöntemi neural network olarak açıkça bildirilmiştir.
+WOS:000312381400156,A2_Klasik_ML,,Destek vektör makinesi ve Bayes sınıflandırıcıları uygulanmıştır.
+WOS:000345518700022,A2_Klasik_ML,,Dynamic self-organised multilayer network açıkça bildirilmiştir.
+WOS:000367733300015,A2_Klasik_ML,,Destek vektör makinesi uygulanmıştır.
+WOS:000403312900038,A2_Klasik_ML,,Random forest sınıflandırıcı uygulanmıştır.
+WOS:000434520900004,A2_Klasik_ML,,Sparse learning yöntemi uygulanmıştır.
+WOS:000544249200093,A2_Klasik_ML,,Deep Gaussian process modeli uygulanmıştır.
+WOS:000751673300055,A2_Klasik_ML,,Support vector regression uygulanmıştır.
+WOS:000757314000001,A2_Klasik_ML,,Artificial neural network açıkça uygulanmıştır.
+WOS:000920259300001,A2_Klasik_ML,,Gaussian process modeli uygulanmıştır.
+WOS:000948637300001,A2_Klasik_ML,,Ensemble tree sınıflandırıcı uygulanmıştır.
+WOS:000963557700001,A2_Klasik_ML,,Support vector machine uygulanmıştır.
+WOS:001651648700001,A2_Klasik_ML,,Ensemble RUSBoost modeli uygulanmıştır.
+WOS:001583539400001,A3_CNN,,Bir boyutlu U-Net mimarisi uygulanmıştır.
+WOS:001706337700620,A3_CNN,,MSEU-Net mimarisi uygulanmıştır.
+WOS:001756820900004,A3_CNN,A1_Klasik_DSP,Öğrenilen convolutional bank ve convolutional kernels uygulanmıştır. Genel dizin filtresi terimleri ayrı bir klasik DSP kanıtı sayılmamıştır.
+WOS:001313678400018,A4_RNN_LSTM,,A-BiGRU mimarisi uygulanmıştır.
+WOS:001681366700001,A4_RNN_LSTM,,Derleme kaydı recurrent mimarileri fetal EKG uygulamasıyla açıkça ele almaktadır.
+WOS:000184903300182,A1_Klasik_DSP,,Uyarlamalı süzme uygulanmıştır.
+WOS:000233197000040,A1_Klasik_DSP,,Uyarlamalı süzme uygulanmıştır.
+WOS:000426868700050,A2_Klasik_ML,,Kayıtta destek vektör makinesi uygulanmıştır.
+WOS:000529790700141,A2_Klasik_ML,,Kayıtta destek vektör makinesi uygulanmıştır.
+WOS:000691634400002,A2_Klasik_ML,,Kayıtta artificial neural network uygulanmıştır.
+WOS:000701512600001,A2_Klasik_ML,,Kayıtta destek vektör makinesi uygulanmıştır.
+WOS:001619307500001,A2_Klasik_ML,,Kayıtta destek vektör makinesi uygulanmıştır.
+WOS:001749863400001,A3_CNN,,ResNet101 mimarisi uygulanmıştır.
+WOS:000972542400001,A3_CNN; A4_RNN_LSTM,,Temporal convolutional network ve long-short term memory birlikte uygulanmıştır.
+WOS:000876691300050,A2_Klasik_ML,A1_Klasik_DSP,Neural network uygulanmıştır. Spectral analysis yalnızca önceki çalışmaları anlatmaktadır.
+WOS:001658892200045,A10_Aciklanabilirlik,,Kayıt fizyolojik katkıları inceleyen interpretability analyses raporlamaktadır.
+WOS:001720695900001,A10_Aciklanabilirlik,,Kayıt model kararlarını açıklayan interpretable analyses raporlamaktadır.
+WOS:000285401600003,A2_Klasik_ML,A1_Klasik_DSP,Wavelet yalnızca Keywords Plus alanındadır. Uygulanan yöntem neural network olarak bildirilmiştir.
+WOS:000878266500072,,A5_Transformer,"Transformer sözcüğü dikkat mimarisi değil, adaptif şablon güncelleyici bileşen adıdır."
+WOS:000811704400038,,A10_Aciklanabilirlik,"Feature importance sensör sayısı ve yerleşimi bağlamındadır, XAI yöntemi değildir."
+WOS:001659166500001,,A10_Aciklanabilirlik,"Random-forest feature importance özellik seçimi için kullanılmıştır, XAI analizi değildir."
+WOS:001680956100003,,A10_Aciklanabilirlik,"Feature-importance ranking özellik seçimi içindir, XAI analizi değildir."
+WOS:000627374800095,,A1_Klasik_DSP,Adaptive filtering yalnızca karşılaştırmalı arka plan bağlamında geçmektedir.
+WOS:000458801900009,,A2_Klasik_ML,Multilayer perceptron yalnızca karşılaştırma bağlamındadır. Uygulanan CWT ve CNN etiketleri korunmuştur.
+WOS:000394812800001,,A1_Klasik_DSP,Normalized compression distance taksonomideki DSP ailesine kesin biçimde atanamadığı için ihtiyatlı olarak kodlanmamıştır.
+WOS:000564434800003,,A2_Klasik_ML,Fuzzy ARTMAP yalnızca Keywords Plus alanındadır. Özde aileye özgü algoritma bildirilmemiştir.
+WOS:000825002600001,,A1_Klasik_DSP,"Derlemenin özü belirli bir DSP ailesi bildirmemekte, source separation yalnızca Keywords Plus alanında geçmektedir."
+WOS:001253778900298,,A1_Klasik_DSP,Signal separation ifadesi tek başına tanımlı klasik DSP ailelerinden birini göstermemektedir.
+WOS:001330181500001,,A1_Klasik_DSP; A2_Klasik_ML,"Kayıt genel neural network ve source separation bildirir, ancak taksonomideki alt aileyi ayırmaya yetecek mimari ayrıntı vermez."
+WOS:001442968500008,,A1_Klasik_DSP; A2_Klasik_ML,"Coherence-spectrum learning ve genel neural network, tanımlı alt ailelerden birine kesin atanamamıştır."
+WOS:001661477800001,,A1_Klasik_DSP; A2_Klasik_ML,Genel machine learning ve veri birleştirme ifadesi tanımlı alt aileyi ayırmaya yetmemektedir.
+WOS:001772884100013,,A2_Klasik_ML,Dual-branch neural network için taksonomideki alt aileyi ayıracak mimari ayrıntı verilmemiştir.
+WOS:001848142400001,,A10_Aciklanabilirlik,Explainable models yalnızca gelecek araştırma önceliği olarak anılmıştır.
+WOS:001861520400001,,A10_Aciklanabilirlik; A1_Klasik_DSP,Empirical mode decomposition yalnızca Keywords Plus alanındadır ve öz belirli bir klasik DSP yöntemi bildirmemektedir. Explainable models yalnızca gelecek araştırma önerisi olarak anılmıştır.
+WOS:000891267200001,,A1_Klasik_DSP,Approximate entropy yalnızca Keywords Plus alanındadır. Özde uygulanan MLP ve CNN mimarileri açıkça bildirilmiştir.

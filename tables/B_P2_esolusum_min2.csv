@@ -1,0 +1,33 @@
+﻿Öğe,Sıklık,Derece,Bağlantı_gücü,Küme,Derece_merkeziliği,Arasındalık
+fetal monitoring,7,20,32,1,0.6452,0.0583
+feature extraction,4,17,24,1,0.5484,0.0157
+pregnancy,4,12,14,1,0.3871,0.004
+artificial neural network,3,7,9,1,0.2258,0.0011
+clinical decision support system,3,10,13,1,0.3226,0.002
+empirical mode decomposition,3,18,21,1,0.5806,0.0147
+support vector machine,3,15,18,1,0.4839,0.0099
+sensors,2,8,8,1,0.2581,0.0033
+telemedicine,2,6,7,1,0.1935,0.003
+wavelet transform,2,11,12,1,0.3548,0.0014
+signal processing,16,29,75,2,0.9355,0.1522
+fetal heart rate,15,25,73,2,0.8065,0.0593
+classification,13,24,67,2,0.7742,0.0736
+cardiotocography,12,25,69,2,0.8065,0.0548
+fetal heart rate variability,7,15,35,2,0.4839,0.0073
+nonlinear analysis,5,15,30,2,0.4839,0.0038
+feature selection,4,11,22,2,0.3548,0.001
+fetal hypoxia,4,15,24,2,0.4839,0.0096
+convolutional neural network,2,6,7,2,0.1935,0.0
+fetal electrocardiography,4,11,13,3,0.3548,0.0053
+electrocardiography,3,7,7,3,0.2258,0.0005
+performance evaluation,3,12,15,3,0.3871,0.0035
+time-frequency analysis,3,16,25,3,0.5161,0.0104
+artificial intelligence,2,11,13,3,0.3548,0.0028
+doppler ultrasound,2,11,13,3,0.3548,0.0054
+machine learning,9,22,42,4,0.7097,0.0716
+accelerometer,2,5,8,4,0.1613,0.0
+fetal movement,2,5,8,4,0.1613,0.0
+wearable technology,2,5,8,4,0.1613,0.0
+preterm birth,7,15,26,5,0.4839,0.0209
+electrohysterography,6,16,21,5,0.5161,0.0302
+prediction,2,3,5,5,0.0968,0.0

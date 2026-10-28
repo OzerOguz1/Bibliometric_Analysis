@@ -1,0 +1,18 @@
+﻿UT,PY,DT,Modalite,TI,Karar,Gerekce
+WOS:000330995200005,2013,Article,M1_CTG_FHR,Application of fuzzy inference systems for classification of fetal heart rate tracings in relation to neonatal outcome,1,Classification evaluated against Apgar score
+WOS:000350044702199,2014,Proceedings Paper,M1_CTG_FHR,Nearest-Neighbor based Wavelet Entropy Rate Measures for Intrapartum Fetal Heart Rate Variability,0,"Acidosis named as motivation, reference standard not stated"
+WOS:000371717202065,2015,Proceedings Paper,M1_CTG_FHR,p-leader Multifractal Analysis and Sparse SVM for Intrapartum Fetal Acidosis Detection,1,Model built for intrapartum fetal acidosis detection
+WOS:000371717202155,2015,Proceedings Paper,M1_CTG_FHR,Intrapartum Fetal Heart Rate Classification from Trajectory in Sparse SVM feature space,0,"Acidosis named as motivation, reference standard not stated"
+WOS:000401096700010,2017,Article,M1_CTG_FHR,Sparse Support Vector Machine for Intrapartum Fetal Heart Rate Classification,1,Model built for fetal acidosis detection
+WOS:000423997100010,2017,Article,M1_CTG_FHR,Investigating pH based evaluation of fetal heart rate (FHR) recordings,1,Classes formed from umbilical cord artery pH
+WOS:000458801900009,2017,Proceedings Paper,M1_CTG_FHR,The Use of Convolutional Neural Networks in Biomedical Data Processing,1,Testing with a pH threshold of 7.15
+WOS:000434520900004,2018,Article,M1_CTG_FHR,Sparse learning for Intrapartum fetal heart rate analysis,1,Joint feature selection and acidosis prediction
+WOS:000482780300001,2019,Article,M1_CTG_FHR; M2_EHG_TOCO,Prediction of intrapartum fetal hypoxia considering feature selection algorithms and machine learning models,1,Classes formed from umbilical artery pH below 7.20
+WOS:000484377700017,2019,Review,M1_CTG_FHR; M3_fECG,"Computer-based intrapartum fetal monitoring and beyond: A review of the 2nd Workshop on Signal Processing and Monitoring in Labor (October 2017, Oxford, UK)",0,Review
+WOS:000651881500001,2021,Article,M1_CTG_FHR; M3_fECG,Fetal Cardiovascular Decompensation During Labor Predicted From the Individual Heart Rate Tracing: A Machine Learning Approach in Near-Term Fetal Sheep Model,0,Animal model with induced acidaemia
+WOS:000747680300001,2022,Article,M1_CTG_FHR,Machine Learning Algorithm to Predict Acidemia Using Electronic Fetal Monitoring Recording Parameters,1,Model built to predict acidaemia
+WOS:001133788303150,2023,Proceedings Paper,M1_CTG_FHR; M2_EHG_TOCO,Machine Learning to Classify Cardiotocography for Fetal Hypoxia Detection,1,Apgar score used as the benchmark
+WOS:001326807700051,2024,Proceedings Paper,M1_CTG_FHR,Exploring Effective Approaches on Transformer-Based Neural Models for Multi-clinical Large-Scale Cardiotocogram Data,1,Apgar score and cord pH used as prognosis labels
+WOS:001616239000149,2024,Proceedings Paper,,Multimodal Model for Predicting Fetal Acidosis in Delivery Room,1,Multimodal model built to predict fetal acidosis
+WOS:001389132800059,2025,Article,M1_CTG_FHR,Extraction of compression indices from maternal-fetal heart rate simultaneous signals,1,Classifier separating cases with and without acidaemia
+WOS:001852612800045,2026,Article,M1_CTG_FHR,"Edge AI for Low Power, Real-Time Detection of Fetal Compromise",1,Model built to detect fetal compromise defined by pH below 7.05

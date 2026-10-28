@@ -1,0 +1,191 @@
+﻿İlk_yazar,Yıl,Başlık,Kaynak,TC,Küme,Derece,Bağlantı_gücü
+"Comert, Zafer",2018,Prognostic model based on image-based time-frequency features and genetic algorithm for fetal hypoxia assessme,COMPUTERS IN BIOLOGY AND MEDICINE,61,1,46,380
+"Alsaggaf, Wafaa",2020,Predicting fetal hypoxia using common spatial pattern and machine learning from cardiotocography signals,APPLIED ACOUSTICS,37,1,47,325
+"Ponsiglione, Alfonso Maria",2021,A Comprehensive Review of Techniques for Processing and Analyzing Fetal Heart Rate Signals,SENSORS,55,1,40,268
+"Georgoulas, George",2017,Investigating pH based evaluation of fetal heart rate (FHR) recordings,HEALTH AND TECHNOLOGY,55,1,41,264
+"da Silva Neto, Manuel Goncalves",2021,Towards an efficient prognostic model for fetal state assessment,MEASUREMENT,7,1,43,264
+"Fuentealba, Patricio",2019,Cardiotocographic Signal Feature Extraction Through CEEMDAN and Time-Varying Autoregressive Spectral-Based Ana,IEEE ACCESS,21,1,39,260
+"da Silva Neto, Manuel Goncalves",2022,On designing a biosignal-based fetal state assessment system: A systematic mapping study,COMPUTER METHODS AND PROGRAMS IN BIOMEDICINE,6,1,45,255
+"Lovers, Aimee",2025,Advancements in Fetal Heart Rate Monitoring: A Report on Opportunities and Strategic Initiatives for Better In,BJOG-AN INTERNATIONAL JOURNAL OF OBSTETRICS AND GYNAECOLOGY,15,1,45,230
+"Kurtadikar, Vidya Sujit",2024,1D-CNN: Classification of normal delivery and cesarean section types using cardiotocography time-series signal,JOURNAL OF INTELLIGENT SYSTEMS,1,1,44,227
+"Zhao, Zhidong",2018,A Comprehensive Feature Analysis of the Fetal Heart Rate Signal for the Intelligent Assessment of Fetal State,JOURNAL OF CLINICAL MEDICINE,41,1,39,217
+"Abry, P.",2018,Sparse learning for Intrapartum fetal heart rate analysis,BIOMEDICAL PHYSICS & ENGINEERING EXPRESS,23,1,29,212
+"Fergus, Paul",2018,Machine learning ensemble modelling to classify caesarean section and vaginal delivery types using Cardiotocog,COMPUTERS IN BIOLOGY AND MEDICINE,68,1,38,201
+"Comert, Zafer",2019,Prediction of intrapartum fetal hypoxia considering feature selection algorithms and machine learning models,HEALTH INFORMATION SCIENCE AND SYSTEMS,46,1,30,199
+"Chen, Cang",2023,Deep Learning for Cardiotocography Analysis: Challenges and Promising Advances,"ADVANCED INTELLIGENT COMPUTING TECHNOLOGY AND APPLICATIONS, ",2,1,36,193
+"Georgieva, Antoniya",2019,Computer-based intrapartum fetal monitoring and beyond: A review of the 2nd Workshop on Signal Processing and ,ACTA OBSTETRICIA ET GYNECOLOGICA SCANDINAVICA,45,1,32,186
+"Bertieaux, Julien",2023,Cardiotocography Signal Abnormality Detection based on Deep Semi-Unsupervised Learning,PROCEEDINGS OF THE IEEE/ACM 10TH INTERNATIONAL CONFERENCE ON,3,1,35,156
+"Comert, Zafer",2017,"A Novel Software for Comprehensive Analysis of Cardiotocography Signals ""CTG-OAS""",2017 INTERNATIONAL ARTIFICIAL INTELLIGENCE AND DATA PROCESSI,3,1,29,152
+"Spilka, Jiri",2017,Sparse Support Vector Machine for Intrapartum Fetal Heart Rate Classification,IEEE JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS,68,1,23,148
+"Liang, Yaqi",2026,FA-CTGTrans: a frequency-aware CTG transformer for fetal state assessment from intrapartum cardiotocography si,BIOMEDICAL SIGNAL PROCESSING AND CONTROL,0,1,26,130
+"Lu, Yaosheng",2026,MIRF-Net: A Multimodal Data Fusion Framework for Intrapartum Fetal Risk Assessment,BIOENGINEERING-BASEL,0,1,27,127
+"Comert, Zafer",2019,Fetal Hypoxia Detection Based on Deep Convolutional Neural Network with Transfer Learning Approach,SOFTWARE ENGINEERING AND ALGORITHMS IN INTELLIGENT SYSTEMS,60,1,19,122
+"Zhou, Zhixin",2023,Improvement of accuracy and resilience in FHR classification via double trend accumulation encoding and attent,BIOMEDICAL SIGNAL PROCESSING AND CONTROL,3,1,33,122
+"Feng, Guanchao",2023,Cardiotocography analysis by empirical dynamic modeling and Gaussian processes,FRONTIERS IN BIOENGINEERING AND BIOTECHNOLOGY,4,1,25,117
+"O'Sullivan, M.",2021,Classification of fetal compromise during labour: signal processing and feature engineering of the cardiotocog,29TH EUROPEAN SIGNAL PROCESSING CONFERENCE (EUSIPCO 2021),11,1,25,111
+"Deng, Yanjun",2025,A time-series progressive generative adversarial network for improving imbalanced fetal heart rate signal clas,APPLIED INTELLIGENCE,0,1,27,108
+"Khan, M. Jaleed",2025,PatchCTG: A Patch Cardiotocography Transformer for Antepartum Fetal Health Monitoring,SENSORS,5,1,29,107
+"Mohan, P. P. Aswathi",2025,FHR signal analysis using attention-based 1DCNN-BiLSTM neural network for intrapartum fetal monitoring,DIGITAL SIGNAL PROCESSING,7,1,25,101
+"Zhang, Yefei",2026,Expert consensus-driven spatial-temporal graph neural network for enhanced diagnosis of chronic fetal distress,ENGINEERING APPLICATIONS OF ARTIFICIAL INTELLIGENCE,0,1,23,92
+"Al-Yousif, Shahad",2022,"Intrapartum cardiotocography trace pattern pre-processing, features extraction and fetal health condition diag",PEERJ COMPUTER SCIENCE,8,1,18,87
+"Czabanski, Robert",2015,Efficient Evaluation of Fetal Wellbeing During Pregnancy Using Methods Based on Statistical Learning Principle,JOURNAL OF MEDICAL IMAGING AND HEALTH INFORMATICS,8,1,15,81
+"Mendis, Lochana",2026,"Edge AI for Low Power, Real-Time Detection of Fetal Compromise",IEEE INTERNET OF THINGS JOURNAL,0,1,19,76
+"Fergus, Paul",2021,Modelling Segmented Cardiotocography Time-Series Signals Using One-Dimensional Convolutional Neural Networks f,IEEE TRANSACTIONS ON EMERGING TOPICS IN COMPUTATIONAL INTELL,30,1,18,74
+"Spilka, J.",2015,Intrapartum Fetal Heart Rate Classification from Trajectory in Sparse SVM feature space,2015 37TH ANNUAL INTERNATIONAL CONFERENCE OF THE IEEE ENGINE,8,1,12,73
+"Lee, Kwang-Sig",2023,Real-time Classification of Fetal Status Based on Deep Learning and Cardiotocography Data,JOURNAL OF MEDICAL SYSTEMS,11,1,15,66
+"Ponsiglione, Alfonso Maria",2022,Multiparametric Investigation of Dynamics in Fetal Heart Rate Signals,BIOENGINEERING-BASEL,19,1,12,64
+"Lu, Yu",2025,MSEU-Net: Multi-Scale Segmentation and Baseline Estimation in Fetal Heart Rate Time Series,"2025 INTERNATIONAL JOINT CONFERENCE ON NEURAL NETWORKS, IJCN",0,1,17,64
+"Li, Xiaoqing",2025,CTGDiff: A Conditional Diffusion Model for Cardiotocography Signal Synthesis,"2025 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS, SPEECH AND ",0,1,14,60
+"Spairani, Edoardo",2022,A deep learning mixed-data type approach for the classification of FHR signals,FRONTIERS IN BIOENGINEERING AND BIOTECHNOLOGY,27,1,15,58
+"Das, Sahana",2023,Fetal Health Classification from Cardiotocograph for Both Stages of Labor-A Soft-Computing-Based Approach,DIAGNOSTICS,13,1,14,55
+"Lu, Yu",2023,MT-1DCG: A Novel Model for Multivariate Time Series Classification,"ADVANCED INTELLIGENT COMPUTING TECHNOLOGY AND APPLICATIONS, ",1,1,13,53
+"Comert, Zafer",2018,The Influences of Different Window Functions and Lengths on Image-based Time-Frequency Features of Fetal Heart,2018 26TH SIGNAL PROCESSING AND COMMUNICATIONS APPLICATIONS ,0,1,8,52
+"Comert, Zafer",2018,Performance Evaluation of Empirical Mode Decomposition and Discrete Wavelet Transform for Computerized Hypoxia,2018 26TH SIGNAL PROCESSING AND COMMUNICATIONS APPLICATIONS ,0,1,10,49
+"Ferrario, Manuela",2009,Complexity analysis of the fetal heart rate variability: early identification of severe intrauterine growth-re,MEDICAL & BIOLOGICAL ENGINEERING & COMPUTING,83,1,12,47
+"Puspitasari, Riskyana Dewi Intan",2022,Generative adversarial networks for unbalanced fetal heart rate signal classification,ICT EXPRESS,21,1,11,46
+"Asfaw, Daniel",2023,Fetal Heart Rate Classification with Convolutional Neural Networks and the Effect of Gap Imputation on Their P,"MACHINE LEARNING, OPTIMIZATION, AND DATA SCIENCE, LOD 2022, ",3,1,12,43
+"Pardasani, Rohit",2025,Development of a novel artificial intelligence algorithm for interpreting fetal heart rate and uterine activit,FRONTIERS IN DIGITAL HEALTH,4,1,10,39
+"Esteban-Escano, Javier",2022,Machine Learning Algorithm to Predict Acidemia Using Electronic Fetal Monitoring Recording Parameters,ENTROPY,9,1,9,38
+"Valderrama, Camilo E.",2020,A Proxy for Detecting IUGR Based on Gestational Age Estimation in a Guatemalan Rural Population,FRONTIERS IN ARTIFICIAL INTELLIGENCE,8,1,9,38
+"Spilka, J.",2014,Nearest-Neighbor based Wavelet Entropy Rate Measures for Intrapartum Fetal Heart Rate Variability,2014 36TH ANNUAL INTERNATIONAL CONFERENCE OF THE IEEE ENGINE,8,1,9,35
+"Jezewski, Michal",2010,Analysis of Extracted Cardiotocographic Signal Features to Improve Automated Prediction of Fetal Outcome,BIOCYBERNETICS AND BIOMEDICAL ENGINEERING,33,1,7,31
+"Francis, Farah",2023,Machine Learning to Classify Cardiotocography for Fetal Hypoxia Detection,2023 45TH ANNUAL INTERNATIONAL CONFERENCE OF THE IEEE ENGINE,3,1,10,31
+"Tetschke, F.",2016,Assessment of fetal maturation age by heart rate variability measures using random forest methodology,COMPUTERS IN BIOLOGY AND MEDICINE,17,1,7,31
+"Bursa, Miroslav",2017,The Use of Convolutional Neural Networks in Biomedical Data Processing,"INFORMATION TECHNOLOGY IN BIO- AND MEDICAL INFORMATICS, ITBA",21,1,9,30
+"Barquero-Perez, Oscar",2017,Fetal Heart Rate Analysis for Automatic Detection of Perinatal Hypoxia Using Normalized Compression Distance a,FRONTIERS IN PHYSIOLOGY,12,1,8,30
+"Boudet, Samuel",2022,Use of Deep Learning to Detect the Maternal Heart Rate and False Signals on Fetal Heart Rate Recordings,BIOSENSORS-BASEL,21,1,9,30
+"Czabanski, Robert",2013,Application of fuzzy inference systems for classification of fetal heart rate tracings in relation to neonatal,GINEKOLOGIA POLSKA,7,1,6,30
+"Mohamed, Seeni Mohamed Aliar Maraikkayar Seeni",2025,Machine Learning-Based Detection of Fetal Respiratory Patterns: A CNN-LSTM Approach for Enhanced Perinatal Mon,TRAITEMENT DU SIGNAL,0,1,8,29
+"Wu, Jiayu",2025,MCTG: A Multimodal Self-Supervised Contrastive Learning Framework Based on CTG,PROCEEDINGS OF THE 7TH ACM INTERNATIONAL CONFERENCE ON MULTI,0,1,8,28
+"Zhou, Zhixin",2024,Filling of Fetal Heart Rate Signal: Diffusion Model Based on Dimension Construction and Period Segmentation,IEEE TRANSACTIONS ON CONSUMER ELECTRONICS,6,1,7,27
+"Ramos, Mariana S.",2025,Extraction of compression indices from maternal-fetal heart rate simultaneous signals,PLOS ONE,1,1,6,27
+"Ullah, Amin",2025,AI-Driven fetal distress monitoring SDN-IoMT networks,PLOS ONE,2,1,8,27
+"Ribeiro, Maria",2023,Machine learning models based on clinical indices and cardiotocographic features for discriminating asphyxia f,FRONTIERS IN PUBLIC HEALTH,5,1,9,27
+"Leonarduzzi, R.",2015,p-leader Multifractal Analysis and Sparse SVM for Intrapartum Fetal Acidosis Detection,2015 37TH ANNUAL INTERNATIONAL CONFERENCE OF THE IEEE ENGINE,5,1,4,26
+"Li, Xiaoqing",2024,FHRDiff: Leveraging Diffusion Models for Conditional Fetal Heart Rate Signal Generation,2024 IEEE INTERNATIONAL CONFERENCE ON BIOINFORMATICS AND BIO,2,1,4,24
+"Venkatasubramanian, S.",2022,Ambulatory Monitoring of Maternal and Fetal using Deep Convolution Generative Adversarial Network for Smart He,INTERNATIONAL JOURNAL OF ADVANCED COMPUTER SCIENCE AND APPLI,8,1,6,21
+"Warrick, Philip A.",2010,Classification of Normal and Hypoxic Fetuses From Systems Modeling of Intrapartum Cardiotocography,IEEE TRANSACTIONS ON BIOMEDICAL ENGINEERING,89,1,5,21
+"Ozturk, Sibel",2023,A Novel Approach for Cardiotocography Paper Digitization and Classification for Abnormality Detection,IEEE ACCESS,5,1,5,18
+Prachi,2025,Precision Unveiled in Unborn: A Cutting-Edge Hybrid Machine Learning Approach for Fetal Health State Classific,CARDIOVASCULAR ENGINEERING AND TECHNOLOGY,0,1,4,17
+"Spairani, Edoardo",2023,Fetal states identification in cardiotocographic tracings through discrete emissions multivariate hidden Marko,COMPUTER METHODS AND PROGRAMS IN BIOMEDICINE,6,1,4,13
+"Chen, Li",2024,DANNMCTG: Domain-Adversarial Training of Neural Network for multicenter antenatal cardiotocography signal clas,BIOMEDICAL SIGNAL PROCESSING AND CONTROL,9,1,4,12
+"Hemmi, Kazunari",2024,Exploring Effective Approaches on Transformer-Based Neural Models for Multi-clinical Large-Scale Cardiotocogra,"ADVANCES IN DIGITAL HEALTH AND MEDICAL BIOENGINEERING, VOL 1",0,1,4,12
+"Valderrama, Camilo E.",2018,Improving the Quality of Point of Care Diagnostics with Real-Time Machine Learning in Low Literacy LMIC Settin,PROCEEDINGS OF THE 1ST ACM SIGCAS CONFERENCE ON COMPUTING AN,14,1,2,11
+"Zhou, Xinghe",2026,CMA-Net: a lightweight cross-scale Mamba network for robust fetal monitoring in noisy environments,BIOMEDICAL ENGINEERING LETTERS,0,1,3,9
+"Feng, Guanchao",2019,Detecting Causality using Deep Gaussian Processes,CONFERENCE RECORD OF THE 2019 FIFTY-THIRD ASILOMAR CONFERENC,7,1,1,9
+"Fontenla-Romero, O",2001,Adaptive pattern recognition in the analysis of cardiotocographic records,IEEE TRANSACTIONS ON NEURAL NETWORKS,10,1,3,9
+"Gold, Nathan",2021,Fetal Cardiovascular Decompensation During Labor Predicted From the Individual Heart Rate Tracing: A Machine L,FRONTIERS IN PEDIATRICS,15,1,1,8
+"Signorini, Maria G.",2020,ICT4MOMs: An ICT Integrated Approach to Monitor and Manage Pregnancy Development,XV MEDITERRANEAN CONFERENCE ON MEDICAL AND BIOLOGICAL ENGINE,0,1,2,6
+"Warrick, P",2005,Neural network based detection of fetal heart rate patterns,PROCEEDINGS OF THE INTERNATIONAL JOINT CONFERENCE ON NEURAL ,24,1,1,5
+"Jezewski, Michal",2007,The Prediction of Fetal Outcome by Applying Neural Network for Evaluation of CTG Records,COMPUTER RECOGNITION SYSTEMS 2,15,1,1,5
+"Alnuaimi, Saeed Abdulrahman",2017,Fetal Cardiac Doppler Signal Processing Techniques: Challenges and Future Research Directions,FRONTIERS IN BIOENGINEERING AND BIOTECHNOLOGY,22,1,1,5
+"Warrick, Philip A.",2010,A Machine Learning Approach to the Detection of Fetal Hypoxia during Labor and Delivery,PROCEEDINGS OF THE TWENTY-FOURTH AAAI CONFERENCE ON ARTIFICI,4,1,1,4
+"Wahbah, Maisam",2024,A deep learning framework for noninvasive fetal ECG signal extraction,FRONTIERS IN PHYSIOLOGY,16,1,1,3
+"Lobo Marques, Joao Alexandre",2021,IoT-Based Smart Health System for Ambulatory Maternal and Fetal Monitoring,IEEE INTERNET OF THINGS JOURNAL,30,1,1,3
+"Lambros, S",2004,An intelligent tool for bio-magnetic signal processing,"METHODS AND APPLICATIONS OF ARTIFICIAL INTELLIGENCE, PROCEED",0,1,1,3
+"Taralunga, Dragos Daniel",2026,A systematic review on AI-driven noninvasive fetal ECG processing and analysis methods,FRONTIERS IN DIGITAL HEALTH,0,2,29,224
+"Abel, Jaba Deva Krupa",2023,A comprehensive survey on signal processing and machine learning techniques for non-invasive fetal ECG extract,MULTIMEDIA TOOLS AND APPLICATIONS,33,2,30,223
+"Marnani, Roya Aghadavoud",2024,"Advancements and Challenges in Non-Invasive Electrocardiography for Prenatal, Intrapartum, and Postnatal Care:",IEEE ACCESS,9,2,39,218
+"Huang, Zhen-Zhen",2026,A review of deep learning methods for non-invasive fetal electrocardiography,BIOMEDICAL SIGNAL PROCESSING AND CONTROL,1,2,28,207
+"Kang, Tianxu",2026,Multi-Source Electrical Signals Based on Non-Invasive Fetal Monitoring: Recent and Future,ARCHIVES OF COMPUTATIONAL METHODS IN ENGINEERING,0,2,27,171
+"Chen, Zhenqin",2026,FM-FECG: An observation-informed flow matching framework for non-invasive fetal ECG extraction,EXPERT SYSTEMS WITH APPLICATIONS,0,2,21,160
+"Krupa, Abel Jaba Deva",2022,An IoMT enabled deep learning framework for automatic detection of fetal QRS: A solution to remote prenatal ca,JOURNAL OF KING SAUD UNIVERSITY-COMPUTER AND INFORMATION SCI,48,2,26,146
+"Hsu, Ko-Tsung",2025,Maternal ECG-guided neural network for improved fetal electrocardiogram extraction,BIOMEDICAL SIGNAL PROCESSING AND CONTROL,13,2,23,145
+"Likitalo, S.",2026,Low-complexity fetal heart rate monitoring from carbon-based single-channel dry electrodes maternal electrocar,PHYSIOLOGICAL MEASUREMENT,0,2,24,144
+"Ameta, Durgesh",2026,PERFECG-Net: A Lightweight Periodicity-Focused Fetal ECG R-Peak Detection Network,IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT,1,2,24,141
+"Xu, Xiaojian",2026,A Deep Learning-Guided Ensemble Empirical Mode Decomposition Method for Single-Channel Fetal Electrocardiogram,SENSORS,0,2,21,134
+"Li, Xiongjun",2025,Review of Non-Invasive Fetal Electrocardiography Monitoring Techniques,SENSORS,12,2,22,119
+"Ma, Yaping",2018,Foetal ECG extraction using non-linear adaptive noise canceller with multiple primary channels,IET SIGNAL PROCESSING,13,2,25,115
+"Wang, Lu",2022,Fetal ECG Signal Extraction From Long-Term Abdominal Recordings Based on Adaptive QRS Removal and Joint Blind ,IEEE SENSORS JOURNAL,12,2,23,104
+"Baldazzi, Giulia",2023,Automatic signal quality assessment of raw trans-abdominal biopotential recordings for non-invasive fetal elec,FRONTIERS IN BIOENGINEERING AND BIOTECHNOLOGY,8,2,23,99
+"Pradipta, Gede Angga",2025,Enhanced Fetal Arrhythmia Classification by Non-Invasive ECG Using Cross Domain Feature and Spatial Difference,IEEE ACCESS,9,2,20,90
+"Wang, Chang",2025,"Graph-Based Spatio-temporal Attention and Multi-Scale Fusion for Clinically Interpretable, High-Fidelity Fetal","16TH ACM CONFERENCE ON BIOINFORMATICS, COMPUTATIONAL BIOLOGY",1,2,16,66
+"Qiao, Lihong",2023,A Dual Self-Calibrating Framework for Noninvasive Fetal ECG R-Peak Detection,IEEE INTERNET OF THINGS JOURNAL,19,2,17,65
+"Huque, A. S. A.",2019,HMM-based Supervised Machine Learning Framework for the Detection of fECG R-R Peak Locations,IRBM,26,2,14,64
+"Ghonchi, Hamidreza",2022,Common Spatial Pattern with Deep Learning for Fetal Heart Rate Monitoring,2022 IEEE WORKSHOP ON SIGNAL PROCESSING SYSTEMS (SIPS),2,2,13,63
+"Arellano-Zuvieta, Edgar E.",2026,Hybrid Algorithm Based on PCA and RLS Methods for Extracting of Fetal ECG from Maternal Abdominal ECG,"XLVIII MEXICAN CONFERENCE ON BIOMEDICAL ENGINEERING, CNIB 20",0,2,14,62
+"Hsu, Ko-Tsung",2024,Coherence Spectrum Learning for Fetal Electrocardiogram Extraction,"2024 IEEE WORKSHOP ON SIGNAL PROCESSING SYSTEMS, SIPS",0,2,14,61
+"Vullings, Rik",2020,Non-invasive Fetal Electrocardiography for Intrapartum Cardiotocography,FRONTIERS IN PEDIATRICS,22,2,14,59
+"Gupta, Kapil",2023,Integrated S-Transform-Based Learning System for Detection of Arrhythmic Fetus,IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT,23,2,11,42
+"Pegorie, Claire",2024,Antenatal Noninvasive Fetal Electrocardiography: A Literature Review,MATERNAL-FETAL MEDICINE,14,2,11,41
+"Fotiadou, E.",2020,Deep Convolutional Long Short-Term Memory Network for Fetal Heart Rate Extraction,42ND ANNUAL INTERNATIONAL CONFERENCES OF THE IEEE ENGINEERIN,12,2,10,35
+"Qureshi, Abuzar Ahmad",2021,An Autoencoder-Based Fetal Heart Rate Detector for Noninvasive Recordings,2021 43RD ANNUAL INTERNATIONAL CONFERENCE OF THE IEEE ENGINE,3,2,6,25
+"Haghpanahi, Masoumeh",2014,Fetal QRS extraction from abdominal recordings via model-based signal processing and intelligent signal mergin,PHYSIOLOGICAL MEASUREMENT,6,2,7,25
+"Sowmya, S.",2023,Detecting anomalies in fetal electrocardiogram records using deep learning models,JOURNAL OF INTELLIGENT & FUZZY SYSTEMS,2,2,6,21
+"Mekhfioui, Mohcin",2025,Real-time fetal arrhythmia detection using deep learning on an embedded fECG monitoring system,RESULTS IN ENGINEERING,6,2,5,17
+"Ting, Yu-Ching",2021,Implementation for Fetal ECG Detection from Multi-channel Abdominal Recordings with 2D Convolutional Neural Ne,JOURNAL OF SIGNAL PROCESSING SYSTEMS FOR SIGNAL IMAGE AND VI,21,2,5,17
+"Ng, Li Mun",2024,Non-Invasive Fetal Well-Being Monitoring Approaches: A Mini Review on Fetal Signal Separation Techniques,INTERNATIONAL JOURNAL OF INTEGRATED ENGINEERING,0,2,5,16
+"Zhang, Yuwei",2024,An Integrated Framework for Assessing the Quality of Non-invasive Fetal Electrocardiography Signals,JOURNAL OF MEDICAL AND BIOLOGICAL ENGINEERING,0,2,3,14
+"Rahman, Shanur",2022,TinyML based Classification of Fetal Heart Rate using Mother's Abdominal ECG Signal,"2022 5TH INTERNATIONAL CONFERENCE ON MULTIMEDIA, SIGNAL PROC",7,2,4,12
+"Reddy, Shashidhar V.",2024,Non-Stationary Blind Source Separation and Advanced Signal Processing Techniques for Effective Fetal ECG Extra,"2024 5TH INTERNATIONAL CONFERENCE ON CIRCUITS, CONTROL, COMM",0,2,3,9
+"Ganguly, Biswarup",2020,A Non-Invasive Approach for Fetal Arrhythmia Detection and Classification from ECG Signals,"PROCEEDINGS OF 2ND INTERNATIONAL CONFERENCE ON VLSI DEVICE, ",10,2,2,7
+"Warrick, P. A.",2015,Classification of Abdominal Fetal Electrocardiogram Recordings using Karhunen-Loeve Decomposition,WORLD CONGRESS ON MEDICAL PHYSICS AND BIOMEDICAL ENGINEERING,1,2,2,6
+"Skarga-Bandurova, Inna",2021,A Multilayer LSTM Auto-Encoder for Fetal ECG Anomaly Detection,PHEALTH 2021,3,2,2,6
+"Rad, Elias Mazrooei",2026,Revolutionizing Fetal QRS Complex Detection: A Cutting-Edge Algorithm Employing New Adaptive Filters and Peak ,IET SIGNAL PROCESSING,0,2,2,6
+"Barnova, Katerina",2026,"Electrohysterography in modern obstetrics: Advances in signal processing, machine learning, and clinical appli",ARTIFICIAL INTELLIGENCE IN MEDICINE,1,3,31,299
+"Xu, Jinshan",2022,Review on EHG signal analysis and its application in preterm diagnosis,BIOMEDICAL SIGNAL PROCESSING AND CONTROL,39,3,30,264
+"Xu, Jinshan",2022,Network Theory Based EHG Signal Analysis and its Application in Preterm Prediction,IEEE JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS,28,3,22,187
+"Fischer, A. M.",2023,End-to-end learning with interpretation on electrohysterography data to predict preterm birth,COMPUTERS IN BIOLOGY AND MEDICINE,10,3,28,187
+"Jossou, Thierry Rock",2022,N-Beats as an EHG Signal Forecasting Method for Labour Prediction in Full Term Pregnancy,ELECTRONICS,12,3,22,151
+"Chopra, Jagrati",2026,Use of uterine activity to predict preterm birth by artificial intelligence assisted models: a narrative syste,JOURNAL OF MATERNAL-FETAL & NEONATAL MEDICINE,1,3,19,150
+"Bhattacharya, Deepshikha",2026,Automated early labor detection using graph theory based attention U-Net 3+model,BIOMEDICAL SIGNAL PROCESSING AND CONTROL,0,3,18,140
+"Lou, Hangxiao",2022,Bio-process inspired characterization of pregnancy evolution using entropy and its application in preterm birt,BIOMEDICAL SIGNAL PROCESSING AND CONTROL,13,3,17,137
+"Acquaviva, Giulia",2026,Automatic detection of uterine contractions before and during labor using EHG: A systematic review,COMPUTER METHODS AND PROGRAMS IN BIOMEDICINE,1,3,17,111
+"Nieto-del-Amor, Felix",2024,Automatic semantic segmentation of EHG recordings by deep learning: An approach to a screening tool for use in,COMPUTER METHODS AND PROGRAMS IN BIOMEDICINE,10,3,16,106
+"Vandewiele, Gilles",2019,A Critical Look at Studies Applying Over-Sampling on the TPEHGDB Dataset,"ARTIFICIAL INTELLIGENCE IN MEDICINE, AIME 2019",8,3,14,106
+"Romero-Morales, Hector",2023,Enhancing classification of preterm-term birth using continuous wavelet transform and entropy-based methods of,FRONTIERS IN ENDOCRINOLOGY,19,3,20,101
+"Janjarasjitt, Suparerk",2021,Preterm-term birth classification using EMD-based time-domain features of single-channel electrohysterogram da,PHYSICAL AND ENGINEERING SCIENCES IN MEDICINE,4,3,16,93
+"Nsugbe, Ejay",2023,"On the prediction of premature births in Hispanic labour patients using uterine contractions, heart beat signa",HEALTHCARE TECHNOLOGY LETTERS,4,3,15,64
+"Fergus, Paul",2016,Advanced artificial neural network classification for detecting preterm births using EHG records,NEUROCOMPUTING,71,3,15,59
+"Vinothini, S.",2026,Analysis of Pregnancy Progression in Term Condition Using Propagation Features and Uterine EMG Measurements,IEEE SENSORS LETTERS,0,3,12,56
+"Tsipouras, Markos G.",2018,Uterine EMG Signals Spectral Analysis for Pre-Term Birth Prediction,ENGINEERING TECHNOLOGY & APPLIED SCIENCE RESEARCH,2,3,12,56
+"Nsugbe, Ejay",2021,Application of noninvasive magnetomyography in labour imminency prediction for term and preterm pregnancies an,MACHINE LEARNING WITH APPLICATIONS,7,3,13,52
+"Bayramli, Gulnur",2026,"Electrohysterography for Uterine Contractility Monitoring: Measurement Principles, Clinical Evidence, and Repo",SENSORS,0,3,10,45
+"Nishanth, V. G.",2021,Design of an EHG based Smart Labour Detection System,2021 1ST INTERNATIONAL CONFERENCE ON EMERGING SMART TECHNOLO,0,3,10,41
+"Idowu, Ibrahim Olatunji",2014,Advance Artificial Neural Network Classification Techniques Using EHG for Detecting Preterm Births,"2014 EIGHTH INTERNATIONAL CONFERENCE ON COMPLEX, INTELLIGENT",9,3,11,41
+"Nsugbe, Ejay",2022,Novel uterine contraction signals decomposition for enhanced preterm and birth imminency prediction,INTELLIGENT SYSTEMS WITH APPLICATIONS,1,3,8,39
+"Cheema, Muhammad Omar",2025,LaborEase: An Artificial Intelligence-Based Wearable Electrohysterography Device for Preterm Pregnancy Detecti,IEEE ACCESS,3,3,7,38
+"Altini, Marco",2017,Combining Electrohysterography and Heart Rate Data to Detect Labour,2017 IEEE EMBS INTERNATIONAL CONFERENCE ON BIOMEDICAL & HEAL,9,3,8,26
+"Gong, Li",2023,An IoT-Based Wearable Labor Progress Monitoring System for Remote Evaluation of Admission Time to Hospital,IEEE JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS,13,3,8,25
+"Khan, Muhammad Umar",2019,Characterization of Term and Preterm Deliveries using Electrohysterograms Signatures,"2019 IEEE 10TH ANNUAL INFORMATION TECHNOLOGY, ELECTRONICS AN",14,3,6,25
+"Borowska, Marta",2018,Identification of preterm birth based on RQA analysis of electrohysterograms,COMPUTER METHODS AND PROGRAMS IN BIOMEDICINE,24,3,6,21
+"Zheng, Kaixiao",2024,Predicting the Success of Oxytocin-Induced Labor Using TOCO Signals with Machine Learning Modeling,2024 IEEE INTERNATIONAL SYMPOSIUM ON MEDICAL MEASUREMENTS AN,0,3,5,20
+"Naeem, Safaa M.",2013,Comparison between Using Linear and Non-linear Features to Classify Uterine Electromyography Signals of Term a,2013 30TH NATIONAL RADIO SCIENCE CONFERENCE (NRSC2013),3,3,5,17
+"Fergus, Paul",2014,Evaluation of Advanced Artificial Neural Network Classification and Feature Extraction Techniques for Detectin,INTELLIGENT COMPUTING IN BIOINFORMATICS,3,3,3,15
+"Xu, Xin",2026,A flexible wearable system for uterine contraction monitoring and admission decision support,DIGITAL HEALTH,1,3,3,9
+"Portillo-Rodriguez, Otniel",2026,Towards Classification of Cervical Dilation Stages in Labor Combining Electrohysterogram and Clinical Features,"XLVIII MEXICAN CONFERENCE ON BIOMEDICAL ENGINEERING, CNIB 20",0,3,2,7
+"Altini, Marco",2018,Towards Non-invasive Labour Detection: A Free-Living Evaluation,2018 40TH ANNUAL INTERNATIONAL CONFERENCE OF THE IEEE ENGINE,8,3,1,3
+"Erickson, Elise N.",2023,Predicting labor onset relative to the estimated date of delivery using smart ring physiological data,NPJ DIGITAL MEDICINE,18,3,1,3
+"Mikolasova, Martina Palickova",2026,Beyond the kick: A structured review of advances in automated fetal movement monitoring,BIOCYBERNETICS AND BIOMEDICAL ENGINEERING,0,4,36,235
+"Liang, Sensong",2021,Passive Fetal Movement Recognition Approaches Using Hyperparameter Tuned LightGBM Model and Bayesian Optimizat,COMPUTATIONAL INTELLIGENCE AND NEUROSCIENCE,19,4,16,101
+"Mesbah, Mostefa",2021,Automatic fetal movement recognition from multi-channel accelerometry data,COMPUTER METHODS AND PROGRAMS IN BIOMEDICINE,23,4,19,101
+"Ouypornkochagorn, Taweechai",2025,A Portable Acoustic System for Fetal Movement Detection at Home,IEEE SENSORS JOURNAL,3,4,16,97
+"Ghosh, Abhishek K.",2024,Multi-modal detection of fetal movements using a wearable monitor,INFORMATION FUSION,21,4,14,80
+"Spicher, Lucy",2025,Comparative Analysis of Machine Learning Approaches for Fetal Movement Detection with Linear Acceleration and ,SENSORS,7,4,15,78
+"Zhao, X.",2020,A Wearable System for In-Home and Long-Term Assessment of Fetal Movement,IRBM,23,4,13,75
+"Liang, Sensong",2021,Passive Fetal Movement Signal Detection System Based on Intelligent Sensing Technology,JOURNAL OF HEALTHCARE ENGINEERING,10,4,14,73
+"Rattanasak, Atcharawan",2025,An IoT-Enabled Wearable Device for Fetal Movement Detection Using Accelerometer and Gyroscope Sensors,SENSORS,9,4,12,63
+"Yap, Lim Wei",2025,"An intelligent, compact wearable pressure-strain combo sensor system for continuous fetal movement monitoring",SCIENCE ADVANCES,9,4,11,60
+"Xu, Jingyi",2022,Fetal Movement Detection by Wearable Accelerometer Duo Based on Machine Learning,IEEE SENSORS JOURNAL,23,4,11,58
+"Song, Kehui",2024,An intelligent garment for online fetal well-being monitoring,EXPERT SYSTEMS WITH APPLICATIONS,5,4,12,57
+"Zhao, Xin",2019,An IoT-based wearable system using accelerometers and machine learning for fetal movement monitoring,2019 IEEE INTERNATIONAL CONFERENCE ON INDUSTRIAL CYBER PHYSI,13,4,10,43
+"Liu, Linkun",2024,"Wearable Sensors, Data Processing, and Artificial Intelligence in Pregnancy Monitoring: A Review",SENSORS,34,4,11,41
+"Rattanasak, Atcharawan",2025,Lightweight Deep Learning Approaches on Edge Devices for Fetal Movement Monitoring,BIOSENSORS-BASEL,3,4,6,38
+"Kazemi, Kianoosh",2025,A Novel Wearable-Based Fetal Movement Localization System Using Machine Learning,2025 IEEE SENSORS,0,4,8,31
+"Somathilake, Eranda",2022,Assessment of Fetal and Maternal Well-Being During Pregnancy Using Passive Wearable Inertial Sensor,IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT,7,4,8,29
+"Ashik, Arshad Kalathil",2025,A machine learning model for assessing fetal health during pregnancy,FRONTIERS IN BIOENGINEERING AND BIOTECHNOLOGY,1,4,6,23
+"Altini, Marco",2016,Detection of Fetal Kicks Using Body-Worn Accelerometers During Pregnancy: Trade-offs Between Sensors Number an,2016 38TH ANNUAL INTERNATIONAL CONFERENCE OF THE IEEE ENGINE,27,4,7,22
+"Liu, Jianli",2021,FETAL MOVEMENT SIGNAL DETECTION METHOD BASED ON MULTIPLE PRESSURE SENSORS,JOURNAL OF MECHANICS IN MEDICINE AND BIOLOGY,3,4,5,17
+"Ribes, Sophie",2015,MULTIDIMENSIONAL ULTRASOUND DOPPLER SIGNAL ANALYSIS FOR FETAL ACTIVITY MONITORING,ULTRASOUND IN MEDICINE AND BIOLOGY,3,4,2,13
+"Ribes, S.",2011,Support-Vector-Machines based multidimensional signal classification for fetal activity characterization,"MEDICAL IMAGING 2011: ULTRASONIC IMAGING, TOMOGRAPHY, AND TH",0,4,2,12
+"Ouypornkochagorn, Taweechai",2023,Fetal Movement Detection With a Wearable Acoustic Device,IEEE SENSORS JOURNAL,7,4,3,9
+"Ahmedova, Afiyze",2026,"Wearable health-tracking technologies in pregnancy: capabilities, clinical evidence, and implementation challe",PHARMACIA,2,4,2,6
+"Abburi, Radha",2024,Adopting artificial intelligence algorithms for remote fetal heart rate monitoring and classification using we,APPLIED SOFT COMPUTING,4,4,1,4
+"Wahyuni, Yuli",2025,Optimizing Fetal Health Prediction Using Machine Learning on Biocompatible Sensor Data,INTERNATIONAL JOURNAL OF ADVANCED COMPUTER SCIENCE AND APPLI,0,4,1,3
+Ye YaLan,2009,An efficient semi-blind source extraction algorithm and its applications to biomedical signal extraction,SCIENCE IN CHINA SERIES F-INFORMATION SCIENCES,17,5,3,24
+"Ye, Yalan",2007,A robust extraction algorithm based on a specific kurtosis value range,ICNC 2007: THIRD INTERNATIONAL CONFERENCE ON NATURAL COMPUTA,0,5,3,23
+"Ye, Yalan",2008,A robust and non-invasive fetal electrocardiogram extraction algorithm in a semi-blind way,IEICE TRANSACTIONS ON FUNDAMENTALS OF ELECTRONICS COMMUNICAT,3,5,2,19
+"Nandini, K.",2025,Intelligent maternal-fetal healthcare monitoring and abnormality detection using deep belief networks optimize,BIOMEDICAL SIGNAL PROCESSING AND CONTROL,2,6,3,17
+"Nandini, K.",2025,IoT assisted fetal health classification using mother optimization algorithm with deep learning approach on ca,SCIENTIFIC REPORTS,2,6,2,12
+"Signorini, MG",2000,Classification of fetal pathologies through fuzzy inference systems based on a multiparametric analysis of fet,"COMPUTERS IN CARDIOLOGY 2000, VOL 27",15,7,2,9
+"Arduini, D",2001,Fuzzy logic in the management of new perinatal variables,PERINATAL MEDICINE OF THE NEW MILLENNIUM,2,7,1,6

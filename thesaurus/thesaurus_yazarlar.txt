@@ -1,0 +1,43 @@
+label	replace by
+Abry, P.	Abry, Patrice
+Alaskar, Haya	Al-Askar, Haya
+Anzanpour, A.	Anzanpour, Arman
+Axelin, A.	Axelin, Anna
+Chudacek, V.	Chudacek, Vaclav
+De Jonckheere, J.	de Jonckheere, Julien
+De Jonckheere, Julien	de Jonckheere, Julien
+Doret, M.	Doret, Muriel
+Frecon, J.	Frecon, Jordan
+Girault, J. M.	Girault, Jean-Marc
+Hamilton, E	Hamilton, Emily F.
+Hussain, Abir	Hussain, Abir Jaffar
+Hussain, Abir Jaafar	Hussain, Abir Jaffar
+Idowu, Ibrahim	Idowu, Ibrahim Olatunji
+Jezewski, J.	Jezewski, Janusz
+Jezewski, M.	Jezewski, Michal
+Koehl, L.	Koehl, Ludovic
+Kouame, D.	Kouame, Denis
+Krishnan, Anita	Krishnan, Anita N.
+Leonarduzzi, R.	Leonarduzzi, Roberto
+Likitalo, S.	Likitalo, Susanna
+Magenes, G	Magenes, Giovanni
+Perrotin, F.	Perrotin, Franck
+Pustelnik, N.	Pustelnik, Nelly
+Ribes, S.	Ribes, Sophie
+Rooijakkers, Michiel	Rooijakkers, Michiel J.
+Samuel, Oluwarotimi William	Samuel, Oluwarotimi Williams
+Signorini, MG	Signorini, Maria Gabriella
+Signorini, Maria G.	Signorini, Maria Gabriella
+Spilka, J.	Spilka, Jiri
+Tartare, G.	Tartare, Guillaume
+Vullings, R.	Vullings, Rik
+Warrick, P	Warrick, Philip A.
+Warrick, P. A.	Warrick, Philip A.
+Warrick, Philip	Warrick, Philip A.
+Wrobel, J.	Wrobel, Janusz
+Xu, Lihua	Xu, Li-Hua
+Ye YaLan	Ye, Yalan
+Zeng, X.	Zeng, Xianyi
+Zhao, X.	Zhao, Xin
+de L'Aulnoit, Agathe Houze	de l'Aulnoit, Agathe Houze
+van Laar, Judith	van Laar, Judith O. E. H.

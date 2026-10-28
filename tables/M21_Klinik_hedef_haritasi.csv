@@ -1,0 +1,11 @@
+﻿Kod,Hedef,n,Yuzde_korpus,P3_n,P3_yuzde,Onde_gelen_modalite,Onde_gelen_modalite_n,Derin_ogrenme_yuzde,Giyilebilir_baglantili_yuzde,Birincil_tahmin_calismasi_n,Gozlenen_sonuc_referansi_n,Derleme_n
+T1,"Fetal compromise, acidaemia or condition at birth",48,21.1,27,56.2,CTG,43,27.1,10.4,37.0,13.0,2
+T2,Preterm birth or preterm labour,27,11.9,17,63.0,EHG,25,14.8,11.1,19.0,19.0,4
+T3,"Labour onset, progress or induction",12,5.3,6,50.0,EHG,9,8.3,16.7,,,1
+T4,Uterine contraction monitoring,6,2.6,6,100.0,EHG,6,16.7,50.0,,,3
+T5,Fetal arrhythmia or congenital heart disease,11,4.8,9,81.8,fECG,10,45.5,18.2,,,1
+T6,Fetal growth restriction,6,2.6,0,0.0,CTG,4,16.7,0.0,,,0
+T7,Reduced fetal movement or stillbirth,6,2.6,6,100.0,Fetal movement,4,16.7,66.7,,,0
+T8,Mode of birth,7,3.1,4,57.1,CTG,6,28.6,14.3,,,0
+ANY,Any predefined problem term,102,44.9,62,60.8,CTG,52,23.5,13.7,56.0,32.0,7
+NONE,No predefined problem term,125,55.1,86,68.8,CTG,62,33.6,32.8,,,9

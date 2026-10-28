@@ -1,0 +1,13 @@
+label	replace by
+Peoples R China	China
+England	United Kingdom
+Scotland	United Kingdom
+Wales	United Kingdom
+North Ireland	United Kingdom
+U Arab Emirates	United Arab Emirates
+Usa	United States
+USA	United States
+Turkiye	Turkey
+Czech Republic	Czechia
+Bosnia & Herceg	Bosnia and Herzegovina
+Trinid & Tobago	Trinidad and Tobago

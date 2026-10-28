@@ -1,0 +1,28 @@
+﻿UT,PY,DT,Modalite,TI,Karar,Gerekce
+WOS:000876691300050,2013,Proceedings Paper,M2_EHG_TOCO,Comparison between Using Linear and Non-linear Features to Classify Uterine Electromyography Signals of Term and Preterm Deliveries,1,Classification of preterm and term deliveries
+WOS:000345518100037,2014,Proceedings Paper,M2_EHG_TOCO,Evaluation of Advanced Artificial Neural Network Classification and Feature Extraction Techniques for Detecting Preterm Births Using EHG Records,1,Records labelled by delivery at term or preterm
+WOS:000345518700022,2014,Proceedings Paper,M2_EHG_TOCO,Feature Analysis of Uterine Electrohystography Signal Using Dynamic Self-organised Multilayer Network Inspired by the Immune Algorithm,1,Features ranked for term and preterm records
+WOS:000352618900014,2014,Proceedings Paper,M2_EHG_TOCO,Advance Artificial Neural Network Classification Techniques Using EHG for Detecting Preterm Births,1,Records labelled by delivery at term or preterm
+WOS:000375170000006,2016,Article,M2_EHG_TOCO,Advanced artificial neural network classification for detecting preterm births using EHG records,1,Records labelled by delivery at term or preterm
+WOS:000416507300022,2018,Article,M2_EHG_TOCO,Identification of preterm birth based on RQA analysis of electrohysterograms,1,Groups defined by delivery within or after 7 days
+WOS:000447193800002,2018,Article,M2_EHG_TOCO,Uterine EMG Signals Spectral Analysis for Pre-Term Birth Prediction,1,Preterm and term labour prediction on a benchmark database
+WOS:000495606500045,2019,Proceedings Paper,M2_EHG_TOCO,A Critical Look at Studies Applying Over-Sampling on the TPEHGDB Dataset,1,Predictive baseline on the Term-Preterm EHG database
+WOS:000529790700141,2019,Proceedings Paper,M2_EHG_TOCO,Characterization of Term and Preterm Deliveries using Electrohysterograms Signatures,1,Term and preterm deliveries in the Term-Preterm EHG database
+WOS:000600940300001,2020,Article,M1_CTG_FHR; M2_EHG_TOCO; M3_fECG,Non-invasive Fetal Electrocardiography for Intrapartum Cardiotocography,0,"Fetal heart rate detection study, preterm pregnancy mentioned as background"
+WOS:000691634400002,2021,Article,M2_EHG_TOCO,Preterm-term birth classification using EMD-based time-domain features of single-channel electrohysterogram data,1,Preterm and term birth classification
+WOS:001223047200016,2021,Article,M4_fMCG_MMG,Application of noninvasive magnetomyography in labour imminency prediction for term and preterm pregnancies and ethnicity specific labour prediction,1,Labour imminency prediction for term and preterm deliveries
+WOS:000710786300006,2022,Review,M2_EHG_TOCO,Review on EHG signal analysis and its application in preterm diagnosis,0,Review
+WOS:000783278900003,2022,Article,M2_EHG_TOCO,Bio-process inspired characterization of pregnancy evolution using entropy and its application in preterm birth detection,1,Preterm birth prediction
+WOS:000819832600007,2022,Article,M2_EHG_TOCO,Network Theory Based EHG Signal Analysis and its Application in Preterm Prediction,1,Classifiers trained on the Term-Preterm EHG database
+WOS:001307001000002,2022,Article,M2_EHG_TOCO,Novel uterine contraction signals decomposition for enhanced preterm and birth imminency prediction,1,Preterm delivery and delivery imminency prediction
+WOS:000917777600001,2023,Article,M2_EHG_TOCO,Enhancing classification of preterm-term birth using continuous wavelet transform and entropy-based methods of electrohysterogram signals,1,Groups of women with preterm and term labour
+WOS:000963557700001,2023,Article,M2_EHG_TOCO,"On the prediction of premature births in Hispanic labour patients using uterine contractions, heart beat signals and prediction machines",1,Partition of preterm and term labour patients
+WOS:000972542400001,2023,Article,M2_EHG_TOCO,End-to-end learning with interpretation on electrohysterography data to predict preterm birth,1,Preterm birth prediction on the Term-Preterm EHG database
+WOS:001272597200001,2024,Article,M2_EHG_TOCO,Automatic semantic segmentation of EHG recordings by deep learning: An approach to a screening tool for use in clinical practice,0,Segmentation of physiological and artefacted EHG segments
+WOS:001504136600014,2025,Article,,LaborEase: An Artificial Intelligence-Based Wearable Electrohysterography Device for Preterm Pregnancy Detection,1,Preterm or term classification with the Term-Preterm EHG database
+WOS:001554496000001,2025,Article,M2_EHG_TOCO,Greylag Goose Optimization and Deep Learning-Based Electrohysterogram Signal Analysis for Preterm Birth Risk Prediction,1,Preterm birth classification
+WOS:001619307500001,2026,Article,M2_EHG_TOCO; M3_fECG,"Electrohysterography in modern obstetrics: Advances in signal processing, machine learning, and clinical applications",0,Review published as an article
+WOS:001685465100001,2026,Review,M2_EHG_TOCO,Use of uterine activity to predict preterm birth by artificial intelligence assisted models: a narrative systematic review,0,Review
+WOS:001735223400001,2026,Article,M2_EHG_TOCO,Automated early labor detection using graph theory based attention U-Net 3+model,0,"Labour detection from contraction bursts, delivery timing not stated"
+WOS:001782745800001,2026,Review,M2_EHG_TOCO,Automatic detection of uterine contractions before and during labor using EHG: A systematic review,0,Review
+WOS:001848142400001,2026,Review,M1_CTG_FHR; M2_EHG_TOCO,"Electrohysterography for Uterine Contractility Monitoring: Measurement Principles, Clinical Evidence, and Reporting Recommendations",0,Review

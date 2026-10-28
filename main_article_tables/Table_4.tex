@@ -1,0 +1,20 @@
+\begin{table*}[!t]
+\caption{Signal modalities and method family labels.}
+\label{tab:modality}
+\centering
+\footnotesize
+\setlength{\tabcolsep}{2pt}
+\begin{tabularx}{\textwidth}{@{}L{3.25cm}*{11}{>{\centering\arraybackslash}X}@{}}
+\toprule
+Signal modality & n & DSP & ML & CNN & \shortstack{RNN/\\LSTM} & Attn. & Gen. & SSM & GNN & LP & XAI \\
+\midrule
+CTG and FHR & 114 & 33 & 49 & 21 & 8 & 8 & 10 & 1 & 2 & 6 & 3 \\
+EHG and tocography & 52 & 12 & 26 & 9 & 5 & 3 & 1 & 1 & 0 & 2 & 3 \\
+Fetal ECG & 56 & 27 & 15 & 10 & 7 & 2 & 5 & 0 & 1 & 3 & 1 \\
+Fetal MCG and MMG & 4 & 0 & 3 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
+Doppler and oximetry & 4 & 0 & 0 & 0 & 0 & 0 & 1 & 0 & 0 & 0 & 0 \\
+Fetal movement & 27 & 8 & 11 & 4 & 1 & 0 & 1 & 0 & 1 & 2 & 0 \\
+\bottomrule
+\end{tabularx}
+\abbrwide{n, records with the modality. Entries are joint label counts. Records may appear in multiple rows and columns. Attn., Transformer or attention. Gen., generative models. SSM, neural state space models. GNN, graph neural networks. LP, learning paradigms. XAI, explainability. DSP, digital signal processing. ML, machine learning. CNN, convolutional neural network. RNN, recurrent neural network. LSTM, long short-term memory. ECG, electrocardiography. EHG, electrohysterography. CTG, cardiotocography. FHR, fetal heart rate. MCG, magnetocardiography. MMG, magnetomyography.}
+\end{table*}

@@ -1,0 +1,13 @@
+﻿Analitik_katman_ve_aile,P1_N,P1_Pay_%,P3_2021_2026_N,P3_2021_2026_Pay_%,P3_2021_2025_N,P3_2021_2025_Pay_%,Pay_farki_yuzde_puani,Yorum
+Model/mimari · Klasik ML,32,76.2,47,31.8,42,35.0,3.2,Ana yön korunmuştur
+Model/mimari · CNN,0,0.0,33,22.3,27,22.5,0.2,Ana yön korunmuştur
+Model/mimari · RNN/LSTM,0,0.0,16,10.8,14,11.7,0.9,Ana yön korunmuştur
+Model/mimari · Transformer/dikkat,0,0.0,11,7.4,7,5.8,-1.6,Ana yön korunmuştur
+Model/mimari · Üretici modeller,1,2.4,15,10.1,13,10.8,0.7,Ana yön korunmuştur
+Model/mimari · Durum uzayı,0,0.0,1,0.7,0,0.0,-0.7,2026 ile sınırlı görünüm
+Model/mimari · Graf,0,0.0,4,2.7,3,2.5,-0.2,Ana yön korunmuştur
+Öğrenme · Paradigmalar,0,0.0,8,5.4,7,5.8,0.4,Ana yön korunmuştur
+Tamamlayıcı · Klasik DSP,17,40.5,44,29.7,35,29.2,-0.5,Ana yön korunmuştur
+Tamamlayıcı · Açıklanabilirlik,0,0.0,8,5.4,6,5.0,-0.4,Ana yön korunmuştur
+Giyilebilir ve bağlantılı izlem,3,7.1,47,31.8,38,31.7,-0.1,Ana yön korunmuştur
+Açık ev bağlamı,0,0.0,13,8.8,9,7.5,-1.3,Ana yön korunmuştur

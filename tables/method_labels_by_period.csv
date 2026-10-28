@@ -1,0 +1,11 @@
+﻿Analitik_katman,Modelleme_yontem_ailesi,P1 (1999-2016),P2 (2017-2020),P3 (2021-2026),P1 (1999-2016) %,P2 (2017-2020) %,P3 (2021-2026) %,Toplam
+Model ve mimari ailesi,A2_Klasik_ML,32,22,47,76.2,59.5,31.8,101
+Model ve mimari ailesi,A3_CNN,0,3,33,0.0,8.1,22.3,36
+Model ve mimari ailesi,A4_RNN_LSTM,0,1,16,0.0,2.7,10.8,17
+Model ve mimari ailesi,A5_Transformer,0,0,11,0.0,0.0,7.4,11
+Model ve mimari ailesi,A6_Uretici,1,1,15,2.4,2.7,10.1,17
+Model ve mimari ailesi,A7_Durum_uzayi,0,0,1,0.0,0.0,0.7,1
+Model ve mimari ailesi,A8_Graf,0,0,4,0.0,0.0,2.7,4
+Öğrenme paradigması,A9_Ogrenme_paradigmasi,0,1,8,0.0,2.7,5.4,9
+Tamamlayıcı yöntemsel boyut,A1_Klasik_DSP,17,14,44,40.5,37.8,29.7,75
+Tamamlayıcı yöntemsel boyut,A10_Aciklanabilirlik,0,0,8,0.0,0.0,5.4,8

@@ -1,0 +1,13 @@
+﻿Gerekce,N,Pay_%
+E8 · yinelenen yayın (aynı çalışmanın başka mecradaki hâli),2,1.0
+"I3 · doküman tipi (editöryal, bildiri özeti, mektup)",4,1.9
+I4 · dil (İngilizce değil),3,1.4
+E6 · veteriner / hayvan çalışması,37,17.8
+E2 · fetal nörogelişim / nörogörüntüleme,30,14.4
+"E1 · görüntü tabanlı yapay zekâ (ultrason, MRG, segmentasyon)",39,18.8
+"E4 · moleküler biyoloji, genetik, omik",10,4.8
+"E9 · obstetrik alan içi, biyosinyal analizi yok (klinik değişken, anket, biyokimyasal belirteç, donanım geliştirme)",15,7.2
+"E3 · fetal olmayan biyosinyal (erişkin, neonatal)",19,9.1
+"E10 · yardımcı kıyaslama veri seti (çalışmanın nesnesi algoritma, biyosinyal değil)",2,1.0
+E7 · hesaplama katmanı yok (klinik çalışma),9,4.3
+"E5 · alan dışı yanlış eşleşme (CTG, fMCG, AI, EHG kısaltma çakışmaları)",38,18.3

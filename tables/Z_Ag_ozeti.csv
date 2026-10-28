@@ -1,0 +1,9 @@
+﻿Ağ,Düğüm,Kenar,Küme,Modülerlik_Q
+A. Anahtar kelime eş-oluşum (min 5) [V1],38,451,5,0.191
+B. P1 eş-oluşum (min 2) [V3],23,89,4,0.428
+B. P2 eş-oluşum (min 2) [V3],32,214,5,0.343
+B. P3 eş-oluşum (min 4) [V3],36,373,4,0.204
+C. Ortak atıf (min 4) [V4],369,13983,5,0.569
+D. Bibliyografik eşleşme (min 3 ortak ref) [V5],190,1336,7,0.63
+E. Ortak yazarlık (min 2) [V6],149,315,31,0.92
+F. Ülke işbirliği (min 2) [V7],40,100,10,0.59

@@ -1,0 +1,39 @@
+﻿Öğe,Sıklık,Derece,Bağlantı_gücü,Küme,Derece_merkeziliği,Arasındalık,Ort_yil
+fetal heart rate,77,37,280,1,1.0,0.0361,2020.2
+cardiotocography,55,34,191,1,0.9189,0.0279,2021.4
+convolutional neural network,16,18,52,1,0.4865,0.0029,2023.0
+nonlinear analysis,16,24,63,1,0.6486,0.0074,2017.1
+fetal heart rate variability,15,21,60,1,0.5676,0.0047,2019.7
+time series analysis,12,18,38,1,0.4865,0.0027,2017.5
+time-frequency analysis,12,30,66,1,0.8108,0.0183,2022.1
+wavelet transform,11,26,54,1,0.7027,0.0083,2016.6
+fetal hypoxia,9,22,44,1,0.5946,0.0061,2021.1
+random forest,6,13,22,1,0.3514,0.0015,2022.7
+fetal monitoring,44,36,164,2,0.973,0.0332,2021.7
+pregnancy,19,27,92,2,0.7297,0.01,2022.7
+artificial intelligence,18,29,92,2,0.7838,0.0128,2023.3
+wearable technology,16,22,59,2,0.5946,0.008,2023.9
+fetal movement,15,18,46,2,0.4865,0.0031,2022.3
+sensors,11,26,61,2,0.7027,0.01,2022.3
+internet of things,9,16,33,2,0.4324,0.0028,2023.3
+doppler ultrasound,6,17,26,2,0.4595,0.0022,2020.5
+telemedicine,5,12,16,2,0.3243,0.0006,2022.2
+fetal electrocardiography,35,25,90,3,0.6757,0.0074,2020.5
+deep learning,31,29,121,3,0.7838,0.0126,2023.9
+electrocardiography,22,24,84,3,0.6486,0.0064,2022.2
+artificial neural network,21,23,71,3,0.6216,0.0071,2016.5
+blind source separation,16,20,56,3,0.5405,0.0055,2020.4
+performance evaluation,12,27,66,3,0.7297,0.0123,2022.4
+adaptive filtering,5,9,14,3,0.2432,0.0002,2025.2
+signal processing,43,35,195,4,0.9459,0.0253,2020.7
+electrohysterography,35,26,133,4,0.7027,0.0079,2022.1
+preterm birth,33,26,131,4,0.7027,0.0074,2021.5
+support vector machine,15,21,64,4,0.5676,0.0054,2019.9
+prediction,12,17,41,4,0.4595,0.0006,2021.2
+clinical decision support system,10,18,39,4,0.4865,0.0017,2021.7
+empirical mode decomposition,9,25,46,4,0.6757,0.0061,2022.1
+machine learning,51,36,198,5,0.973,0.0294,2021.9
+classification,40,32,173,5,0.8649,0.0169,2020.2
+feature extraction,20,34,92,5,0.9189,0.0245,2020.9
+feature selection,6,14,31,5,0.3784,0.0012,2019.7
+phonocardiography,5,15,20,5,0.4054,0.0017,2024.0

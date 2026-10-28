@@ -1,0 +1,76 @@
+{
+  "title": "Artificial intelligence research on fetal and uterine monitoring (1999--2026): a bibliometric analysis of methods, settings and reported clinical evidence",
+  "main_tables": {
+    "1": "Clinical problem terms and task references",
+    "2": "Productive and locally cited sources",
+    "3": "Ten most cited publications",
+    "4": "Signal modality by method family",
+    "5": "Monitoring settings"
+  },
+  "main_figures": {
+    "1": "Selection and workflow",
+    "2": "Annual output and mean citations",
+    "3": "Clinical evidence indicators",
+    "4": "Keyword co-occurrence",
+    "5": "Thematic map",
+    "6": "Annual method shares"
+  },
+  "supp_tables": {
+    "1": "Exclusions",
+    "2": "Assessment definitions and codes",
+    "3": "Development dictionary",
+    "4": "Clinical dictionary",
+    "5": "Task denominators",
+    "6": "Home context",
+    "7": "Validation dictionaries",
+    "8": "Sensitivity analyses"
+  },
+  "supp_figures": {},
+  "archived_main_tables": [
+    "old 1",
+    "old 2",
+    "old 6",
+    "old 7",
+    "complete versions of old 4, 5 and 8"
+  ],
+  "archived_main_figures": [
+    "old 4A",
+    "old 4B",
+    "old 5B",
+    "old 7",
+    "old 8A",
+    "old 8B"
+  ],
+  "archived_supp_tables": [
+    "old S2",
+    "old S6 full log",
+    "old S7",
+    "old S8",
+    "old S9",
+    "old S10",
+    "old S11",
+    "old S12",
+    "old S15",
+    "old S16",
+    "old S17"
+  ],
+  "archived_supp_figures": [
+    "old S1",
+    "old S2",
+    "old S3",
+    "old S4 A/B/C together",
+    "old S5",
+    "old S6"
+  ],
+  "search_strategy": {
+    "main": "Materials and methods / Search and eligibility: abbreviated three-block Boolean strategy",
+    "supplementary": "Methods S1: complete executable query",
+    "package": "search_strategy.txt"
+  },
+  "original_display_identifiers": "Extended source filenames use analysis identifiers; see PRESENTATION_INDEX.md.",
+  "assessment": {
+    "eligibility": "Two independent reviewers",
+    "included_records": "Assessment against predefined criteria",
+    "external_testing": "Two records; definitions and context decisions in EVIDENCE_DEFINITIONS.md"
+  }
+}

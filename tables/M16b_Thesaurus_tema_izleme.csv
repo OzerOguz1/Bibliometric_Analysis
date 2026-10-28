@@ -1,0 +1,9 @@
+﻿Tema_cekirdegi,Duzey,Izlenen_terimler,Terim_sikliklari,Topluluklar,Esik_alti_veya_yok,Ayni_toplulukta
+CTG ve fetal kalp hizi,Ham DE ve ID birlesimi,fetal heart rate; cardiotocography,fetal heart rate=36; cardiotocography=34,1; 1,,1
+CTG ve fetal kalp hizi,Tam 394 kuralli normalizasyon,fetal heart rate; cardiotocography,fetal heart rate=77; cardiotocography=55,1; 1,,1
+Fetal EKG cikarimi,Ham DE ve ID birlesimi,fetal electrocardiogram; abdominal ecg; ecg extraction,fetal electrocardiogram=10; abdominal ecg=7; ecg extraction=8,2; 2; 2,,1
+Fetal EKG cikarimi,Tam 394 kuralli normalizasyon,fetal electrocardiography; electrocardiography; blind source separation,fetal electrocardiography=35; electrocardiography=22; blind source separation=16,3; 3; 3,,1
+EHG ve erken dogum,Ham DE ve ID birlesimi,electrohysterography; preterm birth; prediction,electrohysterography=9; preterm birth=6; prediction=11,3; 3; 3,,1
+EHG ve erken dogum,Tam 394 kuralli normalizasyon,electrohysterography; preterm birth; prediction,electrohysterography=35; preterm birth=33; prediction=12,4; 4; 4,,1
+Giyilebilir ve baglantili izlem,Ham DE ve ID birlesimi,fetal movement; internet of things; pregnancy,fetal movement=7; internet of things=8; pregnancy=15,4; 4; 4,,1
+Giyilebilir ve baglantili izlem,Tam 394 kuralli normalizasyon,fetal movement; internet of things; wearable technology,fetal movement=15; internet of things=9; wearable technology=16,2; 2; 2,,1

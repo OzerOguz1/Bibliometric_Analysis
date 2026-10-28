@@ -1,0 +1,395 @@
+label	replace by
+heart-rate	fetal heart rate
+biomedical signal processing	signal processing
+labor	preterm birth
+term	
+system	
+guidelines	
+signals	
+fetal heart-rate	fetal heart rate
+fetal electrocardiogram	fetal electrocardiography
+risk	
+abdominal ecg	fetal electrocardiography
+monitoring	fetal monitoring
+accuracy	performance evaluation
+electrical-activity	electrohysterography
+delivery	preterm birth
+ecg extraction	fetal electrocardiography
+electrocardiogram	electrocardiography
+ecg	electrocardiography
+preterm delivery	preterm birth
+electrohysterogram	electrohysterography
+approximate entropy	nonlinear analysis
+fetus	fetal monitoring
+biomedical monitoring	fetal monitoring
+fetal heart rate (fhr)	fetal heart rate
+acidemia	fetal hypoxia
+fetal	fetal monitoring
+extraction	
+computerized analysis	cardiotocography
+agreement	
+components	
+heart-rate-variability	fetal heart rate variability
+complexity	nonlinear analysis
+fhr	fetal heart rate
+fetal movement detection	fetal movement
+neural network	artificial neural network
+svm	support vector machine
+artificial neural networks	artificial neural network
+birth	preterm birth
+algorithm	
+rate-variability	fetal heart rate variability
+signal	
+parameters	
+framework	
+rate signal	fetal heart rate
+home	
+fetal electrocardiogram (fecg)	fetal electrocardiography
+uterine electromyography	electrohysterography
+electrodes	sensors
+uterine activity	electrohysterography
+source separation	blind source separation
+identification	
+spectrogram	time-frequency analysis
+wearable sensors	wearable technology
+recording	
+wearable device	wearable technology
+pregnancy monitoring	fetal monitoring
+ctg	cardiotocography
+sensitivity	performance evaluation
+electronic fetal monitoring	cardiotocography
+propagation	
+entropy	nonlinear analysis
+separation	
+machine	
+indexes	
+time-series	time series analysis
+recordings	
+computer-analysis	
+pressure	
+network	
+maternal perception	fetal movement
+classification algorithms	machine learning
+principal component analysis	blind source separation
+cnn	convolutional neural network
+fetal ecg extraction	fetal electrocardiography
+data mining	machine learning
+convolutional neural networks	convolutional neural network
+wearable system	wearable technology
+pediatrics	
+neonatology	
+fetal ecg	fetal electrocardiography
+preterm labor	preterm birth
+fecg	fetal electrocardiography
+pattern recognition	machine learning
+fetal health	fetal monitoring
+neural networks	artificial neural network
+cardiotocography (ctg)	cardiotocography
+signal classification	classification
+electromyography	electrohysterography
+support vector machines	support vector machine
+spectral analysis	time-frequency analysis
+cardiotocograph	cardiotocography
+preterm birth prediction	preterm birth
+mhealth	telemedicine
+time-series analysis	time series analysis
+cardiotocogram	cardiotocography
+decision support	clinical decision support system
+labour prediction	preterm birth
+classifier	classification
+neural-network	artificial neural network
+figo	
+wavelet analysis	wavelet transform
+feature-selection	feature selection
+time	
+internet	
+things	
+state	
+electrocardiogram extraction	fetal electrocardiography
+ultrasound	doppler ultrasound
+fetuses	fetal monitoring
+emg	electrohysterography
+quantification	
+diffusion models	diffusion model
+embedded system	edge computing
+intrapartum	
+ehg signal processing	electrohysterography
+ehg	electrohysterography
+uterine emg	electrohysterography
+decision support systems	clinical decision support system
+fetal heart rate monitoring	fetal heart rate
+textile electrodes	sensors
+independent component analysis	blind source separation
+deep neural networks	deep learning
+real-time monitoring	real time monitoring
+biomedical signal processing and analysis	signal processing
+non-invasive fetal ecg extraction	fetal electrocardiography
+bp neural network	artificial neural network
+discrete wavelet transform	wavelet transform
+electrohysterography (ehg)	electrohysterography
+term delivery	preterm birth
+preterm prediction	preterm birth
+convolutional neural network (cnn)	convolutional neural network
+random forest (rf)	random forest
+artificial intelligence (ai)	artificial intelligence
+data science	machine learning
+acoustic sensor	phonocardiography
+uterine contraction	electrohysterography
+medical signal processing	signal processing
+time-domain analysis	time domain analysis
+explainable ai	explainable artificial intelligence
+signal separation	blind source separation
+wavelet transforms	wavelet transform
+filtering	adaptive filtering
+fetal r-peak detection	fetal r peak detection
+maternal health	pregnancy
+cardiotocography monitoring	cardiotocography
+intelligent systems	artificial intelligence
+cybernetics	
+electromagnetism	
+obstetrics	pregnancy
+emd	empirical mode decomposition
+fetal electrocardiography (fecg)	fetal electrocardiography
+fetal health monitoring	fetal monitoring
+arrhythmia	
+fetal heart	fetal heart rate
+specificity	performance evaluation
+heart beat	fetal heart rate
+uterine contractions	electrohysterography
+remote monitoring	telemedicine
+biosensors	sensors
+time series	time series analysis
+heart rate variability	fetal heart rate variability
+big data	cloud computing
+frequency-analysis	time-frequency analysis
+empirical mode	empirical mode decomposition
+variability	fetal heart rate
+features	feature extraction
+contractions	electrohysterography
+spectral-analysis	time-frequency analysis
+intrapartum cardiotocography	cardiotocography
+risk-factors	
+muscle	electrohysterography
+model	
+heart-rate signal	heart rate signal
+dimension	
+r-peak detection	r peak detection
+dynamics	
+selection	
+numerical-analysis	
+women	
+sensor	sensors
+health-care	health care
+machine learning algorithms	machine learning
+healthcare	
+knowledge distillation	low-power design
+independent component analysis (ica)	blind source separation
+blind source separation (bss)	blind source separation
+blind source extraction (bse)	blind source extraction
+uterine contractions detection	electrohysterography
+term/preterm birth prediction	preterm birth
+pregnancy/labor classification	preterm birth
+bio-medical systems	bio medical systems
+pca	blind source separation
+congenital heart disease (chd)	congenital heart disease
+abdominal ecg (aecg)	fetal electrocardiography
+spatio-temporal attention	spatio temporal attention
+graph neural network (gnn)	graph neural network
+state space model	state-space model
+lightweight network	low-power design
+non-invasive monitoring	non invasive monitoring
+classification algorithm	classification
+deep convolutional neural network	convolutional neural network
+bss	blind source separation
+pre-natal diagnostics	pre natal diagnostics
+maternal-fetal health	maternal fetal health
+non-invasive fetal ecg	fetal electrocardiography
+non-invasive	non invasive
+ai	artificial intelligence
+explainable artificial intelligence (xai)	explainable artificial intelligence
+short-time fourier transform	time-frequency analysis
+time series data	time series analysis
+features extraction	feature extraction
+sparse support vector machine (s-svm)	sparse support vector machine
+area under the curve (auc)	area under the curve
+receiver operating curve (roc)	receiver operating curve
+bi-directional long short-term memory (bilstm)	bi directional long short term memory
+inertial measurement units (imus)	inertial measurement units
+single-channel fecg extraction	single channel fecg extraction
+ensemble empirical mode decomposition (eemd)	empirical mode decomposition
+one-dimensional convolutional neural network (1d cnn)	one dimensional convolutional neural network
+intrinsic mode functions (imfs)	empirical mode decomposition
+non-invasive home fetal monitoring	non invasive home fetal monitoring
+rnn	recurrent neural network
+low-power architecture	low power architecture
+pattern classification	classification
+signal analysis	signal processing
+k-means clustering	k means clustering
+domain-adversarial training of neural network	domain adversarial training of neural network
+anfis (adaptive neuro fuzzy inference system)	fuzzy logic
+a-ecg	a ecg
+m-ecg and neural network	m ecg and neural network
+generative adversarial network (gan)	generative adversarial network
+deep learning models	deep learning
+convolutional neural networks (cnns)	convolutional neural network
+adaptive neuro fuzzy inference system (anfis)	adaptive neuro fuzzy inference system
+non-linear system	non linear system
+trees (botanical)	trees
+uterine electromyography (uemg)	electrohysterography
+spatial-temporal graph convolutional network	spatial temporal graph convolutional network
+pulse oximetry	photoplethysmography
+estimation	
+signal denoising	adaptive filtering
+heart rate	fetal heart rate
+gray level co-occurrence matrix	gray level co occurrence matrix
+image -based time-frequency analysis	image based time frequency analysis
+electrohysterography(ehg)	electrohysterography
+auc	performance evaluation
+multiresolution principal component analysis (mr-pca)	multiresolution principal component analysis
+real-time pattern detection	real time pattern detection
+non-linear filter	non linear filter
+physionet non-invasive fecg database	physionet non invasive fecg database
+time-varying autoregressive modeling	time varying autoregressive modeling
+sample entropy	nonlinear analysis
+abdominal electrocardiogram	fetal electrocardiography
+stockwell transform (st)	stockwell transform
+hilbert huang transform (hht)	hilbert huang transform
+resnet	convolutional neural network
+wearable systems	wearable technology
+quasi-periodic	quasi periodic
+term-preterm deliveries prediction	term preterm deliveries prediction
+non-linear signal processing techniques	non linear signal processing techniques
+multi-scale segmentation	multi scale segmentation
+eeg	
+chaos	nonlinear analysis
+fractal dimension	nonlinear analysis
+ica	blind source separation
+fetal heart rate signal	fetal heart rate
+band-pass filters	band pass filters
+filters	adaptive filtering
+microcontrollers	edge computing
+abdominal electrocardiography (aecg)	abdominal electrocardiography
+matched-filter convolution	matched filter convolution
+prenatal care	pregnancy
+lstm	long short-term memory
+auto-diagnosis	auto diagnosis
+clinical decision support	clinical decision support system
+one-dimensional convolutional neural network	convolutional neural network
+real-time classification	real time classification
+multi-scale convolutions	multi scale convolutions
+frequency-aware channel attention module	frequency aware channel attention module
+health-iot	health iot
+vit	transformer
+system building-blocks	system building blocks
+1d-cnn	convolutional neural network
+bilstm	recurrent neural network
+karhunen-loeve decomposition	karhunen loeve decomposition
+biosignal processing	signal processing
+short-term variability (stv)	short term variability
+machine learning (ml)	machine learning
+cardiotocograph (ctg)	cardiotocography
+adaboost	ensemble learning
+time-domain features	time domain features
+support vector machines (svm)	support vector machine
+cardiotocography(ctg)	cardiotocography
+least squares support vector machines (ls-svms)	support vector machine
+learning (artificial intelligence)	
+non-invasive fetal monitoring	non invasive fetal monitoring
+acoustic sensors	phonocardiography
+maternal ecg	electrocardiography
+fetal heart-rate monitoring	fetal heart rate
+svm classifier	support vector machine
+signal quality index	signal quality assessment
+auto-encoder	autoencoder
+long short-term memory (lstm)	long short-term memory
+fetal electrocardiography ( ecg)	fetal electrocardiography
+non-invasive fetal electrocardiography	non invasive fetal electrocardiography
+cross-domain feature extraction	cross domain feature extraction
+hypoxic-ischemic encephalopathy	hypoxic ischemic encephalopathy
+adaptive filters	adaptive filtering
+wearable sensor	wearable technology
+decision support system	clinical decision support system
+vibrational-acoustic sensor array	vibrational acoustic sensor array
+self-calibrating	self calibrating
+spectral attention (sa)	spectral attention
+fetal movements	fetal movement
+non-invasive foetal monitoring	non invasive foetal monitoring
+adaptive maternal qrs removal (aqrsr)	adaptive maternal qrs removal
+joint blind source separation (jbss)	joint blind source separation
+integrated stockwell transform (s-transform)	integrated stockwell transform
+measurement	
+data-dependent thresholding	data dependent thresholding
+wearables	wearable technology
+wearable devices	wearable technology
+medical decision-making	medical decision making
+squid	fetal magnetocardiography
+fetal magnetocardiogram	fetal magnetocardiography
+fetal phonocardiography (fpcg)	phonocardiography
+segmentation	
+fetal heart sound	phonocardiography
+ai on-chip	ai on chip
+fetal compromise	fetal hypoxia
+time-series classification	time series analysis
+hrv	fetal heart rate variability
+high-risk pregnancies	high risk pregnancies
+hypoxic-ischaemic encephalopathy	hypoxic ischaemic encephalopathy
+magnetomyography	fetal magnetocardiography
+self-supervised contrastive learning	self supervised contrastive learning
+clinical decision support systems	clinical decision support system
+fetal states	fetal monitoring
+scale-free	scale free
+fetal heart rate analysis	fetal heart rate
+gated recurrent unit	recurrent neural network
+n-beats	n beats
+forecasting	prediction
+applications	
+non-linear methods	non linear methods
+phonocardiogram	phonocardiography
+review	
+statistical learning	machine learning
+heart rate (hr)	fetal heart rate
+beat-to-beat measurement principle	beat to beat measurement principle
+resuscitative endovascular balloon occlusion of the aorta (reboa)	resuscitative endovascular balloon occlusion of the aorta
+time-series representation	time series representation
+fetal assessment	fetal monitoring
+electrohysterogram (ehg)	electrohysterography
+imbalanced data	dataset
+over-sampling	over sampling
+intrapartum monitoring	cardiotocography
+time-series forecasting	time series forecasting
+graph neural networks	graph neural network
+term labor	preterm birth
+time-frequency	time-frequency analysis
+real-time	real time
+detrended fluctuation analysis	nonlinear analysis
+short-term	short term
+gestational-age	gestational age
+neural-networks	artificial neural network
+series	
+signal quality	signal quality assessment
+models	
+information-theory	information theory
+performance	performance evaluation
+cardiotocographs	cardiotocography
+convolutional neural-networks	convolutional neural network
+epsilon-hyperballs	epsilon hyperballs
+support	
+computer-system	computer system
+gestation	pregnancy
+heart-rate estimation	heart rate estimation
+short-term variation	short term variation
+body-mass index	body mass index
+cesarean-section	cesarean section
+rate-variability analysis	rate variability analysis
+heart-rate patterns	heart rate patterns
+iot	internet of things
+magnetocardiography	fetal magnetocardiography
+cardiovascular-disease	cardiovascular disease
+developing-world	developing world
+pregnant-women	pregnant women
+simulation	
+birth asphyxia	fetal hypoxia
+heart-rate signals	heart rate signals
+uterine smooth-muscle	uterine smooth muscle
+physiological time-series	physiological time series
+body-temperature	body temperature

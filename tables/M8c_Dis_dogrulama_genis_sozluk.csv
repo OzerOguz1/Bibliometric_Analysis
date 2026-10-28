@@ -1,0 +1,7 @@
+﻿UT,PY,DT,Orijinal_sozluk,Genis_sozluk,Eslesen_terimler,Baglam_karari
+WOS:000484377700017,2019,Review,False,True,multicenter,Review calling for large multicentre datasets as future work
+WOS:000705331100003,2021,Article,True,True,cross-dataset,"Applied test, cross dataset evaluation across three datasets; validation independence not determined from the abstract"
+WOS:001133788303150,2023,Proceedings Paper,False,True,external dataset,Primary study stating that an external dataset is still needed
+WOS:001215731000001,2024,Article,False,True,multicenter,"Applied test, hospital to home domain adaptation; separation of adaptation and final testing not established from the abstract"
+WOS:001685465100001,2026,Review,True,True,external validation,Review reporting that external validation evidence was lacking
+WOS:001848142400001,2026,Review,True,True,external validation,Review naming prospective external validation as a future priority

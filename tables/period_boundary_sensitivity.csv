@@ -1,0 +1,10 @@
+﻿Senaryo,Kesimler,Donem,Yil_araligi,N,Klasik_ML_N,Klasik_ML_yuzde,CNN_N,CNN_yuzde,RNN_LSTM_N,RNN_LSTM_yuzde,Giyilebilir_baglantili_N,Giyilebilir_baglantili_yuzde
+Bir yil erken kesim,2015/2019,P1,1999-2015,38,30,78.9,0,0.0,0,0.0,1,2.6
+Bir yil erken kesim,2015/2019,P2,2016-2019,33,21,63.6,2,6.1,0,0.0,5,15.2
+Bir yil erken kesim,2015/2019,P3,2020-2026,156,50,32.1,34,21.8,17,10.9,49,31.4
+Ana kesim,2016/2020,P1,1999-2016,42,32,76.2,0,0.0,0,0.0,3,7.1
+Ana kesim,2016/2020,P2,2017-2020,37,22,59.5,3,8.1,1,2.7,5,13.5
+Ana kesim,2016/2020,P3,2021-2026,148,47,31.8,33,22.3,16,10.8,47,31.8
+Bir yil gec kesim,2017/2021,P1,1999-2017,49,36,73.5,1,2.0,0,0.0,4,8.2
+Bir yil gec kesim,2017/2021,P2,2018-2021,48,28,58.3,5,10.4,2,4.2,9,18.8
+Bir yil gec kesim,2017/2021,P3,2022-2026,130,37,28.5,30,23.1,15,11.5,42,32.3
