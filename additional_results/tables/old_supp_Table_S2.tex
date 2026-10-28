@@ -1,0 +1,39 @@
+\begin{table}[!ht]
+\caption{Network settings, Biblioshiny analyses and summary statistics}
+\centering
+\scriptsize
+\setlength{\tabcolsep}{4pt}
+\begin{tabularx}{\textwidth}{@{}L{2.9cm}YL{1.7cm}rL{1.7cm}rr@{}}
+\toprule
+\multicolumn{7}{@{}l}{\textit{A. VOSviewer networks and Python reconstruction}} \\
+Network & Input and threshold & VOSviewer nodes, links & VOSviewer clusters & Python nodes, links & Louvain clusters & Modularity \\
+\midrule
+Keyword co-occurrence & Mapping corpus, at least 5 occurrences & 38, 451 & 4 & 38, 451 & 5 & 0.191 \\
+Overlay & Same network, mean publication year, scale 2016--2026 & 38, 451 & 4 & -- & -- & -- \\
+P1 keywords, 1999--2016 & 42 records, at least 2 occurrences & 23, 89 & 4 & 23, 89 & 4 & 0.428 \\
+P2 keywords, 2017--2020 & 37 records, at least 2 occurrences & 32, 214 & 5 & 32, 214 & 5 & 0.343 \\
+P3 keywords, 2021--2026 & 148 records, at least 4 occurrences & 36, 373 & 4 & 36, 373 & 4 & 0.204 \\
+Co-citation of references & Measurement corpus, at least 4 citations & 368, 13,924 & 5 & 369, 13,983 & 5 & 0.569 \\
+Bibliographic coupling & Documents, no citation minimum, largest component & 219, 4,988 & 6 & 190, 1,336 & 7 & 0.630 \\
+Author co-authorship & At least 2 records, author thesaurus & 149, 315 & 33 & 149, 315 & 31 & 0.920 \\
+Country collaboration & At least 2 records, country thesaurus & 40, 100 & 13 & 40, 100 & 10 & 0.590 \\
+\midrule
+\multicolumn{7}{@{}l}{\textit{B. Biblioshiny analyses, bibliometrix 5.5.0 in R 4.6.1 run in RStudio}} \\
+Analysis & Corpus and settings & \multicolumn{5}{l}{Output and place of report} \\
+\midrule
+Main information, annual production & Measurement corpus & \multicolumn{5}{l}{Table 2, Fig. 2, growth rate 13.14\% for 1999--2026} \\
+Sources and Bradford's law & Measurement corpus, all sources & \multicolumn{5}{l}{Table 5A, Supplementary Table S7} \\
+Source impact & Measurement corpus, h, g and m indices & \multicolumn{5}{l}{Table 5A} \\
+Most productive authors & Measurement corpus, abbreviated author field, top 20 & \multicolumn{5}{l}{911 authors, Supplementary Fig. S1} \\
+Country of the corresponding author & Measurement corpus, top 20 countries & \multicolumn{5}{l}{Supplementary Table S9} \\
+Most globally cited documents & Measurement corpus, normalised citations & \multicolumn{5}{l}{Table 3} \\
+Most locally cited sources & Measurement corpus, cited reference field & \multicolumn{5}{l}{2,447 sources, Table 5B} \\
+Historiograph & Measurement corpus, 20 nodes requested & \multicolumn{5}{l}{18 records in 3 clusters, Supplementary Fig. S5} \\
+Three field plot & Mapping corpus, countries, authors and keywords, 20 items each & \multicolumn{5}{l}{Supplementary Fig. S2} \\
+Thematic map & Mapping corpus, 60 words, minimum cluster frequency 14, Walktrap & \multicolumn{5}{l}{Fig. 6, 53 terms in 4 clusters} \\
+Thematic evolution & Mapping corpus, cut years 2016 and 2020 & \multicolumn{5}{l}{Fig. 7, 22 flows} \\
+Thematic maps of each period & Mapping corpus, the three periods of thematic evolution & \multicolumn{5}{l}{Supplementary Table S11} \\
+Trend topics & Mapping corpus, at least 5 occurrences, up to 3 terms per year & \multicolumn{5}{l}{17 terms, Supplementary Fig. S3} \\
+\bottomrule
+\end{tabularx}
+\end{table}

@@ -1,0 +1,18 @@
+\begin{table}[!ht]
+\caption{Sensitivity of the keyword network to threshold and partition algorithm}
+\centering
+\small
+\begin{tabular}{@{}rrrrrrr@{}}
+\toprule
+ & & \multicolumn{2}{c}{Louvain} & \multicolumn{2}{c}{Greedy modularity} & Label propagation \\
+\cmidrule(lr){3-4}\cmidrule(lr){5-6}\cmidrule(lr){7-7}
+Minimum occurrences & Nodes & Clusters & Modularity & Clusters & Modularity & Clusters \\
+\midrule
+3 & 53 & 5 & 0.275 & 4 & 0.254 & 1 \\
+4 & 40 & 5 & 0.203 & 4 & 0.209 & 1 \\
+5 & 38 & 5 & 0.191 & 4 & 0.189 & 1 \\
+6 & 35 & 4 & 0.176 & 4 & 0.170 & 1 \\
+8 & 32 & 4 & 0.186 & 4 & 0.186 & 1 \\
+\bottomrule
+\end{tabular}
+\end{table}

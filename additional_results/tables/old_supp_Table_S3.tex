@@ -1,0 +1,21 @@
+\begin{table}[!ht]
+\caption{Coding scheme for each record}
+\centering
+\small
+\begin{tabularx}{\textwidth}{@{}L{4.2cm}Y@{}}
+\toprule
+Layer or axis & Codes and scope \\
+\midrule
+Model and architecture families & A2 classical ML such as support vector machines, tree ensembles and shallow classifiers. A3 CNN including temporal convolutional networks. A4 RNN and LSTM including gated recurrent units. A5 Transformer and attention, with foundation model and large language model terms. A6 generative models, namely adversarial networks, variational and other autoencoders, diffusion models, normalising flows and flow matching, deep belief networks and synthetic data generation. A7 neural state space models such as Mamba and structured state space sequence models, excluding Kalman filtering. A8 graph neural networks \\
+Learning paradigms & A9 self supervised learning, transfer learning, domain adaptation and other predefined paradigms \\
+Complementary methodological dimensions & A1 classical digital signal processing used together with AI, A10 explainability \\
+Rules across families & A generic mention of machine learning, deep learning or neural networks assigned no family. Hybrid pipelines received one label for each explicit component. Deep learning families are A3 to A8 \\
+Signal modality & M1 CTG and FHR, M2 EHG and tocography, M3 fetal ECG, M4 fetal magnetocardiography and magnetomyography, M5 Doppler and oximetry, M6 fetal movement \\
+Deployment setting & H1 wearable system, H2 IoT, cloud or remote monitoring, H3 edge or embedded computing, H4 explicit home context. Labels record the targeted or studied setting and do not grade technology readiness or clinical maturity \\
+Composite indicator & Wearable or connected monitoring, H1 or H2 \\
+Evidence level of home context & Data collected at home or outside hospital, target use or technical feasibility, review or substantive discussion \\
+Not coded & Antepartum or intrapartum use and maternal systemic physiology as a separate modality. Predefined clinical problem terms were mapped lexically as described in Section S1.8 \\
+\bottomrule
+\end{tabularx}
+\abbr{AI, artificial intelligence. CNN, convolutional neural network. CTG, cardiotocography. ECG, electrocardiography. EHG, electrohysterography. FHR, fetal heart rate. IoT, Internet of Things. LSTM, long short-term memory. ML, machine learning. RNN, recurrent neural network.}
+\end{table}

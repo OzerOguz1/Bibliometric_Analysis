@@ -1,0 +1,10 @@
+original_file,english_alias
+tables/M22b_Sonuc_referansi_baglam.csv,tables/outcome_reference_context.csv
+tables/M22d_Dogum_zamani_baglam.csv,tables/delivery_timing_context.csv
+tables/M22c_Prospektif_baglam.csv,tables/prospective_evaluation_context.csv
+tables/M22e_Gorev_paydasi.csv,tables/task_denominators.csv
+tables/M17_Donem_siniri_duyarlilik.csv,tables/period_boundary_sensitivity.csv
+tables/S5_Ag_saglamlik.csv,tables/network_robustness.csv
+tables/M16_Thesaurus_duyarlilik.csv,tables/thesaurus_sensitivity.csv
+tables/M1_Mimari_donem.csv,tables/method_labels_by_period.csv
+tables/M5_Modalite_x_mimari.csv,tables/modality_by_method.csv

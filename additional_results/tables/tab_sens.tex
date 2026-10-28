@@ -1,0 +1,23 @@
+\begin{table*}[!t]
+\caption{Summary of the ten sensitivity analyses}
+\label{tab:sens}
+\centering
+\footnotesize
+\begin{tabularx}{\textwidth}{@{}L{3.8cm}L{4.3cm}YL{2.6cm}@{}}
+\toprule
+Analysis & Change from the main specification & Result & Main direction \\
+\midrule
+Reviews excluded & 16 reviews removed, 211 records & Classical DSP 75 to 72, classical ML 101 to 100, CNN 36 to 35, RNN or LSTM 17 to 16, other families unchanged & Preserved \\
+Completed years only & P3 limited to 2021--2025, 120 records & Classical ML 35.0\%, classical DSP 29.2\%, CNN 22.5\%, RNN or LSTM 11.7\%, wearable or connected 31.7\%, home context 7.5\% & Preserved \\
+Earlier period boundaries & Cut years 2015 and 2019 & Classical ML 78.9\%, 63.6\% and 32.1\% in the three periods. CNN 0.0\%, 6.1\% and 21.8\%. Wearable or connected 2.6\%, 15.2\% and 31.4\% & Preserved \\
+Later period boundaries & Cut years 2017 and 2021 & Classical ML 73.5\%, 58.3\% and 28.5\% in the three periods. CNN 2.0\%, 10.4\% and 23.1\%. Wearable or connected 8.2\%, 18.8\% and 32.3\% & Preserved \\
+Records with a family label as denominator & Shares among the 186 records with a family label, 38, 28 and 120 in P1, P2 and P3 & Classical ML 84.2\%, 78.6\% and 39.2\%. CNN 0.0\%, 10.7\% and 27.5\%. RNN or LSTM 0.0\%, 3.6\% and 13.3\% & Preserved \\
+Journal articles only & 77 conference and series records removed, 150 records and 93 sources & First year of CNN 2017 to 2021, RNN or LSTM 2020 to 2022, generative 2016 to 2020. Wearable or connected 0.0\% in 1999--2016, 5.0\% in 2017--2020, 30.0\% in 2021--2023 and 40.3\% in 2024--2026 & Preserved, first years sensitive \\
+Network threshold and algorithm & Thresholds 3, 4, 5, 6 and 8, Louvain, greedy modularity and label propagation & Louvain 5 to 4 clusters with modularity 0.176 to 0.275, greedy modularity 4 clusters with modularity 0.170 to 0.254, label propagation one cluster & Broad structure preserved, partition sensitive \\
+Thematic map threshold & Effective minimum of five occurrences & 38 terms instead of 53 & Preserved \\
+Thesaurus normalisation & Raw keywords compared with normalisation by 394 rules & 63 nodes, 710 links, 4 communities, modularity 0.347 compared with 38 nodes, 451 links, 5 communities, modularity 0.191. Four term cores intact & Cores preserved, fine structure sensitive \\
+Expanded validation dictionary & Closed compounds and terms for cohort, site, device and left out centres added & 6 lexical matches instead of 3, testing on another dataset or setting in 2 records, independence not established from abstracts & Low visibility preserved \\
+\bottomrule
+\end{tabularx}
+\abbrwide{CNN, convolutional neural network. DSP, digital signal processing. LSTM, long short-term memory. ML, machine learning. RNN, recurrent neural network.}
+\end{table*}

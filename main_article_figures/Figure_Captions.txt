@@ -1,0 +1,11 @@
+Figure 1. Record selection (A) and analytical workflow (B).
+
+Figure 2. Annual publication output and mean citations. The hatched bar denotes partial 2026.
+
+Figure 3. Reported evidence indicators across the corpus (A) and task-specific prediction denominators (B).
+
+Figure 4. Keyword co-occurrence network after thesaurus normalisation.
+
+Figure 5. Thematic map of normalised keywords. Bubble size indicates cluster frequency. Dashed lines mark mean centrality and density. The LSTM (long short-term memory) singleton is excluded.
+
+Figure 6. Method family shares. (A) Annual shares, 2014-2026. Asterisk denotes partial 2026. (B) Comparison of 2021-2026 with completed years, 2021-2025.
